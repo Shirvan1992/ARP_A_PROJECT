@@ -6,3 +6,4 @@
 - Used package for the Dashboard creation
   1. Python 'explainerdashboard' package
  
+- The survey data was downloaded from https://osmhhelp.org/research . The surveys from 2016 to 2021 were used in this project. 
