@@ -1,0 +1,2409 @@
+,What is your age?,What is your gender?,Do you *currently* have a mental health disorder?,Have you ever been *diagnosed* with a mental health disorder?,Have you ever sought treatment for a mental health disorder from a mental health professional?,Do you have a family history of mental illness?,Have you had a mental health disorder in the past?
+0,39.0,Male,No,Yes,0,No,Yes
+2,38.0,Male ,No,No,1,No,Maybe
+6,30.0,M,No,No,0,No,No
+17,34.0,Male,No,No,0,No,No
+20,26.0,Male,No,No,0,Yes,Maybe
+21,35.0,male,No,No,0,No,No
+22,25.0,male,No,No,0,I don't know,Maybe
+23,33.0,Male,No,Yes,1,Yes,Yes
+24,38.0,Male,No,No,0,No,No
+25,42.0,male,No,No,0,No,No
+33,37.0,Male ,No,No,0,No,No
+35,33.0,Male,No,No,0,No,No
+39,44.0,Male,No,No,0,I don't know,No
+44,41.0,Male,No,No,0,No,No
+51,27.0,Male,No,No,0,Yes,No
+52,31.0,Male,No,No,0,No,No
+55,31.0,Woman,No,No,0,No,No
+59,40.0,Male,No,No,0,I don't know,No
+62,30.0,Male,No,No,0,No,No
+64,38.0,Male,No,No,0,No,No
+65,35.0,male,No,No,0,No,No
+68,28.0,Male,No,No,0,Yes,Maybe
+70,39.0,Male,No,No,1,No,Yes
+71,28.0,male,No,No,0,No,No
+72,46.0,Male,No,No,0,Yes,No
+73,40.0,male,No,Yes,1,No,Yes
+75,41.0,Male,No,No,0,Yes,No
+77,38.0,F,No,No,0,No,No
+78,33.0,Male ,No,No,0,No,No
+80,21.0,male,No,No,0,No,No
+83,35.0,Male,No,No,0,No,No
+90,33.0,Male,No,Yes,1,I don't know,Yes
+93,17.0,male,No,No,0,No,No
+96,36.0,female,No,No,0,No,No
+97,46.0,M,No,No,0,I don't know,No
+100,40.0,Male,No,No,0,No,No
+102,30.0,Male,No,No,0,Yes,No
+103,28.0,fm,No,No,0,Yes,Maybe
+113,22.0,Male,No,No,1,Yes,No
+115,51.0,Male,No,No,0,No,No
+117,41.0,f,No,Yes,1,Yes,Yes
+121,24.0,Female,No,No,0,I don't know,No
+127,38.0,Male,No,No,0,No,No
+128,34.0,Male,No,No,0,No,No
+129,44.0,Female,No,No,0,No,No
+134,37.0,Male,No,No,0,Yes,No
+135,38.0,Male,No,No,0,No,No
+137,33.0,Male,No,No,0,No,No
+141,26.0,Female,No,No,0,I don't know,No
+147,44.0,Male,No,No,1,No,No
+148,35.0,Genderfluid (born female),No,Yes,0,Yes,Yes
+149,45.0,m,No,No,0,No,No
+152,50.0,F,No,Yes,1,No,Yes
+155,29.0,Male,No,No,0,I don't know,Maybe
+156,37.0,Male,No,No,0,No,No
+158,42.0,Male,No,No,0,No,No
+159,25.0,Male,No,No,0,No,Maybe
+163,55.0,F,No,No,1,I don't know,No
+165,37.0,male,No,No,0,No,No
+166,34.0,female,No,No,0,No,No
+171,35.0,male,No,No,0,No,No
+172,37.0,male,No,No,1,I don't know,Maybe
+175,23.0,Male,No,No,0,No,No
+178,31.0,Male,No,No,0,No,No
+180,37.0,male,No,No,0,I don't know,Maybe
+181,37.0,Male,No,No,0,No,No
+183,23.0,M,No,No,1,Yes,No
+185,29.0,M,No,No,0,No,No
+187,34.0,female,No,No,1,Yes,Maybe
+192,27.0,Male,No,No,0,Yes,No
+198,32.0,Male,No,Yes,1,Yes,Yes
+201,35.0,Male,No,No,0,No,No
+205,24.0,Male,No,No,0,No,No
+206,30.0,Male,No,No,1,Yes,Maybe
+209,37.0,Male,No,No,0,No,No
+210,28.0,Male,No,No,0,No,No
+211,42.0,Male,No,Yes,1,Yes,Yes
+214,30.0,male,No,No,0,No,No
+215,29.0,Male,No,No,0,No,No
+216,25.0,male,No,No,0,No,No
+217,25.0,Male,No,No,0,No,No
+218,24.0,Male,No,No,0,No,No
+221,37.0,M,No,No,0,Yes,No
+222,35.0,Male,No,No,0,No,No
+223,26.0,female,No,Yes,1,Yes,Yes
+224,31.0,Male,No,No,0,I don't know,No
+225,29.0,female,No,No,1,Yes,Maybe
+226,33.0,M,No,Yes,0,Yes,Yes
+227,30.0,M,No,No,0,No,No
+231,27.0,Male,No,No,1,Yes,Yes
+232,26.0,Male,No,No,0,No,No
+233,38.0,Female,No,No,0,Yes,No
+235,30.0,Male,No,No,0,Yes,No
+237,31.0,male,No,No,0,No,No
+239,31.0,m,No,No,0,No,No
+241,28.0,Male,No,No,1,No,Yes
+242,35.0,Female ,No,Yes,1,Yes,Yes
+243,27.0,Male ,No,No,0,I don't know,No
+244,33.0,m,No,No,0,No,Maybe
+248,36.0,M,No,No,0,No,Maybe
+255,36.0,Male,No,No,0,Yes,No
+261,34.0,f,No,No,0,No,No
+262,37.0,M,No,No,1,No,No
+265,38.0,Male,No,No,0,No,Maybe
+267,28.0,female,No,No,1,Yes,No
+271,40.0,Male,No,No,1,Yes,Yes
+273,36.0,Male,No,No,0,I don't know,No
+279,27.0,female/woman,No,No,0,Yes,No
+280,27.0,Cis male,No,No,1,Yes,Maybe
+281,28.0,Male,No,Yes,1,No,Yes
+283,41.0,Male ,No,No,0,Yes,No
+287,31.0,Male.,No,No,0,I don't know,No
+289,33.0,m,No,No,0,Yes,No
+290,29.0,male,No,No,0,No,No
+298,33.0,Female,No,Yes,1,Yes,Maybe
+299,22.0,Male,No,No,0,No,No
+303,56.0,m,No,Yes,0,No,Maybe
+305,39.0,M,No,No,0,No,No
+306,21.0,Male,No,Yes,1,Yes,Yes
+307,31.0,female,No,No,0,No,No
+312,34.0,Male,No,No,0,No,No
+314,31.0,Male,No,No,0,No,No
+316,36.0,Male,No,No,0,No,No
+317,50.0,Male,No,Yes,1,Yes,Yes
+319,47.0,male,No,Yes,1,Yes,Yes
+320,32.0,Female,No,No,1,No,No
+323,26.0,Female,No,No,0,Yes,Maybe
+325,55.0,Female,No,No,0,No,No
+327,34.0,Male,No,No,1,Yes,No
+328,25.0,Male,No,No,0,Yes,No
+329,35.0,male,No,No,0,No,No
+340,25.0,Male,No,No,0,I don't know,No
+342,26.0,Male,No,No,0,No,Maybe
+344,31.0,female,No,No,0,Yes,No
+347,39.0,Male,No,No,0,I don't know,No
+348,27.0,Female,No,No,0,Yes,No
+351,22.0,male,No,No,0,No,No
+352,51.0,Male,No,No,1,I don't know,Maybe
+356,40.0,M,No,No,0,No,No
+360,43.0,M,No,No,0,No,No
+362,45.0,male,No,No,0,No,No
+364,42.0,Male,No,No,0,No,No
+365,28.0,f,No,No,0,No,Yes
+366,28.0,Male,No,No,0,Yes,No
+368,34.0,Male (cis),No,Yes,1,No,Yes
+370,35.0,Female,No,No,0,No,Maybe
+371,42.0,male,No,No,0,No,No
+375,28.0,Male,No,No,0,Yes,No
+376,22.0,F,No,No,0,No,Maybe
+386,41.0,Male,No,No,0,No,No
+387,38.0,F,No,No,1,Yes,No
+390,47.0,female,No,No,0,No,No
+391,26.0,female,No,No,0,No,No
+395,33.0,male,No,No,0,No,No
+397,22.0,man,No,No,1,No,No
+399,42.0,Female,No,Yes,1,Yes,Maybe
+400,34.0,male,No,No,0,I don't know,No
+403,31.0,Female,No,Yes,1,Yes,Yes
+405,26.0,male,No,No,0,I don't know,No
+408,38.0,Male,No,Yes,1,Yes,Yes
+413,32.0,Male,No,Yes,1,No,Yes
+414,32.0,Male,No,No,1,No,Yes
+421,23.0,Female,No,No,0,No,No
+422,30.0,Male,No,Yes,1,Yes,Yes
+425,26.0,Male,No,No,0,No,No
+426,30.0,m,No,No,0,I don't know,No
+427,27.0,f,No,No,0,No,No
+430,35.0,Male,No,No,0,Yes,No
+432,34.0,Male,No,No,1,No,No
+433,27.0,male,No,No,0,No,No
+435,27.0,Male,No,No,0,No,No
+436,31.0,Male,No,Yes,1,No,Yes
+437,26.0,Male,No,No,0,No,No
+439,27.0,male,No,No,0,No,No
+441,34.0,m,No,No,0,I don't know,No
+448,31.0,Male,No,No,0,No,No
+449,31.0,male,No,No,1,No,No
+450,40.0,Male,No,No,0,No,No
+459,38.0,Male,No,No,1,I don't know,Maybe
+463,30.0,M,No,No,0,No,No
+465,28.0,male,No,No,0,No,Maybe
+471,37.0,M,No,No,0,Yes,No
+472,35.0,Male,No,No,0,No,No
+475,27.0,Female,No,No,0,No,Maybe
+477,32.0,Sex is male,No,No,0,Yes,No
+479,28.0,Male,No,No,0,No,Maybe
+480,28.0,M,No,No,0,No,No
+481,32.0,Male,No,Yes,1,Yes,Yes
+488,38.0,male,No,Yes,1,No,Yes
+494,50.0,Male,No,No,0,No,No
+497,36.0,Male,No,No,0,I don't know,No
+506,34.0,M,No,No,0,No,Yes
+509,29.0,Male,No,Yes,1,Yes,Yes
+511,28.0,male,No,No,0,I don't know,No
+513,32.0,Male,No,No,1,Yes,Yes
+516,29.0,M,No,No,0,No,No
+517,23.0,Male,No,No,0,No,No
+521,31.0,Male,No,Yes,1,I don't know,Yes
+522,37.0,M,No,No,0,No,No
+524,28.0,Male,No,No,0,No,Yes
+526,55.0,Male,No,Yes,1,No,Yes
+528,20.0,male,No,No,0,I don't know,No
+529,25.0,Male,No,Yes,1,Yes,Yes
+538,32.0,Male,No,No,0,No,No
+542,36.0,Male,No,No,1,Yes,Maybe
+543,26.0,male,No,No,0,I don't know,No
+544,31.0,Female,No,Yes,1,Yes,Maybe
+545,33.0,Male,No,No,0,Yes,No
+548,32.0,Male,No,Yes,1,Yes,Yes
+549,34.0,male,No,No,0,No,No
+551,32.0,Male,No,No,0,No,No
+552,47.0,Male,No,Yes,1,Yes,Yes
+553,29.0,male,No,No,0,Yes,No
+554,36.0,male,No,Yes,1,I don't know,No
+557,22.0,Male,No,No,0,No,No
+559,19.0,Female,No,No,0,No,No
+560,30.0,Male,No,No,0,No,No
+562,22.0,M,No,No,0,No,No
+563,30.0,male,No,No,0,Yes,No
+564,323.0,Male,No,No,0,Yes,No
+565,33.0,male,No,No,0,No,No
+566,48.0,f,No,Yes,1,No,Yes
+567,45.0,male,No,No,1,No,Maybe
+568,28.0,Male,No,Yes,1,Yes,Yes
+569,44.0,male,No,No,1,Yes,Maybe
+570,31.0,Male,No,No,0,No,No
+572,29.0,Male,No,No,0,No,No
+573,26.0,Male,No,No,0,No,No
+575,44.0,m,No,No,1,I don't know,Maybe
+582,41.0,Male,No,No,0,No,No
+586,36.0,Male,No,No,0,No,No
+590,32.0,Male,No,No,1,Yes,No
+594,31.0,Male,No,No,1,No,No
+599,33.0,M,No,No,1,I don't know,No
+600,27.0,Male,No,No,0,Yes,No
+601,24.0,m,No,No,0,No,No
+604,28.0,m,No,No,0,No,No
+615,24.0,male,No,No,0,No,No
+619,34.0,M,No,No,0,I don't know,Maybe
+621,27.0,Male,No,No,0,No,No
+627,29.0,Male,No,No,0,No,No
+629,26.0,Female,No,No,0,Yes,Yes
+630,26.0,male,No,Yes,1,Yes,Yes
+632,24.0,Male,No,No,0,I don't know,No
+633,25.0,male,No,No,0,No,No
+634,22.0,M,No,No,0,No,No
+636,53.0,m,No,No,0,No,No
+638,32.0,male,No,Yes,1,No,Yes
+640,27.0,male,No,No,1,No,No
+641,34.0,Male,No,No,0,I don't know,Maybe
+647,52.0,F,No,No,0,No,No
+649,58.0,Male,No,No,0,No,No
+651,46.0,Malr,No,No,0,No,No
+653,26.0,f,No,Yes,1,Yes,Yes
+655,21.0,Male,No,No,0,Yes,Maybe
+657,34.0,m,No,No,0,No,No
+658,25.0,female,No,No,0,No,No
+663,36.0,Female,No,No,0,Yes,No
+669,27.0,f,No,No,0,Yes,No
+670,24.0,Female,No,No,1,No,Maybe
+671,47.0,female,No,Yes,1,Yes,Yes
+672,37.0,Male,No,No,0,No,Maybe
+675,42.0,male,No,No,0,No,No
+682,42.0,male,No,No,0,No,No
+684,36.0,Male,No,No,0,No,No
+687,34.0,female,No,No,0,No,No
+688,36.0,m,No,No,0,No,No
+689,27.0,male,No,No,0,Yes,No
+692,44.0,m,No,No,0,No,No
+695,38.0,Male,No,No,0,Yes,Maybe
+696,38.0,female,No,No,0,I don't know,No
+697,22.0,Female,No,No,1,I don't know,No
+699,27.0,f,No,No,0,Yes,No
+703,22.0,Male,No,No,0,I don't know,No
+704,29.0,male,No,No,0,No,No
+705,33.0,Male,No,No,1,No,Yes
+706,27.0,Male,No,No,0,I don't know,No
+709,32.0,M,No,No,0,No,No
+710,59.0,female,No,No,0,No,No
+711,43.0,man,No,No,0,I don't know,No
+713,32.0,Male,No,Yes,1,Yes,Yes
+717,43.0,Male,No,Yes,1,Yes,Yes
+719,42.0,male,No,No,0,I don't know,Maybe
+720,25.0,female ,No,No,0,No,No
+723,30.0,Male,No,No,0,No,Yes
+724,28.0,Male,No,No,0,Yes,No
+727,37.0,Male,No,No,0,Yes,No
+738,31.0,Male,No,No,0,I don't know,Maybe
+739,31.0,Male,No,No,0,No,No
+740,37.0,m,No,No,0,No,No
+742,39.0,Woman,No,Yes,1,Yes,Yes
+743,29.0,Female,No,No,1,Yes,No
+745,63.0,Male,No,No,1,Yes,Yes
+749,44.0,Male,No,No,0,I don't know,Maybe
+754,19.0,Male,No,No,0,No,No
+756,49.0,F,No,Yes,1,Yes,Maybe
+757,27.0,Female,No,No,0,I don't know,No
+762,35.0,Male,No,No,0,No,No
+763,31.0,female,No,Yes,1,I don't know,Yes
+766,32.0,Male,No,No,0,I don't know,No
+767,45.0,m,No,No,0,No,No
+768,31.0,m,No,No,1,No,No
+770,29.0,M,No,No,1,Yes,Maybe
+771,20.0,Male,No,Yes,1,Yes,Yes
+772,34.0,m,No,No,0,Yes,No
+781,46.0,Male,No,No,0,No,No
+786,32.0,Woman,No,No,0,No,No
+787,28.0,Dude,No,No,0,No,No
+788,44.0,M,No,No,0,No,Yes
+790,30.0,Male,No,No,0,No,No
+801,48.0,F,No,No,0,No,No
+803,28.0,Male,No,No,0,No,No
+805,33.0,Male,No,No,1,I don't know,Yes
+807,25.0,male,No,Yes,1,Yes,Yes
+808,15.0,male,No,No,0,No,No
+812,25.0,male,No,No,0,No,No
+813,38.0,Male,No,No,0,No,No
+815,23.0,Male,No,No,0,No,No
+817,26.0,male,No,No,0,No,No
+818,43.0,Male,No,No,0,No,No
+824,22.0,Male,No,No,0,I don't know,No
+827,33.0,M,No,No,0,I don't know,No
+828,25.0,Female,No,No,0,No,No
+829,37.0,Male,No,No,0,No,No
+832,42.0,Male,No,No,0,Yes,Yes
+833,52.0,Male,No,No,0,No,No
+834,30.0,male,No,No,0,No,No
+836,24.0,Male,No,Yes,1,No,Yes
+837,39.0,Male,No,No,0,I don't know,No
+838,34.0,Male,No,No,0,Yes,No
+839,32.0,Male,No,No,1,Yes,No
+842,39.0,male,No,No,1,No,No
+845,38.0,Male,No,No,0,No,No
+847,24.0,male,No,No,0,Yes,No
+850,37.0,m,No,No,0,No,No
+851,33.0,Male,No,No,0,Yes,Maybe
+857,32.0,female ,No,Yes,1,I don't know,Yes
+858,39.0,m,No,No,0,No,No
+859,36.0,Male,No,No,0,No,No
+860,34.0,Male,No,No,0,No,Maybe
+863,48.0,Male,No,No,0,I don't know,No
+865,32.0,M,No,No,0,No,No
+866,32.0,M,No,No,0,No,No
+871,33.0,M,No,Yes,1,Yes,Yes
+875,27.0,female,No,Yes,1,No,Yes
+877,50.0,M,No,No,0,Yes,Yes
+878,34.0,Female,No,No,0,I don't know,No
+882,46.0,Male,No,Yes,1,Yes,Yes
+884,32.0,male,No,No,0,No,No
+887,41.0,Female,No,No,1,I don't know,Maybe
+891,37.0,Male,No,No,1,No,No
+892,31.0,Male,No,No,0,No,No
+895,52.0,m,No,No,1,Yes,Maybe
+897,38.0,F,No,No,0,No,No
+899,29.0,Male,No,No,0,I don't know,No
+900,63.0,Male,No,No,1,No,No
+903,38.0,male,No,No,0,No,No
+906,32.0,Male,No,No,0,No,Maybe
+909,46.0,Male,No,No,0,No,No
+910,42.0,male,No,No,0,Yes,No
+917,23.0,male,No,No,0,No,No
+919,38.0,Male,No,No,0,No,No
+921,30.0,m,No,No,0,No,Maybe
+923,33.0,M,No,No,0,No,No
+924,35.0,Male,No,No,0,No,No
+925,54.0,M|,No,No,0,No,No
+926,30.0,female,No,No,0,I don't know,No
+927,32.0,Female,No,No,1,I don't know,No
+929,39.0,m,No,Yes,0,I don't know,Yes
+931,31.0,male,No,No,0,Yes,No
+933,25.0,Female,No,No,0,No,No
+934,26.0,Male,No,No,0,No,No
+935,30.0,male,No,No,0,No,Maybe
+936,30.0,M,No,No,0,No,No
+937,31.0,Male,No,No,0,No,No
+943,38.0,m,No,No,0,Yes,No
+945,34.0,Male,No,Yes,1,Yes,Yes
+946,36.0,M,No,Yes,1,I don't know,Yes
+947,23.0,male,No,No,0,No,No
+951,33.0,male,No,No,0,No,No
+955,33.0,Male,No,Yes,1,No,Yes
+956,34.0,Male,No,No,0,Yes,No
+958,35.0,M,No,No,0,I don't know,No
+959,39.0,M,No,No,0,No,Maybe
+960,35.0,male,No,No,0,No,No
+963,42.0,M,No,No,1,No,Yes
+964,30.0,Male,No,No,0,No,No
+972,30.0,female,No,No,0,Yes,No
+979,38.0,female,No,No,0,No,No
+981,33.0,Male,No,No,1,Yes,Maybe
+984,26.0,m,No,No,1,I don't know,No
+988,43.0,M,No,No,0,No,No
+992,35.0,male,No,No,0,No,No
+993,29.0,male,No,No,0,No,No
+995,30.0,m,No,No,0,I don't know,No
+1001,24.0,Male,No,No,0,No,No
+1002,35.0,male,No,No,0,No,No
+1007,25.0,Male,No,No,0,I don't know,No
+1009,32.0,fem,No,No,0,Yes,No
+1012,34.0,Female,No,No,1,I don't know,Maybe
+1014,45.0,Male,No,Yes,1,I don't know,Yes
+1015,31.0,Male,No,No,0,Yes,No
+1017,47.0,female,No,No,0,No,No
+1018,48.0,m,No,No,0,No,No
+1021,52.0,m,No,No,0,No,No
+1022,34.0,Female,No,No,0,No,Yes
+1023,34.0,male,No,No,0,No,No
+1024,27.0,Male,No,No,0,No,No
+1028,36.0,Male,No,No,1,Yes,No
+1030,43.0,Female,No,No,0,No,No
+1032,32.0,Female,No,No,0,No,No
+1033,36.0,Female,No,No,0,No,No
+1038,47.0,male,No,No,0,No,Maybe
+1039,27.0,male,No,No,0,Yes,No
+1040,26.0,Male,No,Yes,1,Yes,Yes
+1041,51.0,Male,No,Yes,1,No,Yes
+1044,34.0,Male,No,No,0,No,No
+1045,43.0,Male,No,No,0,Yes,No
+1047,37.0,m,No,No,0,No,No
+1050,38.0,m,No,No,0,Yes,No
+1051,42.0,male,No,Yes,1,I don't know,Yes
+1052,30.0,Male,No,No,0,No,Maybe
+1053,43.0,M,No,Yes,1,Yes,Yes
+1055,37.0,Female,No,No,0,Yes,No
+1064,32.0,male,No,No,1,No,No
+1069,35.0,male,No,No,1,No,Maybe
+1070,53.0,Male,No,Yes,1,No,Yes
+1073,52.0,Male,No,No,1,Yes,Yes
+1075,41.0,Male,No,Yes,0,No,Yes
+1085,25.0,female,No,No,0,Yes,No
+1094,39.0,Male,No,Yes,0,Yes,Yes
+1096,32.0,M,No,No,0,Yes,Yes
+1097,31.0,Male,No,No,0,No,No
+1098,39.0,female,No,Yes,1,Yes,Yes
+1101,31.0,female,No,No,0,No,No
+1104,31.0,m,No,No,0,No,No
+1105,23.0,male,No,No,0,No,No
+1108,34.0,male,No,No,1,I don't know,No
+1109,49.0,Female,No,No,0,No,No
+1112,37.0,male,No,No,0,No,No
+1113,26.0,Male,No,No,0,No,No
+1115,28.0,Male,No,No,0,No,No
+1117,74.0, Female,No,No,1,No,No
+1121,51.0,M,No,Yes,1,Yes,Yes
+1126,57.0,male,No,No,0,No,No
+1130,33.0,Male,No,Yes,0,Yes,Yes
+1139,30.0,Male,No,No,0,No,No
+1143,40.0,Male,No,Yes,1,I don't know,Yes
+1146,27.0,Male,No,No,0,No,No
+1147,45.0,m,No,No,0,No,No
+1148,29.0,M,No,No,0,Yes,No
+1149,47.0,female,No,No,0,No,No
+1150,33.0,male,No,No,0,No,No
+1151,32.0,Male,No,No,0,No,No
+1152,29.0,Male,No,No,0,No,No
+1154,35.0,F,No,No,0,I don't know,No
+1155,40.0,Male,No,No,0,Yes,Maybe
+1157,39.0,Female,No,No,1,I don't know,Maybe
+1160,29.0,male,No,No,0,Yes,No
+1161,38.0,Male,No,No,0,No,No
+1168,46.0,male,No,Yes,1,Yes,Yes
+1170,34.0,m,No,Yes,1,No,Yes
+1171,43.0,Male,No,No,0,No,No
+1173,32.0,Male,No,Yes,1,No,Yes
+1179,40.0,male,No,No,0,No,No
+1183,33.0,male,No,Yes,1,Yes,Yes
+1188,44.0,Male,No,No,0,No,No
+1190,27.0,male,No,No,0,Yes,No
+1192,43.0,F,No,No,0,Yes,No
+1197,47.0,m,No,Yes,1,Yes,Yes
+1199,39.0,Male,No,No,0,Yes,No
+1201,34.0,male,No,No,1,Yes,Yes
+1203,28.0,Male,No,No,0,Yes,No
+1205,39.0,Male,No,No,0,No,No
+1210,34.0,m,No,No,0,I don't know,No
+1212,27.0,Female,No,Yes,1,No,Yes
+1216,39.0,Male,No,No,0,No,No
+1217,42.0,m,No,No,0,No,No
+1220,30.0,female,No,No,1,Yes,Maybe
+1232,29.0,male,No,No,0,Yes,No
+1238,28.0,Male,No,No,0,No,No
+1241,31.0,M,No,No,0,I don't know,No
+1242,29.0,Male,No,No,0,I don't know,No
+1244,37.0,male,No,No,1,No,No
+1252,31.0,female,No,Yes,1,Yes,Maybe
+1254,45.0,male,No,No,0,Yes,No
+1263,24.0,Male,No,No,0,Yes,No
+1264,34.0,Female,No,No,1,Yes,No
+1267,29.0,male,No,No,0,No,No
+1268,20.0,Male,No,No,0,No,No
+1272,29.0,male,No,No,0,I don't know,Maybe
+1275,39.0,Male,No,No,0,Yes,No
+1276,44.0,Man,No,No,1,I don't know,Maybe
+1278,31.0,male,No,No,0,Yes,No
+1282,30.0,M,No,Yes,1,Yes,Yes
+1283,30.0,male,No,No,0,No,No
+1287,27.0,m,No,No,0,No,No
+1289,31.0,Male,No,No,0,No,No
+1305,26.0,Male,No,No,0,No,No
+1309,29.0,male,No,No,0,No,No
+1310,46.0,male,No,No,0,No,No
+1314,44.0,Male,No,No,0,No,No
+1316,35.0,female,No,No,1,I don't know,No
+1318,37.0,Female,No,Yes,1,No,Yes
+1319,35.0,Male,No,No,0,No,No
+1321,49.0,f,No,Yes,1,I don't know,Yes
+1328,24.0,male,No,No,0,No,No
+1332,31.0,male,No,No,0,No,No
+1336,25.0,Female,No,No,0,I don't know,No
+1337,34.0,Male,No,No,0,No,No
+1342,29.0,male,No,No,1,I don't know,No
+1344,27.0,female,No,Yes,1,Yes,Yes
+1345,23.0,Male,No,No,0,No,No
+1346,24.0,female,No,No,0,No,No
+1348,28.0,Male,No,No,0,No,Maybe
+1357,33.0,Male,No,No,0,No,No
+1368,39.0,Male,No,No,0,No,No
+1369,31.0,male,No,No,1,No,Maybe
+1371,39.0,Male,No,No,0,I don't know,No
+1377,28.0,male,No,No,0,Yes,No
+1381,32.0,Male,No,No,0,No,No
+1389,39.0,male,No,No,0,No,No
+1391,35.0,M,No,No,0,No,No
+1408,34.0,m,No,No,0,No,No
+1412,24.0,male,No,No,0,No,No
+1416,24.0,Male,No,No,0,No,No
+1421,37.0,male,No,No,0,I don't know,No
+1422,30.0,male,No,No,0,No,No
+1423,24.0,Male,No,No,0,No,No
+1428,34.0,Female ,No,No,1,Yes,No
+1429,56.0,MALE,No,Yes,0,Yes,No
+1437,52.0,female,No,,1,Yes,Yes
+1438,30.0,male,No,,0,Yes,No
+1440,38.0,Female,No,,1,Yes,No
+1445,23.0,Male,No,,0,No,No
+1450,53.0,Male,No,,0,No,No
+1471,25.0,,No,,0,Yes,No
+1474,39.0,Male,No,,1,Yes,Yes
+1490,37.0,M,No,,0,No,No
+1492,25.0,Male,No,,0,No,No
+1496,26.0,male,No,,0,No,No
+1500,35.0,female,No,,1,I don't know,Possibly
+1501,45.0,Male,No,,0,No,No
+1502,23.0,Male,No,,0,I don't know,Possibly
+1505,46.0,Male,No,,1,Yes,Yes
+1510,35.0,Male,No,,0,No,No
+1519,42.0,Male,No,,0,No,No
+1526,26.0,Male,No,,0,No,Possibly
+1527,52.0,Female,No,,0,Yes,No
+1530,37.0,male,No,,0,No,Possibly
+1534,38.0,female,No,,1,Yes,Possibly
+1538,29.0,Male,No,,0,I don't know,Possibly
+1548,40.0,female,No,,1,Yes,No
+1553,42.0,Male,No,,1,I don't know,Yes
+1559,26.0,male,No,,0,Yes,No
+1563,28.0,female,No,,0,No,No
+1566,24.0,female,No,,0,Yes,No
+1574,33.0,Male,No,,0,No,No
+1578,34.0,Male,No,,0,I don't know,No
+1579,31.0,Male,No,,0,No,No
+1583,42.0,M,No,,1,Yes,Yes
+1594,24.0,female,No,,0,No,No
+1595,29.0,Female,No,,0,No,No
+1601,20.0,Male,No,,0,No,No
+1604,36.0,male,No,,1,I don't know,Possibly
+1605,31.0,Male,No,,1,Yes,Yes
+1607,28.0,Male (cis),No,,0,I don't know,No
+1610,45.0,m,No,,1,Yes,Possibly
+1611,31.0,Male,No,,0,No,No
+1612,36.0,Male,No,,0,No,No
+1613,37.0,male,No,,0,Yes,No
+1614,37.0,Male,No,,0,No,No
+1615,28.0,male,No,,1,No,Possibly
+1616,37.0,male,No,,1,No,Possibly
+1619,34.0,female,No,,1,No,No
+1621,36.0,Male,No,,0,Yes,No
+1622,26.0,m,No,,0,No,No
+1624,47.0,f,No,,0,No,No
+1627,37.0,Male,No,,1,I don't know,Yes
+1631,34.0,Female,No,,1,Yes,Yes
+1635,31.0,Male,No,,0,Yes,Yes
+1637,42.0,male (hey this is the tech industry you're talking about),No,,0,No,No
+1639,29.0,Female,No,,1,Yes,Possibly
+1641,31.0,Male,No,,0,Yes,No
+1642,26.0,God King of the Valajar,No,,0,Yes,Don't Know
+1646,27.0,Male,No,,0,I don't know,No
+1648,43.0,Male,No,,0,Yes,No
+1651,36.0,Male,No,,0,Yes,No
+1652,44.0,Female ,No,,1,Yes,Yes
+1653,44.0,Cis male,No,,0,Yes,No
+1667,31.0,Female,No,,0,Yes,Possibly
+1668,22.0,Female,No,,0,I don't know,No
+1676,27.0,Female,No,,0,No,Possibly
+1677,62.0,Female,No,,0,No,Possibly
+1678,42.0,male,No,,0,No,No
+1683,60.0,Male,No,,1,Yes,Possibly
+1689,50.0,female,No,,1,I don't know,Yes
+1690,41.0,Male,No,,1,Yes,Yes
+1693,53.0,man,No,,1,No,Yes
+1695,33.0,male,No,,0,Yes,Possibly
+1697,40.0,Male,No,,1,Yes,No
+1699,49.0,female,No,,0,No,No
+1709,47.0,Male,No,,0,No,No
+1710,59.0,male,No,,0,I don't know,No
+1712,26.0,Male,No,,0,No,No
+1720,40.0,Male,No,,0,No,No
+1723,30.0,Male,No,,1,Yes,Yes
+1731,39.0,F,No,,0,Yes,No
+1734,50.0,M,No,,0,No,No
+1738,36.0,Male,No,,0,I don't know,Possibly
+1739,50.0,Female,No,,0,I don't know,No
+1740,47.0,female,No,,0,No,No
+1741,30.0,m,No,,0,No,No
+1747,26.0,Female,No,,0,No,No
+1752,35.0,female,No,,0,Yes,No
+1753,44.0,Male,No,,1,Yes,Yes
+1755,33.0,Male,No,,0,No,No
+1756,28.0,Female,No,,0,No,No
+1761,24.0,male,No,,1,Yes,Yes
+1762,31.0,Male,No,,1,No,Yes
+1765,27.0,male,No,,0,No,No
+1766,31.0,male,No,,0,No,No
+1769,32.0,Male,No,,1,No,Yes
+1775,46.0,male,No,,0,I don't know,No
+1779,38.0,female,No,,0,I don't know,No
+1783,30.0,Male,No,,0,Yes,Possibly
+1788,33.0,Male,No,,0,No,No
+1789,48.0,Male,No,,0,No,No
+1790,32.0,Male,No,,0,No,No
+1792,31.0,male,No,,0,No,No
+1793,40.0,Male,No,,0,No,No
+1794,37.0,male,No,,0,I don't know,No
+1795,29.0,male,No,,0,No,No
+1800,33.0,female,No,,0,No,Possibly
+1802,42.0,Male,No,,0,I don't know,No
+1803,47.0,male,No,,0,No,No
+1805,32.0,Male,No,,0,No,No
+1806,60.0,Male ,No,,0,No,No
+1807,58.0,Male,No,,0,Yes,Yes
+1808,38.0,Male,No,,0,Yes,No
+1812,31.0,Female,No,,1,No,Yes
+1820,34.0,M,No,,0,No,No
+1821,37.0,Male,No,,1,No,Yes
+1825,41.0,Female,No,,0,No,No
+1827,39.0,male,No,,0,No,No
+1832,46.0,Male,No,,1,No,Yes
+1833,38.0,Male,No,,0,Yes,No
+1837,38.0,cis male ,No,,1,No,Possibly
+1841,44.0,Woman,No,,0,I don't know,No
+1846,33.0,Male,No,,0,Yes,No
+1847,31.0,male,No,,0,I don't know,Possibly
+1851,28.0,Male,No,,0,No,No
+1853,35.0,Female,No,,0,No,No
+1854,40.0,Male,No,,0,No,Possibly
+1857,21.0,Male,No,,0,I don't know,No
+1859,27.0,Male,No,,0,No,No
+1860,37.0,Male,No,,0,No,No
+1864,34.0,male,No,,0,No,No
+1865,37.0,Male,No,,0,Yes,No
+1868,39.0,Male,No,,0,No,No
+1870,50.0,Male,No,,0,No,No
+1874,31.0,male,No,,0,Yes,No
+1877,38.0,Male,No,,0,I don't know,Possibly
+1879,33.0,Male,No,,0,No,No
+1883,38.0,male,No,,0,No,No
+1890,38.0,Female,No,,0,No,No
+1891,39.0,male,No,,1,I don't know,Yes
+1897,34.0,male,No,,0,No,Don't Know
+1898,52.0,m,No,,1,Yes,No
+1901,49.0,Female,No,,0,No,No
+1913,47.0,Male,No,,0,No,No
+1927,38.0,Male,No,,0,No,No
+1929,33.0,female,No,,1,No,Yes
+1932,30.0,Female,No,,0,I don't know,No
+1937,40.0,male,No,,1,I don't know,Yes
+1938,31.0,Male,No,,0,I don't know,No
+1948,31.0,Male,No,,1,Yes,Yes
+1959,28.0,Male,No,,0,Yes,No
+1961,40.0,male,No,,0,No,No
+1965,25.0,Female,No,,0,No,No
+1967,36.0,Contextual,No,,0,No,No
+1969,23.0,Female,No,,0,Yes,No
+1970,37.0,m,No,,0,No,No
+1985,24.0,female,No,,0,I don't know,No
+1988,28.0,F,No,,1,No,No
+1992,32.0,male,No,,0,No,No
+1993,27.0,Female,No,,0,I don't know,No
+2002,26.0,Male,No,,1,Yes,Yes
+2005,40.0,Male,No,,0,No,Yes
+2006,42.0,Male,No,,0,No,No
+2013,26.0,male,No,,0,Yes,No
+2018,30.0,Male,No,,0,I don't know,No
+2019,22.0,Male,No,,0,Yes,No
+2021,51.0,Female,No,,0,No,No
+2024,46.0,M,No,,0,No,No
+2028,27.0,Male,No,,0,Yes,No
+2036,32.0,Male,No,,0,No,No
+2037,31.0,Male,No,,0,No,No
+2040,40.0,male,No,,0,Yes,No
+2041,56.0,Male,No,,0,No,No
+2043,25.0,Male ,No,,0,I don't know,No
+2046,29.0,Male,No,,0,Yes,No
+2050,33.0,Male ,No,,0,No,No
+2053,30.0,Female,No,,0,No,No
+2058,28.0,Male,No,,1,No,Possibly
+2063,44.0,female,No,,1,No,Yes
+2069,30.0,male,No,,0,No,No
+2070,22.0,Female,No,,1,Yes,Yes
+2071,33.0,Male,No,,0,Yes,No
+2073,41.0,Male,No,,0,Yes,No
+2074,32.0,Male,No,,0,No,No
+2075,48.0,Male,No,,0,No,No
+2076,32.0,male,No,,1,Yes,Yes
+2086,30.0,Male,No,,1,No,Possibly
+2088,37.0,Male,No,,1,I don't know,No
+2092,32.0,male,No,,0,No,No
+2093,23.0,Male,No,,0,No,No
+2095,36.0,M,No,,0,No,No
+2097,29.0,F,No,,0,No,No
+2098,28.0,Male,No,,0,I don't know,No
+2099,51.0,male,No,,0,No,Possibly
+2100,36.0,Male,No,,0,Yes,No
+2101,40.0,male,No,,0,No,No
+2103,32.0,f,No,,0,No,No
+2105,39.0,Male,No,,0,Yes,No
+2109,30.0,Male,No,,0,Yes,No
+2115,45.0,F,No,,0,Yes,No
+2125,31.0,Male,No,,0,Yes,No
+2129,41.0,Male,No,,0,Yes,No
+2130,39.0,M,No,,0,No,No
+2131,39.0,Male,No,,0,No,No
+2133,37.0,m,No,,0,I don't know,No
+2134,32.0,Male,No,,0,No,No
+2135,24.0,Man,No,,0,Yes,No
+2136,40.0,F,No,,1,No,Yes
+2138,49.0,Male,No,,0,No,No
+2141,41.0,Male,No,,0,No,No
+2143,32.0,Male,No,,1,No,Possibly
+2152,47.0,,No,,1,No,Possibly
+2154,28.0,male,No,,0,Yes,No
+2158,39.0,Male,No,,0,Yes,No
+2161,43.0,Male,No,,0,I don't know,No
+2164,28.0,Male,No,,0,I don't know,No
+2165,27.0,male,No,,0,No,No
+2166,28.0,Male,No,,1,No,Yes
+2169,37.0,male,No,,0,No,No
+2172,29.0,F,No,,1,I don't know,Yes
+2174,37.0,Male,No,,0,No,Yes
+2175,53.0,Male,No,,1,No,No
+2178,37.0,Female,No,,0,No,No
+2180,47.0,Male,No,,1,No,No
+2181,34.0,Male,No,,1,No,No
+2184,41.0,Male,No,,1,No,Yes
+2191,46.0,Male,No,,0,Yes,No
+2192,34.0,male,No,,0,No,No
+2194,55.0,male,No,,0,No,Don't Know
+2201,38.0,Female,No,,0,Yes,No
+2211,29.0,Malel,No,,1,Yes,Yes
+2213,30.0,Male,No,,0,No,No
+2214,46.0,male,No,,1,I don't know,Yes
+2215,29.0,male,No,,0,No,No
+2224,44.0,Male,No,,0,I don't know,No
+2226,31.0,Male,No,,0,No,No
+2235,37.0,Male,No,,0,I don't know,No
+2239,42.0,male,No,,0,Yes,No
+2241,28.0,female,No,,0,Yes,No
+2244,31.0,male,No,,0,No,No
+2246,27.0,Female,No,,0,No,No
+2247,36.0,Male,No,,1,Yes,Possibly
+2248,33.0,male,No,,1,No,Yes
+2250,26.0,Male,No,,0,No,No
+2255,28.0,M,No,,0,No,No
+2259,46.0,M,No,,0,Yes,No
+2263,26.0,Male,No,,0,No,No
+2264,37.0,Woman,No,,0,No,No
+2267,29.0,Female,No,,0,No,No
+2269,38.0,Male,No,,0,No,No
+2277,39.0,male,No,,0,No,No
+2279,22.0,m,No,,0,No,No
+2280,29.0,woman,No,,1,Yes,No
+2282,27.0,Female,No,,0,Yes,No
+2283,32.0,F,No,,0,No,Possibly
+2287,24.0,f,No,,0,No,No
+2289,36.0,f,No,,0,No,No
+2291,27.0,Female,No,,0,No,No
+2292,53.0,Female,No,,1,Yes,Possibly
+2293,32.0,Male,No,,0,No,No
+2296,47.0,Male,No,,0,I don't know,No
+2297,36.0,Male,No,,0,No,No
+2301,35.0,Male,No,,1,I don't know,No
+2303,32.0,Male,No,,0,No,No
+2304,41.0,Male,No,,0,No,Yes
+2309,42.0,Female,No,,1,Yes,Yes
+2310,67.0,Female,No,,1,No,Yes
+2318,31.0,male,No,,0,No,No
+2320,46.0,Male,No,,1,Yes,Yes
+2324,41.0,m,No,,0,No,No
+2326,33.0,female,No,,0,No,No
+2333,37.0,"Male (or female, or both)",No,,1,Yes,Possibly
+2334,42.0,Male,No,,1,No,Possibly
+2339,24.0,male,No,,0,No,No
+2344,38.0,male,No,,0,No,No
+2347,33.0,m,No,,0,No,No
+2349,31.0,Male,No,,0,No,No
+2354,55.0,m,No,,0,No,No
+2357,39.0,Male,No,,0,No,No
+2359,34.0,f,No,,0,I don't know,Don't Know
+2365,34.0,male,No,,0,Yes,No
+2367,54.0,transgender,No,,1,Yes,Possibly
+2368,39.0,male,No,,0,No,No
+2373,43.0,Male,No,,1,Yes,No
+2375,35.0,female,No,,1,Yes,Yes
+2377,42.0,Male,No,,1,Yes,Yes
+2383,33.0,Male,No,,0,Yes,Don't Know
+2384,35.0,Female/gender non-binary.,No,,1,Yes,Possibly
+2389,34.0,Male,No,,1,No,Yes
+2390,28.0,Male,No,,0,No,No
+2398,33.0,Male,No,,0,No,No
+2404,32.0,Male,No,,0,No,No
+2406,43.0,M,No,,1,No,No
+2410,28.0,male,No,,1,Yes,No
+2412,30.0,male,No,,0,No,No
+2413,30.0,M,No,,0,No,No
+2424,28.0,Male,No,,1,Yes,Yes
+2428,43.0,Male,No,,0,No,No
+2429,31.0,Female,No,,0,No,No
+2433,39.0,Male,No,,0,No,No
+2441,37.0,male,No,,0,Yes,Possibly
+2447,46.0,m,No,,1,No,Yes
+2449,37.0,Female,No,,1,Yes,Yes
+2453,33.0,Male,No,,0,Yes,No
+2466,35.0,Female ,No,,0,I don't know,Don't Know
+2474,45.0,F,No,,0,No,No
+2475,45.0,none,No,,0,No,Don't Know
+2478,27.0,male,No,,0,No,No
+2479,36.0,Cisgender male,No,,0,No,No
+2484,33.0,Female,No,,1,Yes,Yes
+2489,29.0,f,No,,0,I don't know,No
+2490,43.0,Male,No,,0,No,Possibly
+2492,26.0,Male,No,,0,No,No
+2500,41.0,cis male,No,,0,No,No
+2505,35.0,Male,No,,0,No,No
+2506,45.0,male,No,,0,No,No
+2508,26.0,Male,No,,0,No,No
+2510,26.0,male,No,,0,I don't know,No
+2512,22.0,Male,No,,0,No,No
+2518,37.0,Male,No,,0,No,Possibly
+2521,38.0,Male,No,,0,No,No
+2542,34.0,Male,No,,0,No,No
+2543,35.0,Male,No,,0,No,No
+2544,30.0,Male,No,,0,No,No
+2547,40.0,SWM,No,,0,Yes,No
+2548,39.0,male,No,,0,No,No
+2549,24.0,m,No,,0,Yes,No
+2554,37.0,Male,No,,0,No,Possibly
+2557,42.0,Male,No,,0,No,No
+2560,30.0,m,No,,0,I don't know,No
+2569,55.0,Female,No,,0,I don't know,No
+2580,39.0,Male,No,,0,No,Possibly
+2582,46.0,Male,No,,0,Yes,No
+2588,34.0,Male,No,,0,No,No
+2589,50.0,male,No,,0,I don't know,No
+2594,37.0,Male,No,,0,No,No
+2599,40.0,Male ,No,,0,Yes,No
+2601,28.0,Male,No,,1,Yes,Possibly
+2608,27.0,Male,No,,0,I don't know,No
+2609,37.0,male,No,,0,Yes,No
+2610,46.0,m,No,,0,No,No
+2614,49.0,,No,,0,No,Yes
+2617,37.0,male,No,,0,No,No
+2623,31.0,male,No,,0,Yes,No
+2626,41.0,Male,No,,0,I don't know,Don't Know
+2630,29.0,male,No,,1,Yes,Possibly
+2637,42.0,Male,No,,1,No,Yes
+2638,53.0,Female,No,,0,No,No
+2644,30.0,Male,No,,0,No,No
+2646,50.0,Male,No,,0,No,No
+2650,49.0,Identify as male,No,,0,No,Possibly
+2654,33.0,,No,,0,I don't know,No
+2655,54.0,Female,No,,0,I don't know,No
+2661,55.0,male,No,,0,I don't know,No
+2663,35.0,Male,No,,1,Yes,Yes
+2665,34.0,female,No,,0,No,No
+2666,35.0,Male,No,,1,Yes,Yes
+2670,36.0,,No,,0,No,No
+2672,50.0,Male,No,,0,I don't know,No
+2678,34.0,Male,No,,0,I don't know,No
+2681,29.0,Male,No,,0,No,No
+2682,34.0,M,No,,1,Yes,Possibly
+2685,27.0,Masculine,No,,0,Yes,No
+2688,36.0,Male,No,,1,No,No
+2689,28.0,male,No,,0,I don't know,No
+2690,34.0,Male,No,,0,No,No
+2691,28.0,Male,No,,0,No,No
+2692,36.0,M,No,,1,Yes,Possibly
+2696,39.0,Male,No,,1,I don't know,No
+2699,42.0,Male,No,,1,I don't know,Yes
+2703,31.0,Female,No,,1,Yes,Yes
+2706,33.0,male,No,,0,No,No
+2709,30.0,Male,No,,0,No,No
+2717,32.0,Male,No,,0,No,No
+2720,0.0,male,No,,0,No,No
+2721,38.0,Male,No,,0,No,No
+2727,28.0,male,No,,1,No,No
+2733,53.0,Female,No,,1,Yes,No
+2736,40.0,Male,No,,0,I don't know,No
+2737,42.0,Male,No,,0,Yes,No
+2743,28.0,Female,No,,0,No,No
+2746,40.0,Male,No,,1,No,Possibly
+2748,37.0,male,No,,1,Yes,Yes
+2752,23.0,Male,No,,0,No,No
+2756,41.0,F,No,,0,Yes,No
+2757,33.0,male,No,,1,No,Possibly
+2759,47.0,male,No,,0,No,No
+2768,34.0,female,No,,0,Yes,Possibly
+2776,32.0,I have a penis,No,,0,No,Possibly
+2778,30.0,Male,No,,0,No,No
+2787,48.0,Male,No,,0,Yes,No
+2788,25.0,male,No,,1,Yes,Yes
+2790,63.0,Male,No,,0,No,No
+2792,34.0,male,No,,1,I don't know,Yes
+2795,29.0,Woman,No,,0,Yes,No
+2799,28.0,Male,No,,1,Yes,Possibly
+2803,36.0,Male,No,,0,No,No
+2815,39.0,male,No,,0,No,No
+2826,23.0,femmina,No,,0,No,No
+2829,33.0,Male,No,,0,No,No
+2835,50.0,male,No,,1,Yes,Don't Know
+2836,43.0,43,No,,0,No,No
+2839,35.0,Male,No,,0,I don't know,Possibly
+2840,27.0,Female,No,,1,Yes,No
+2845,46.0,Male,No,,1,Yes,Possibly
+2848,28.0,male,No,,0,No,No
+2849,30.0,Male,No,,0,Yes,No
+2851,24.0,Male,No,,0,I don't know,Possibly
+2853,45.0,M,No,,1,I don't know,Possibly
+2855,22.0,Male,No,,0,Yes,No
+2860,40.0,Male,No,,0,No,No
+2862,38.0,F,No,,0,No,No
+2866,28.0,Male,No,,0,Yes,No
+2868,25.0,male,No,,0,No,No
+2884,25.0,Female,No,,1,No,Yes
+2885,36.0,male,No,,1,I don't know,Yes
+2890,30.0,female,No,,1,No,Possibly
+2894,26.0,Female ,No,,0,I don't know,No
+2897,37.0,Male,No,,0,No,No
+2899,56.0,Male,No,,0,No,No
+2901,48.0,Trans non-binary/genderfluid,No,,0,Yes,No
+2904,45.0,male,No,,0,No,No
+2905,37.0,m,No,,0,No,No
+2908,35.0,Female,No,,1,Yes,Possibly
+2910,26.0,Male,No,,1,I don't know,No
+2912,28.0,,No,,0,No,No
+2913,34.0,Female,No,,1,Yes,Yes
+2914,45.0,Male,No,,0,No,No
+2918,42.0,Female,No,,1,Yes,Possibly
+2920,30.0,female,No,,0,Yes,No
+2923,41.0,Male,No,,0,No,No
+2931,37.0,M,No,,1,I don't know,No
+2933,47.0,Male,No,,1,No,No
+2938,39.0,Male,No,,0,No,Possibly
+2941,29.0,Male,No,,0,No,No
+2942,55.0,M,No,,0,Yes,No
+2944,45.0,Male,No,,1,No,Possibly
+2945,46.0,male,No,,0,Yes,Possibly
+2951,26.0,Femile,No,,1,Yes,Yes
+2952,31.0,female,No,,0,No,No
+2954,48.0,m,No,,0,No,No
+2955,50.0,M,No,,0,No,No
+2963,5.0,f,No,,1,No,No
+2966,34.0,female,No,,0,No,No
+2967,23.0,Female,No,,0,No,No
+2970,40.0,Female,No,,0,Yes,No
+2976,63.0,Male,No,,1,No,Yes
+2978,24.0,mail,No,,1,No,Yes
+2981,30.0,Female,No,,0,No,No
+2990,27.0,F,No,,0,No,No
+2993,44.0,Male,No,,0,No,No
+2995,39.0,f,No,,0,No,No
+2998,30.0,male,No,,0,No,No
+3000,50.0,Male,No,,0,No,No
+3001,27.0,Male,No,,0,No,No
+3003,27.0,female,No,,0,No,No
+3008,36.0,Male,No,,0,No,No
+3014,58.0,male,No,,1,No,Yes
+3019,22.0,f,No,,1,No,Possibly
+3029,37.0,Male,No,,0,No,No
+3032,22.0,male,No,,0,I don't know,No
+3034,50.0,M,No,,0,No,No
+3035,31.0,female,No,,0,No,No
+3039,29.0,Male,No,,0,No,No
+3040,27.0,female,No,,0,No,No
+3044,42.0,Male,No,,0,Yes,No
+3049,33.0,Male,No,,0,No,No
+3050,40.0,Female,No,,0,I don't know,No
+3054,30.0,Male,No,,0,No,No
+3055,30.0,Male,No,,0,No,No
+3057,37.0,Male,No,,1,No,Yes
+3060,39.0,male,No,,1,I don't know,Yes
+3064,22.0,Female,No,,0,Yes,No
+3065,31.0,female,No,,0,No,No
+3067,30.0,Female,No,,0,No,No
+3070,23.0,male,No,,0,No,No
+3071,27.0,Male,No,,0,No,No
+3073,62.0,Male,No,,0,No,No
+3075,34.0,Male,No,,1,No,Yes
+3083,29.0,Female,No,,1,No,Possibly
+3088,26.0,Male,No,,0,I don't know,Possibly
+3090,45.0,cisgender male,No,,0,I don't know,No
+3091,21.0,Female,No,,0,No,No
+3092,44.0,Female,No,,0,No,No
+3097,26.0,female,No,,0,No,No
+3100,32.0,Male,No,,0,No,No
+3105,24.0,Male,No,,1,I don't know,Yes
+3107,28.0,male,No,,0,No,No
+3108,27.0,Female,No,,0,No,No
+3110,34.0,male,No,,1,No,Don't Know
+3115,32.0,Female,No,,0,No,Possibly
+3116,25.0,female,No,,0,No,No
+3119,24.0,MAle,No,,1,Yes,Yes
+3120,48.0,F,No,,1,Yes,Possibly
+3123,21.0,Male,No,,0,I don't know,No
+3125,25.0,Male,No,,0,I don't know,Don't Know
+3127,25.0,Male,No,,0,No,No
+3132,31.0,male,No,,0,No,No
+3133,53.0,Male,No,,0,No,No
+3137,37.0,male,No,,0,No,No
+3139,41.0,male,No,,0,No,No
+3140,35.0,Male,No,,0,No,No
+3142,35.0,female,No,,1,No,Yes
+3143,30.0,Female,No,,0,No,No
+3146,19.0,Female,No,,0,No,No
+3148,25.0,Male,No,,1,No,No
+3149,29.0,Male,No,,0,No,No
+3150,40.0,F,No,,0,No,No
+3151,26.0,female,No,,0,No,No
+3153,24.0,Female,No,,0,No,No
+3155,22.0,Male,No,,0,No,No
+3156,27.0,male,No,,0,No,Don't Know
+3157,25.0,female,No,,0,No,No
+3159,23.0,Male,No,,0,No,Possibly
+3163,45.0,woman,No,,1,Yes,Yes
+3164,25.0,Female,No,,0,No,Possibly
+3168,39.0,Male,No,,0,No,No
+3173,25.0,male,No,,0,No,No
+3175,47.0,MALE,No,,1,No,No
+3178,57.0,Masculine,No,,0,I don't know,No
+3184,32.0,Female,No,,0,No,No
+3186,31.0,Male,No,,1,No,No
+3187,28.0,Male,No,,0,No,No
+3188,27.0,Female,No,,1,Yes,Yes
+3191,27.0,Male,No,,0,Yes,Yes
+3194,35.0,female,No,,1,No,No
+3200,29.0,male,No,,1,Yes,Yes
+3202,21.0,Male,No,,1,No,No
+3203,63.0,male,No,,0,No,Possibly
+3205,33.0,male,No,,0,Yes,No
+3211,34.0,Male,No,,0,No,No
+3216,22.0,FEMALE,No,,0,No,No
+3220,38.0,male,No,,0,No,No
+3221,30.0,M,No,,0,No,No
+3226,25.0,Male,No,,1,No,Possibly
+3227,32.0,Male,No,,0,No,No
+3231,23.0,Male,No,,0,No,No
+3232,21.0,m,No,,0,No,No
+3234,21.0,Female,No,,0,No,No
+3248,42.0,Male,No,,0,Yes,Possibly
+3249,40.0,F,No,,0,No,No
+3250,23.0,female,No,,0,No,No
+3252,30.0,Male,No,,0,No,Possibly
+3253,34.0,female,No,,0,Yes,Possibly
+3256,22.0,F,No,,0,Yes,No
+3259,23.0,Male,No,,0,No,No
+3261,34.0,Male,No,,0,No,No
+3262,46.0,Male,No,,0,No,No
+3265,49.0,Male,No,,0,Yes,Possibly
+3266,28.0,,No,,0,No,Don't Know
+1,29.0,male,Yes,Yes,1,Yes,Yes
+3,43.0,male,Yes,Yes,1,No,Yes
+4,43.0,Female,Yes,Yes,1,Yes,Yes
+5,42.0,Male,Yes,No,1,No,No
+7,37.0,female,Yes,Yes,1,Yes,Yes
+8,44.0,Female,Yes,Yes,1,Yes,Yes
+9,30.0,Male,Yes,Yes,1,Yes,Yes
+10,28.0,Male,Yes,Yes,1,I don't know,Yes
+11,34.0,Male,Yes,Yes,1,Yes,Yes
+12,30.0,Female,Yes,Yes,1,Yes,Yes
+14,35.0,Male,Yes,Yes,1,Yes,Yes
+15,52.0,m,Yes,Yes,1,Yes,Yes
+16,32.0,I identify as female.,Yes,Yes,1,Yes,Yes
+18,25.0,female ,Yes,Yes,1,I don't know,Yes
+19,31.0,M,Yes,Yes,1,Yes,Yes
+26,27.0,Male,Yes,Yes,1,I don't know,Yes
+29,32.0,Bigender,Yes,Yes,1,Yes,Yes
+30,32.0,non-binary,Yes,Yes,1,Yes,Yes
+31,30.0,Male,Yes,Yes,1,No,Yes
+34,36.0,Male,Yes,No,0,No,Yes
+36,44.0,Male,Yes,Yes,1,Yes,Yes
+40,34.0,Male,Yes,No,0,Yes,Yes
+41,40.0,male,Yes,No,1,I don't know,Yes
+42,46.0,Female assigned at birth ,Yes,No,1,Yes,Yes
+43,28.0,M,Yes,No,1,Yes,Yes
+45,33.0,male,Yes,Yes,1,Yes,Yes
+46,32.0,Male,Yes,Yes,1,Yes,Yes
+49,37.0,F,Yes,Yes,1,No,Maybe
+50,37.0,M,Yes,Yes,1,I don't know,Yes
+53,36.0,Male,Yes,Yes,1,Yes,Yes
+66,35.0,female,Yes,Yes,1,Yes,Yes
+67,29.0,M,Yes,Yes,1,Yes,Yes
+76,19.0,M,Yes,No,0,I don't know,Yes
+79,33.0,Male,Yes,Yes,1,Yes,Yes
+81,36.0,Male,Yes,No,0,Yes,Yes
+82,39.0,Male,Yes,Yes,1,Yes,Yes
+84,36.0,male,Yes,Yes,1,Yes,Yes
+87,35.0,Male,Yes,Yes,1,I don't know,Yes
+89,24.0,Female,Yes,Yes,1,Yes,Yes
+92,26.0,Male,Yes,No,0,No,No
+94,29.0,Female,Yes,Yes,1,No,Yes
+95,26.0,Male,Yes,Yes,1,Yes,Yes
+98,39.0,Male,Yes,No,0,Yes,Yes
+99,28.0,Female,Yes,Yes,1,Yes,Yes
+101,23.0,Male,Yes,Yes,1,I don't know,Yes
+107,34.0,Female,Yes,Yes,1,Yes,No
+108,30.0,Male,Yes,Yes,1,No,Yes
+109,30.0,male,Yes,Yes,1,I don't know,Yes
+111,30.0,M,Yes,Yes,1,Yes,Yes
+114,37.0,Female,Yes,Yes,0,Yes,Yes
+116,26.0,Male,Yes,Yes,1,Yes,Yes
+118,39.0,F,Yes,Yes,1,Yes,Yes
+122,30.0,m,Yes,Yes,1,No,Yes
+123,28.0,Cis female ,Yes,Yes,1,Yes,Yes
+124,48.0,Female,Yes,Yes,1,I don't know,Yes
+132,30.0,male,Yes,Yes,1,Yes,Yes
+133,34.0,Male,Yes,Yes,1,I don't know,Yes
+138,29.0,female,Yes,Yes,1,I don't know,Yes
+139,35.0,M,Yes,Yes,1,Yes,Yes
+140,42.0,"Transitioned, M2F",Yes,Yes,1,Yes,Yes
+143,21.0,male,Yes,Yes,1,Yes,Yes
+144,34.0,F,Yes,Yes,1,I don't know,Yes
+146,35.0,Male,Yes,Yes,1,No,Yes
+150,42.0,m,Yes,Yes,1,No,Yes
+151,40.0,Male,Yes,Yes,0,I don't know,Yes
+154,31.0,female,Yes,Yes,1,Yes,Yes
+157,31.0,m,Yes,Yes,1,I don't know,Yes
+160,27.0,Male,Yes,Yes,1,Yes,Yes
+161,41.0,Female,Yes,Yes,1,No,Yes
+162,41.0,Female,Yes,No,0,No,Yes
+164,21.0,Male,Yes,No,0,No,Yes
+174,26.0,Male,Yes,Yes,1,Yes,Yes
+176,22.0,Female,Yes,Yes,1,Yes,Yes
+177,46.0,Female,Yes,Yes,1,Yes,Yes
+179,27.0,Male,Yes,Yes,1,Yes,Maybe
+184,40.0,Male,Yes,Yes,1,Yes,Yes
+186,37.0,Male,Yes,Yes,1,I don't know,Yes
+188,40.0,male,Yes,Yes,1,No,Yes
+190,28.0,Male,Yes,Yes,1,Yes,Yes
+194,49.0,Female,Yes,Yes,1,No,Yes
+195,35.0,Male,Yes,Yes,1,I don't know,Yes
+196,35.0,Male,Yes,Yes,1,Yes,Yes
+197,38.0,Male,Yes,Yes,1,Yes,Yes
+199,42.0,Male,Yes,Yes,1,Yes,Yes
+203,29.0,Female or Multi-Gender Femme,Yes,Yes,1,Yes,Yes
+207,30.0,male,Yes,Yes,1,No,Yes
+208,44.0,male,Yes,Yes,1,Yes,Yes
+212,30.0,female,Yes,Yes,1,Yes,Yes
+219,25.0,m,Yes,No,1,No,Yes
+220,31.0,Male ,Yes,Yes,0,I don't know,Yes
+229,29.0,female,Yes,Yes,1,Yes,Yes
+230,25.0,Female,Yes,Yes,1,I don't know,Yes
+234,49.0,Male,Yes,Yes,1,Yes,Yes
+246,45.0,Male,Yes,Yes,1,No,Yes
+247,31.0,woman,Yes,Yes,1,Yes,Yes
+249,30.0,M,Yes,Yes,1,Yes,Yes
+250,33.0,female,Yes,Yes,1,Yes,Yes
+251,45.0,female,Yes,Yes,1,I don't know,Yes
+252,30.0,Female,Yes,Yes,1,Yes,Yes
+253,30.0,male,Yes,Yes,1,Yes,Yes
+254,29.0,Male,Yes,Yes,1,Yes,Yes
+257,36.0,Male,Yes,Yes,1,No,Yes
+260,25.0,Male,Yes,Yes,1,Yes,Yes
+263,40.0,Female,Yes,Yes,1,Yes,Yes
+266,31.0,Female,Yes,Yes,1,Yes,Yes
+268,27.0,female,Yes,Yes,1,Yes,Yes
+269,28.0,female,Yes,Yes,1,No,Yes
+270,26.0,Male,Yes,Yes,1,Yes,Yes
+272,42.0,Male,Yes,Yes,1,No,Yes
+275,24.0,Male,Yes,Yes,1,I don't know,Maybe
+277,31.0,Male,Yes,Yes,1,No,No
+284,38.0,Male,Yes,Yes,1,I don't know,Yes
+285,29.0,male,Yes,No,0,Yes,Yes
+286,44.0,f,Yes,Yes,1,Yes,Yes
+288,54.0,m,Yes,Yes,1,Yes,Yes
+293,34.0,Male,Yes,No,1,I don't know,Maybe
+295,30.0,Male,Yes,Yes,1,Yes,Yes
+296,34.0,Male,Yes,Yes,1,Yes,Yes
+297,47.0,F,Yes,Yes,1,Yes,Yes
+301,31.0,m,Yes,Yes,1,Yes,Yes
+302,24.0,,Yes,Yes,1,Yes,Yes
+304,57.0,F,Yes,Yes,1,Yes,Yes
+308,63.0,Male,Yes,Yes,1,No,Yes
+309,46.0,male,Yes,Yes,1,Yes,Yes
+310,32.0,Female,Yes,Yes,1,Yes,Yes
+311,35.0,m,Yes,Yes,1,Yes,Yes
+313,35.0,male,Yes,Yes,1,Yes,Yes
+315,35.0,F,Yes,Yes,1,Yes,Yes
+318,31.0,Male,Yes,Yes,1,Yes,Yes
+321,23.0,Female,Yes,Yes,1,Yes,No
+322,43.0,Female,Yes,Yes,1,Yes,Yes
+326,27.0,Male,Yes,Yes,1,No,Yes
+330,37.0,Male,Yes,Yes,1,No,Yes
+331,38.0,Female,Yes,Yes,1,I don't know,Yes
+336,25.0,Female,Yes,Yes,1,No,Yes
+338,29.0,F,Yes,Yes,0,Yes,Yes
+339,35.0,M,Yes,Yes,1,No,Yes
+341,43.0,Male,Yes,Yes,1,No,Yes
+345,45.0,F,Yes,Yes,1,I don't know,Yes
+349,28.0,Male,Yes,Yes,1,Yes,Yes
+354,36.0,Male,Yes,No,1,Yes,Yes
+355,28.0,male,Yes,Yes,1,Yes,Yes
+357,35.0,Female,Yes,Yes,1,I don't know,Yes
+358,38.0,Male,Yes,Yes,1,Yes,Yes
+361,31.0,f,Yes,Yes,1,Yes,Yes
+367,39.0,female,Yes,Yes,1,Yes,Yes
+369,28.0,Female,Yes,Yes,1,Yes,Yes
+372,99.0,Other,Yes,Yes,1,Yes,Yes
+374,34.0,Male ,Yes,Yes,1,I don't know,Yes
+377,28.0,female,Yes,Yes,1,Yes,Yes
+378,26.0,Female,Yes,Yes,1,Yes,Yes
+380,38.0,male,Yes,Yes,1,Yes,Yes
+381,33.0,M,Yes,Yes,1,Yes,Yes
+382,28.0,Female,Yes,No,1,Yes,Yes
+383,32.0,Male,Yes,Yes,1,I don't know,Yes
+384,24.0,Female,Yes,Yes,1,I don't know,Yes
+388,24.0,Female,Yes,Yes,1,Yes,Yes
+389,30.0,Male,Yes,Yes,1,Yes,Yes
+392,32.0,Male,Yes,Yes,1,I don't know,Yes
+394,37.0,male,Yes,Yes,1,I don't know,Yes
+398,30.0,Male,Yes,No,1,Yes,Yes
+402,37.0,male,Yes,Yes,1,Yes,Yes
+404,31.0,Male,Yes,Yes,1,Yes,Yes
+407,36.0,m,Yes,Yes,1,Yes,Yes
+409,24.0,Male,Yes,Yes,1,No,No
+410,26.0,male,Yes,No,0,I don't know,Yes
+412,27.0,Female,Yes,Yes,1,Yes,Yes
+415,30.0,Male,Yes,Yes,1,I don't know,Yes
+416,26.0,Female,Yes,Yes,1,No,Yes
+417,27.0,Female,Yes,Yes,1,Yes,Yes
+418,27.0,Male,Yes,Yes,1,I don't know,No
+420,26.0,nb masculine,Yes,Yes,1,Yes,Yes
+423,40.0,M,Yes,Yes,0,Yes,Yes
+428,35.0,male,Yes,Yes,1,Yes,Yes
+429,26.0,Cisgender Female,Yes,Yes,1,Yes,Yes
+431,29.0,Male,Yes,No,1,Yes,Yes
+440,57.0,Female,Yes,Yes,1,Yes,Yes
+442,38.0,Male,Yes,Yes,1,Yes,Yes
+446,26.0,Male,Yes,Yes,1,I don't know,Yes
+451,26.0,m,Yes,Yes,1,No,No
+452,36.0,M,Yes,No,1,Yes,Yes
+453,33.0,Male,Yes,Yes,1,Yes,Yes
+454,24.0,F,Yes,Yes,1,Yes,Yes
+457,37.0,f,Yes,Yes,1,No,Yes
+462,23.0,Male,Yes,Yes,1,Yes,Yes
+464,30.0,Man,Yes,Yes,1,I don't know,Yes
+467,24.0,Female,Yes,Yes,1,Yes,Yes
+468,27.0,Male,Yes,Yes,1,Yes,Yes
+469,35.0,Male,Yes,Yes,1,Yes,Yes
+476,42.0,m,Yes,Yes,1,Yes,Yes
+482,43.0,male,Yes,No,0,I don't know,Yes
+483,34.0,Male,Yes,Yes,1,I don't know,Yes
+485,50.0,Male,Yes,Yes,0,Yes,Yes
+486,38.0,Male,Yes,Yes,1,Yes,Maybe
+487,51.0,m,Yes,Yes,1,Yes,Yes
+489,34.0,male,Yes,Yes,1,Yes,Yes
+492,44.0,Male,Yes,Yes,1,Yes,Yes
+496,29.0,Male,Yes,Yes,1,Yes,No
+501,44.0,Female,Yes,Yes,1,Yes,Yes
+505,55.0,male,Yes,Yes,1,Yes,Yes
+507,28.0,Female,Yes,No,1,Yes,Yes
+508,33.0,m,Yes,Yes,1,Yes,Yes
+510,33.0,Female,Yes,Yes,1,Yes,No
+512,28.0,male,Yes,Yes,1,Yes,Yes
+519,61.0,F,Yes,Yes,1,Yes,Yes
+520,29.0,Female,Yes,Yes,1,Yes,Yes
+525,30.0,Male,Yes,No,1,No,Yes
+527,38.0,Female,Yes,Yes,1,Yes,Yes
+531,35.0,Male,Yes,Yes,1,No,Yes
+532,27.0,male,Yes,Yes,1,I don't know,No
+533,24.0,Male,Yes,Yes,1,Yes,Yes
+534,39.0,Male,Yes,Yes,1,No,Yes
+536,40.0,Female,Yes,Yes,1,Yes,Yes
+540,35.0,F,Yes,Yes,1,No,Yes
+546,30.0,Male,Yes,Yes,1,Yes,Yes
+547,46.0,m,Yes,Yes,1,No,Yes
+550,41.0,male,Yes,Yes,1,Yes,Yes
+555,32.0,Male,Yes,Yes,1,Yes,Yes
+558,32.0,female,Yes,Yes,1,Yes,Yes
+571,31.0,f,Yes,Yes,1,I don't know,Yes
+574,35.0,f,Yes,Yes,1,Yes,Yes
+576,45.0,male,Yes,Yes,1,Yes,Yes
+577,22.0,Female,Yes,Yes,1,Yes,Yes
+580,39.0,Male,Yes,Yes,1,Yes,Yes
+583,24.0,Male,Yes,Yes,1,Yes,Yes
+584,24.0,Male,Yes,Yes,1,Yes,Yes
+585,34.0,male,Yes,Yes,1,No,Yes
+588,21.0,Male,Yes,Yes,1,No,Yes
+589,33.0,Male,Yes,Yes,1,I don't know,Yes
+591,62.0,Female,Yes,Yes,1,I don't know,Yes
+592,37.0,M,Yes,Yes,1,Yes,Yes
+596,48.0,Female,Yes,Yes,1,Yes,Yes
+597,40.0,male,Yes,Yes,1,Yes,Yes
+598,29.0,Male,Yes,Yes,1,No,Yes
+602,28.0,Male,Yes,Yes,1,Yes,Maybe
+605,40.0,Male,Yes,Yes,1,Yes,Yes
+609,26.0,Male,Yes,Yes,1,Yes,Yes
+610,39.0,Female,Yes,Yes,1,Yes,Yes
+612,34.0,Male,Yes,No,0,Yes,Maybe
+613,44.0,Male,Yes,Yes,1,I don't know,Yes
+616,31.0,Male,Yes,Yes,1,Yes,Yes
+617,47.0,cis male,Yes,Yes,1,Yes,Yes
+618,30.0,Male,Yes,Yes,1,Yes,Yes
+620,29.0,Human,Yes,Yes,1,Yes,Yes
+622,29.0,male,Yes,Yes,1,No,Yes
+624,31.0,Genderfluid,Yes,Yes,1,Yes,Yes
+626,29.0,M,Yes,Yes,1,No,Yes
+628,42.0,Male,Yes,Yes,0,I don't know,Maybe
+631,34.0,Male,Yes,Yes,1,Yes,Yes
+635,33.0,male,Yes,Yes,1,Yes,Yes
+637,32.0,M,Yes,Yes,1,Yes,Yes
+642,26.0,Male,Yes,Yes,1,Yes,Yes
+643,25.0,,Yes,Yes,1,Yes,Yes
+650,30.0,male,Yes,Yes,1,No,No
+652,45.0,male,Yes,Yes,0,Yes,Yes
+654,22.0,Male,Yes,Yes,1,Yes,Maybe
+659,27.0,Male,Yes,Yes,1,Yes,Yes
+660,25.0,Female ,Yes,Yes,1,Yes,Yes
+662,26.0,Female,Yes,Yes,1,I don't know,Yes
+666,34.0,Male,Yes,Yes,1,Yes,Yes
+667,25.0,Male,Yes,Yes,1,I don't know,Maybe
+673,35.0,genderqueer woman,Yes,Yes,1,I don't know,Yes
+674,30.0,Male,Yes,Yes,1,I don't know,Yes
+676,36.0,Female,Yes,Yes,1,Yes,Yes
+679,36.0,Female,Yes,Yes,1,I don't know,Yes
+680,36.0,Female,Yes,Yes,1,Yes,Yes
+685,23.0,Male,Yes,Yes,1,Yes,Yes
+686,54.0,Female,Yes,Yes,1,Yes,Yes
+690,32.0,male,Yes,Yes,1,Yes,Yes
+693,33.0,m,Yes,No,0,I don't know,Yes
+694,38.0,M,Yes,Yes,1,Yes,Yes
+698,33.0,mtf,Yes,Yes,1,I don't know,Yes
+700,55.0,female,Yes,No,1,Yes,Yes
+701,66.0,male,Yes,Yes,1,Yes,Yes
+708,38.0,Male,Yes,No,1,I don't know,Yes
+712,55.0,female,Yes,Yes,1,No,Yes
+715,38.0,f,Yes,Yes,1,Yes,Yes
+716,46.0,Male,Yes,Yes,1,No,Yes
+718,29.0,Female,Yes,Yes,1,Yes,Yes
+721,49.0,Male,Yes,Yes,0,No,Yes
+722,36.0,Male,Yes,Yes,1,Yes,No
+725,37.0,m,Yes,Yes,1,Yes,Yes
+726,23.0,female,Yes,Yes,0,Yes,Maybe
+728,42.0,m,Yes,Yes,1,No,Maybe
+729,32.0,male,Yes,Yes,1,Yes,Yes
+731,28.0,M,Yes,Yes,1,Yes,Yes
+732,29.0,Male,Yes,Yes,1,Yes,Yes
+734,31.0,Female,Yes,Yes,1,Yes,Yes
+735,46.0,Female,Yes,Yes,1,Yes,Yes
+741,34.0,Female,Yes,Yes,1,Yes,Yes
+744,29.0,female,Yes,Yes,1,Yes,Yes
+746,45.0,male,Yes,Yes,1,No,Maybe
+750,28.0,Queer,Yes,Yes,1,Yes,Yes
+753,33.0,female,Yes,Yes,1,Yes,Maybe
+758,39.0,male,Yes,Yes,1,Yes,Yes
+759,35.0,Male,Yes,Yes,1,No,Yes
+761,42.0,female,Yes,Yes,1,I don't know,Yes
+764,44.0,Male ,Yes,Yes,1,Yes,Yes
+769,47.0,Female,Yes,Yes,1,Yes,Yes
+773,33.0,Agender,Yes,Yes,1,No,Yes
+775,35.0,Male,Yes,No,0,Yes,Yes
+776,31.0,m,Yes,Yes,1,Yes,Yes
+777,36.0,Male,Yes,Yes,1,Yes,Yes
+778,30.0,Male,Yes,No,0,Yes,No
+780,23.0,Female,Yes,Yes,1,I don't know,Yes
+782,33.0,female,Yes,Yes,1,Yes,Yes
+785,26.0,male,Yes,No,1,I don't know,Yes
+792,31.0,M,Yes,Yes,1,Yes,Yes
+795,43.0,female,Yes,Yes,1,Yes,Yes
+798,38.0,Male,Yes,Yes,1,Yes,Yes
+800,51.0,female,Yes,Yes,1,Yes,Yes
+806,21.0,Male,Yes,No,1,No,No
+809,40.0,Male,Yes,Yes,1,Yes,Yes
+816,39.0,Female,Yes,Yes,1,Yes,Yes
+820,35.0,Male,Yes,Yes,1,No,Maybe
+822,33.0,Female,Yes,No,1,Yes,Yes
+825,28.0,Male,Yes,Yes,1,Yes,Yes
+826,39.0,M,Yes,Yes,1,Yes,Yes
+830,41.0,f,Yes,Yes,1,Yes,Yes
+831,30.0,Female,Yes,Yes,0,Yes,Yes
+835,35.0,Male,Yes,No,1,I don't know,Yes
+843,35.0,Male,Yes,Yes,0,Yes,Yes
+844,34.0,Male,Yes,Yes,1,Yes,Yes
+846,26.0,woman,Yes,Yes,1,I don't know,Yes
+848,27.0,Female,Yes,Yes,1,Yes,Yes
+849,25.0,male,Yes,No,1,No,Yes
+852,34.0,Male,Yes,Yes,1,No,Yes
+853,27.0,Male,Yes,Yes,1,I don't know,Yes
+855,50.0,mail,Yes,Yes,1,Yes,Yes
+856,54.0,female,Yes,Yes,1,Yes,Yes
+867,31.0,male,Yes,Yes,1,Yes,Yes
+868,28.0,Female,Yes,Yes,1,Yes,No
+869,28.0,male,Yes,Yes,1,Yes,Yes
+870,33.0,F,Yes,Yes,1,Yes,Yes
+872,59.0,M,Yes,Yes,1,No,Yes
+873,33.0,male,Yes,Yes,1,Yes,Yes
+885,65.0,F,Yes,Yes,1,No,Yes
+888,38.0,Male,Yes,Yes,1,I don't know,Yes
+889,51.0,male,Yes,Yes,1,No,Yes
+894,31.0,male,Yes,Yes,1,I don't know,Yes
+896,31.0,male,Yes,Yes,1,Yes,Yes
+901,47.0,female,Yes,Yes,1,No,Yes
+902,43.0,M,Yes,Yes,1,Yes,Yes
+905,40.0,Female,Yes,No,0,Yes,Yes
+908,28.0,female,Yes,Yes,0,I don't know,Yes
+912,37.0,F,Yes,Yes,1,No,Yes
+913,35.0,M,Yes,Yes,1,Yes,Yes
+915,35.0,Male,Yes,Yes,1,Yes,Yes
+916,24.0,Male,Yes,Yes,1,Yes,Yes
+920,28.0,Male,Yes,Yes,1,Yes,Yes
+930,21.0,non-binary,Yes,Yes,1,Yes,Yes
+938,32.0,M,Yes,Yes,1,Yes,Yes
+939,45.0,female,Yes,Yes,1,Yes,Yes
+942,28.0,Female,Yes,No,0,I don't know,Yes
+944,38.0,male,Yes,Yes,1,Yes,Yes
+949,39.0,Male,Yes,Yes,1,No,Yes
+953,32.0,Male,Yes,Yes,0,Yes,Yes
+961,34.0,Male,Yes,No,0,No,No
+962,44.0,Female,Yes,Yes,1,Yes,Yes
+967,33.0,male,Yes,Yes,1,Yes,Yes
+968,30.0,Male,Yes,Yes,1,Yes,Yes
+969,30.0,male,Yes,Yes,1,Yes,Yes
+971,38.0,Male,Yes,Yes,1,No,Yes
+973,32.0,Male,Yes,Yes,1,Yes,Yes
+974,32.0,Male,Yes,Yes,1,I don't know,Yes
+975,47.0,Male,Yes,Yes,1,Yes,Yes
+977,35.0,Male,Yes,Yes,1,Yes,Yes
+978,36.0,Male,Yes,Yes,1,No,Yes
+982,22.0,male,Yes,No,0,Yes,Yes
+987,37.0,male,Yes,Yes,0,No,Maybe
+989,20.0,Male,Yes,Yes,1,I don't know,Yes
+990,30.0,Female,Yes,Yes,1,Yes,Yes
+996,30.0,male,Yes,No,0,Yes,Maybe
+997,38.0,Male,Yes,Yes,1,Yes,Yes
+999,26.0,Male,Yes,Yes,0,Yes,No
+1000,27.0,Male,Yes,Yes,1,No,Yes
+1004,36.0,Male/genderqueer,Yes,Yes,1,No,Yes
+1005,34.0,Male,Yes,Yes,1,No,Yes
+1013,40.0,Female,Yes,Yes,1,Yes,Yes
+1016,30.0,male,Yes,Yes,1,Yes,Yes
+1019,44.0,Male,Yes,No,0,Yes,Yes
+1027,26.0,Male,Yes,No,0,Yes,Yes
+1029,35.0,Male,Yes,No,0,Yes,Yes
+1031,36.0,Female,Yes,Yes,1,I don't know,Yes
+1034,38.0,Male,Yes,Yes,1,Yes,Yes
+1036,35.0,F,Yes,Yes,1,Yes,Yes
+1037,45.0,m,Yes,Yes,1,Yes,No
+1042,25.0,Male,Yes,Yes,1,Yes,Yes
+1046,33.0,Male,Yes,Yes,0,Yes,Yes
+1048,27.0,Female,Yes,Yes,1,Yes,Yes
+1049,54.0,F,Yes,Yes,1,Yes,Yes
+1054,33.0,Male,Yes,Yes,1,I don't know,Yes
+1056,25.0,male,Yes,Yes,1,No,Yes
+1057,27.0,Male,Yes,Yes,1,Yes,Yes
+1058,27.0,Male,Yes,Yes,1,Yes,Yes
+1059,27.0,Male,Yes,Yes,1,No,Yes
+1062,31.0,Nonbinary,Yes,Yes,1,Yes,Yes
+1065,33.0,Male,Yes,Yes,1,No,Yes
+1066,56.0,M,Yes,Yes,1,Yes,Yes
+1068,49.0,Male,Yes,Yes,1,I don't know,Yes
+1071,45.0,m,Yes,Yes,1,Yes,Yes
+1080,37.0,m,Yes,Yes,1,Yes,Yes
+1081,22.0,Male,Yes,Yes,0,Yes,No
+1082,31.0,Female,Yes,Yes,1,Yes,Yes
+1084,28.0,Male,Yes,Yes,1,Yes,Yes
+1087,22.0,woman,Yes,Yes,1,Yes,Yes
+1088,43.0,male,Yes,Yes,1,No,Yes
+1091,26.0,female,Yes,Yes,1,Yes,Yes
+1092,43.0,Male,Yes,Yes,1,Yes,Yes
+1095,46.0,Male,Yes,Yes,1,I don't know,Yes
+1100,36.0,male,Yes,Yes,1,Yes,Yes
+1102,30.0,Nonbinary,Yes,Yes,1,Yes,Yes
+1103,36.0,male,Yes,Yes,1,Yes,Yes
+1106,23.0,M,Yes,Yes,0,I don't know,No
+1107,30.0,Female ,Yes,Yes,1,Yes,Yes
+1114,41.0,Male,Yes,Yes,1,Yes,Yes
+1118,28.0,Male,Yes,Yes,1,Yes,Yes
+1119,47.0,Male,Yes,Yes,1,Yes,Yes
+1122,26.0,male,Yes,Yes,1,No,Yes
+1125,32.0,Female ,Yes,Yes,1,Yes,Yes
+1127,39.0,Male,Yes,Yes,1,Yes,Yes
+1128,26.0,Female,Yes,Yes,1,Yes,Yes
+1132,25.0,Female ,Yes,Yes,1,Yes,Yes
+1133,40.0,Male,Yes,Yes,1,Yes,Yes
+1134,26.0,Female,Yes,Yes,1,Yes,Yes
+1135,34.0,Male,Yes,Yes,1,Yes,Yes
+1137,31.0,female,Yes,Yes,1,Yes,Yes
+1138,42.0,male,Yes,Yes,1,Yes,Maybe
+1140,26.0,Unicorn,Yes,Yes,1,Yes,Yes
+1142,31.0,M,Yes,Yes,1,Yes,Yes
+1144,39.0,Cis Male,Yes,Yes,1,I don't know,Maybe
+1153,36.0,Male,Yes,Yes,1,Yes,Yes
+1156,36.0,male,Yes,Yes,1,Yes,Yes
+1162,34.0,Female,Yes,Yes,1,Yes,Yes
+1163,28.0,male,Yes,Yes,1,Yes,Yes
+1164,38.0,Male,Yes,Yes,1,Yes,Yes
+1166,36.0,female,Yes,Yes,1,Yes,Yes
+1167,57.0,Female,Yes,Yes,1,Yes,Yes
+1169,49.0,Male,Yes,Yes,1,Yes,Yes
+1172,35.0,m,Yes,Yes,0,No,Yes
+1174,24.0,"Male (trans, FtM)",Yes,No,1,I don't know,No
+1175,33.0,Male,Yes,Yes,1,Yes,Yes
+1178,33.0,female,Yes,Yes,1,I don't know,Yes
+1180,22.0,Male,Yes,Yes,1,Yes,Yes
+1181,22.0,female,Yes,Yes,1,Yes,Yes
+1182,23.0,Female,Yes,Yes,1,I don't know,Yes
+1185,32.0,Male,Yes,Yes,1,No,No
+1186,43.0,m,Yes,Yes,1,Yes,Yes
+1187,49.0,Male,Yes,No,1,Yes,Yes
+1189,29.0,Male,Yes,No,1,Yes,Yes
+1193,30.0,Female ,Yes,Yes,1,No,Yes
+1194,33.0,Female,Yes,Yes,1,Yes,Yes
+1195,27.0,Female,Yes,Yes,1,Yes,Yes
+1196,26.0,female,Yes,No,1,Yes,Yes
+1198,30.0,Male,Yes,No,0,I don't know,Yes
+1202,25.0,female,Yes,Yes,1,Yes,Yes
+1204,38.0,Male,Yes,Yes,1,Yes,Yes
+1207,27.0,female,Yes,No,1,Yes,Yes
+1208,31.0,female,Yes,Yes,1,Yes,Yes
+1213,29.0,Male,Yes,No,1,No,Yes
+1215,49.0,F,Yes,Yes,1,Yes,Yes
+1218,28.0,Male,Yes,Yes,1,I don't know,Yes
+1219,33.0,Male,Yes,No,1,I don't know,No
+1221,70.0,Male,Yes,Yes,1,I don't know,Yes
+1223,45.0,Male,Yes,Yes,1,No,Yes
+1224,63.0,F,Yes,Yes,1,I don't know,Yes
+1225,40.0,male,Yes,No,1,Yes,Maybe
+1226,39.0,male,Yes,Yes,1,Yes,Yes
+1227,31.0,Cis-woman,Yes,Yes,1,Yes,Yes
+1228,34.0,male,Yes,No,0,I don't know,Yes
+1229,44.0,Male,Yes,Yes,1,Yes,Yes
+1231,43.0,Male,Yes,Yes,1,Yes,Yes
+1233,27.0,Genderqueer,Yes,Yes,1,Yes,Yes
+1234,37.0,Male,Yes,Yes,1,Yes,Yes
+1235,41.0,non-binary,Yes,Yes,1,Yes,Yes
+1236,30.0,woman,Yes,Yes,1,Yes,Yes
+1237,28.0,male,Yes,Yes,1,Yes,Yes
+1239,39.0,Male,Yes,Yes,1,Yes,Yes
+1240,22.0,male,Yes,No,1,Yes,Yes
+1246,31.0,male,Yes,Yes,1,Yes,Yes
+1247,34.0,male,Yes,Yes,1,Yes,Maybe
+1248,49.0,F,Yes,Yes,1,I don't know,Yes
+1250,40.0,cisdude,Yes,Yes,1,No,Yes
+1251,46.0,Female,Yes,Yes,1,Yes,Yes
+1256,38.0,male,Yes,Yes,1,Yes,Yes
+1257,40.0,Male,Yes,Yes,1,Yes,Yes
+1258,38.0,Male,Yes,Yes,1,I don't know,Yes
+1259,32.0,Male,Yes,Yes,1,I don't know,Yes
+1261,24.0,male,Yes,Yes,1,Yes,Yes
+1265,55.0,male,Yes,Yes,1,Yes,Yes
+1266,32.0,Male ,Yes,Yes,1,Yes,Yes
+1270,33.0,female,Yes,Yes,1,Yes,Yes
+1273,24.0,Genderflux demi-girl,Yes,Yes,1,Yes,Yes
+1274,39.0,Male,Yes,Yes,0,No,Yes
+1277,30.0,female,Yes,Yes,1,Yes,Yes
+1279,37.0,Male,Yes,Yes,1,Yes,Yes
+1280,42.0,Male,Yes,Yes,1,Yes,Yes
+1284,33.0,Male,Yes,No,1,Yes,Yes
+1286,39.0,Female,Yes,Yes,1,Yes,Yes
+1288,34.0,male,Yes,Yes,1,No,Yes
+1290,30.0,Female,Yes,Yes,1,Yes,Yes
+1291,34.0,male,Yes,Yes,1,Yes,Yes
+1293,39.0,Male,Yes,Yes,1,Yes,Yes
+1295,22.0,Male,Yes,No,0,Yes,No
+1298,32.0,m,Yes,Yes,1,Yes,Yes
+1300,38.0,M,Yes,No,0,Yes,Maybe
+1302,27.0,Male,Yes,Yes,1,Yes,Yes
+1303,37.0,f,Yes,Yes,1,Yes,Yes
+1307,21.0,Male,Yes,Yes,1,Yes,Yes
+1311,28.0,cis man,Yes,Yes,1,Yes,Yes
+1312,26.0,,Yes,Yes,1,Yes,Yes
+1313,37.0,Female,Yes,Yes,1,Yes,Yes
+1315,45.0,F,Yes,Yes,1,Yes,Yes
+1317,39.0,Male,Yes,Yes,1,Yes,Yes
+1320,29.0,Female,Yes,Yes,1,Yes,Yes
+1322,21.0,Male (cis),Yes,Yes,1,I don't know,Yes
+1325,56.0,M,Yes,Yes,1,No,Yes
+1326,53.0,female,Yes,Yes,1,Yes,Yes
+1327,48.0,f,Yes,Yes,1,Yes,Yes
+1329,37.0,Male,Yes,No,0,No,Yes
+1330,27.0,female,Yes,Yes,1,Yes,Yes
+1331,39.0,female,Yes,Yes,1,Yes,Yes
+1333,34.0,Male,Yes,No,1,Yes,Yes
+1334,33.0,Male,Yes,Yes,1,Yes,Yes
+1335,22.0,Male,Yes,No,0,I don't know,Yes
+1340,26.0,Male,Yes,No,0,No,Yes
+1343,27.0,Male,Yes,Yes,1,Yes,Yes
+1347,22.0,male,Yes,Yes,0,I don't know,Yes
+1349,22.0,Male,Yes,Yes,1,Yes,Yes
+1351,35.0,female,Yes,Yes,1,No,Yes
+1352,26.0,Male,Yes,Yes,1,No,Yes
+1353,31.0,female,Yes,Yes,1,I don't know,No
+1354,32.0,male,Yes,Yes,1,Yes,Yes
+1356,24.0,Male,Yes,Yes,1,No,Yes
+1358,28.0,Male,Yes,Yes,1,I don't know,No
+1362,29.0,Male,Yes,Yes,1,No,No
+1363,22.0,Male,Yes,No,0,Yes,No
+1364,24.0,Female,Yes,Yes,1,Yes,Yes
+1365,29.0,Female,Yes,No,1,No,Yes
+1370,25.0,Male,Yes,Yes,1,Yes,Yes
+1372,31.0,F,Yes,Yes,1,Yes,Yes
+1374,31.0,AFAB,Yes,Yes,1,No,Yes
+1375,23.0,male,Yes,Yes,1,I don't know,Yes
+1376,30.0,male,Yes,Yes,1,Yes,Yes
+1378,23.0,Female,Yes,Yes,0,Yes,Yes
+1379,26.0,Female ,Yes,Yes,1,Yes,Maybe
+1382,35.0,Male,Yes,Yes,1,Yes,Yes
+1384,32.0,male,Yes,Yes,1,No,Yes
+1387,30.0,Female,Yes,Yes,1,Yes,Yes
+1392,25.0,Female,Yes,Yes,1,Yes,Yes
+1395,23.0,male ,Yes,Yes,1,Yes,Yes
+1396,29.0,male,Yes,Yes,1,Yes,Yes
+1397,28.0,Male,Yes,Yes,1,Yes,Yes
+1398,30.0,Male,Yes,Yes,1,Yes,Yes
+1399,28.0,Male,Yes,Yes,1,Yes,Maybe
+1401,37.0,male,Yes,Yes,0,Yes,Yes
+1402,30.0,Male,Yes,Yes,0,Yes,Yes
+1403,27.0,Male,Yes,Yes,1,Yes,Yes
+1404,29.0,Male,Yes,Yes,1,Yes,Yes
+1406,26.0,Transgender woman,Yes,Yes,1,Yes,Yes
+1407,29.0,male,Yes,Yes,1,Yes,Yes
+1409,36.0,Male,Yes,Yes,1,I don't know,No
+1410,38.0,Male,Yes,Yes,1,No,Maybe
+1411,22.0,Female,Yes,Yes,1,No,Yes
+1413,24.0,female,Yes,Yes,1,Yes,Yes
+1414,36.0,female,Yes,Yes,1,Yes,Yes
+1415,24.0,Female,Yes,Yes,1,Yes,Yes
+1417,31.0,Male,Yes,Yes,1,Yes,Yes
+1418,39.0,M,Yes,Yes,0,No,Yes
+1419,41.0,male,Yes,Yes,1,Yes,Yes
+1424,22.0,female,Yes,Yes,1,I don't know,Yes
+1426,26.0,Female,Yes,Yes,1,I don't know,Yes
+1427,38.0,female,Yes,Yes,1,Yes,Yes
+1431,30.0,Female,Yes,Yes,0,Yes,Maybe
+1432,25.0,non-binary,Yes,No,0,I don't know,Yes
+1435,36.0,male,Yes,Yes,1,Yes,Yes
+1436,22.0,Male,Yes,Yes,1,I don't know,No
+1439,36.0,F,Yes,Yes,1,Yes,No
+1443,40.0,M,Yes,Yes,1,Yes,Possibly
+1444,35.0,Male,Yes,Yes,0,Yes,Yes
+1446,22.0,Female,Yes,No,1,I don't know,
+1447,34.0,female,Yes,Yes,1,Yes,Yes
+1448,28.0,Male,Yes,Yes,1,No,No
+1455,37.0,female,Yes,Yes,1,Yes,Yes
+1456,25.0,Male,Yes,Yes,1,I don't know,Don't Know
+1459,66.0,F,Yes,Yes,1,Yes,Yes
+1460,31.0,female,Yes,Yes,1,Yes,Yes
+1461,32.0,Male,Yes,Yes,1,Yes,No
+1462,46.0,M,Yes,Yes,1,I don't know,Yes
+1463,30.0,female,Yes,Yes,1,Yes,Yes
+1464,31.0,Man,Yes,Yes,1,I don't know,Yes
+1465,46.0,Male,Yes,Yes,1,Yes,Yes
+1466,29.0,,Yes,Yes,1,I don't know,Yes
+1467,28.0,f,Yes,Yes,1,Yes,Yes
+1468,34.0,Female,Yes,Yes,1,I don't know,Possibly
+1469,25.0,Male,Yes,Yes,1,I don't know,Yes
+1470,35.0,Male,Yes,Yes,1,I don't know,Possibly
+1473,32.0,M,Yes,Yes,0,I don't know,Don't Know
+1475,33.0,male,Yes,Yes,1,Yes,Yes
+1477,42.0,male,Yes,Yes,1,I don't know,Yes
+1478,32.0,Male,Yes,Yes,1,Yes,Yes
+1479,27.0,Female,Yes,Yes,1,I don't know,Yes
+1480,43.0,Female,Yes,Yes,1,Yes,Yes
+1482,39.0,male,Yes,Yes,1,Yes,Yes
+1483,42.0,Female,Yes,Yes,1,Yes,Yes
+1484,37.0,Genderfluid,Yes,Yes,1,Yes,Yes
+1485,38.0,Female,Yes,Yes,1,Yes,Yes
+1487,64.0,male,Yes,Yes,1,No,Yes
+1488,28.0,Male,Yes,Yes,1,Yes,Yes
+1491,30.0,Female,Yes,Yes,1,Yes,Yes
+1493,25.0,Female,Yes,No,0,Yes,
+1494,54.0,Female,Yes,Yes,1,Yes,Yes
+1495,61.0,Male,Yes,Yes,1,I don't know,No
+1497,44.0,Female,Yes,Yes,1,Yes,Yes
+1498,26.0,male,Yes,Yes,1,I don't know,Possibly
+1499,26.0,Female,Yes,Yes,1,Yes,Yes
+1506,27.0,Nonbinary,Yes,Yes,1,I don't know,Yes
+1507,39.0,female,Yes,Yes,1,Yes,Yes
+1509,38.0,female,Yes,Yes,1,Yes,Yes
+1511,32.0,male,Yes,Yes,1,No,Possibly
+1512,26.0,Female,Yes,Yes,0,I don't know,Possibly
+1513,50.0,cis-male,Yes,Yes,1,Yes,Yes
+1514,31.0,Male,Yes,Yes,1,Yes,Yes
+1516,30.0,Male,Yes,Yes,1,Yes,Yes
+1517,30.0,Mail,Yes,Yes,1,I don't know,Yes
+1518,34.0,male,Yes,Yes,1,No,Yes
+1520,24.0,Female,Yes,Yes,1,Yes,Yes
+1521,30.0,Male,Yes,Yes,1,Yes,Yes
+1523,31.0,female,Yes,Yes,1,Yes,Yes
+1525,27.0,Woman,Yes,Yes,1,Yes,Yes
+1531,38.0,Male,Yes,Yes,1,Yes,Yes
+1532,57.0,Female,Yes,Yes,1,Yes,Yes
+1533,34.0,Male,Yes,Yes,1,Yes,No
+1537,31.0,Female,Yes,Yes,1,No,Yes
+1540,29.0,female,Yes,Yes,1,I don't know,Yes
+1541,44.0,Male,Yes,Yes,1,Yes,Yes
+1543,42.0,Male,Yes,Yes,1,Yes,Yes
+1545,29.0,M,Yes,Yes,1,I don't know,Yes
+1546,27.0,Female,Yes,Yes,1,Yes,Possibly
+1547,39.0,Male,Yes,Yes,1,Yes,Yes
+1552,38.0,Man,Yes,Yes,1,Yes,Yes
+1554,46.0,Male,Yes,Yes,1,I don't know,Possibly
+1555,30.0,male,Yes,No,1,Yes,
+1556,25.0,Male,Yes,Yes,1,Yes,Yes
+1560,43.0,cis hetero male,Yes,Yes,1,Yes,Yes
+1561,25.0,Female,Yes,Yes,1,I don't know,Yes
+1562,34.0,male,Yes,Yes,0,Yes,Yes
+1564,27.0,Male,Yes,Yes,1,I don't know,Possibly
+1567,33.0,female,Yes,No,0,No,
+1570,39.0,Male,Yes,Yes,1,I don't know,Yes
+1572,54.0,Male,Yes,Yes,1,I don't know,Yes
+1573,47.0,m,Yes,Yes,1,Yes,Yes
+1575,30.0,,Yes,Yes,1,Yes,No
+1581,48.0,male,Yes,Yes,1,Yes,Yes
+1582,34.0,Male,Yes,Yes,1,I don't know,Yes
+1584,27.0,Male,Yes,Yes,1,Yes,Possibly
+1586,27.0,Female,Yes,Yes,1,I don't know,Yes
+1588,32.0,f,Yes,Yes,1,I don't know,Yes
+1589,29.0,Male,Yes,Yes,1,Yes,Yes
+1590,36.0,Female,Yes,No,1,Yes,
+1591,29.0,Female,Yes,Yes,1,I don't know,Yes
+1599,39.0,Female,Yes,Yes,1,I don't know,Possibly
+1602,36.0,female,Yes,Yes,1,Yes,Yes
+1603,30.0,femail,Yes,Yes,1,Yes,Yes
+1608,25.0,Female,Yes,Yes,1,Yes,Yes
+1618,64.0,m,Yes,Yes,1,No,Yes
+1626,26.0,Male,Yes,Yes,1,Yes,Yes
+1628,29.0,Male,Yes,Yes,1,I don't know,Possibly
+1629,33.0,Female,Yes,Yes,1,Yes,Yes
+1630,44.0,male,Yes,Yes,1,Yes,Yes
+1633,32.0,uhhhhhhhhh fem genderqueer?,Yes,Yes,1,I don't know,Yes
+1634,23.0,,Yes,Yes,1,Yes,Yes
+1636,30.0,M,Yes,Yes,1,Yes,Yes
+1638,26.0,female (cis),Yes,Yes,1,Yes,Yes
+1654,27.0,female,Yes,Yes,1,No,Yes
+1655,42.0,Female,Yes,Yes,1,Yes,Yes
+1656,28.0,male,Yes,Yes,1,Yes,Yes
+1657,43.0,Male,Yes,Yes,1,No,Yes
+1658,28.0,Female,Yes,Yes,1,I don't know,Yes
+1659,49.0,Female,Yes,Yes,1,Yes,Yes
+1663,25.0,Female,Yes,Yes,1,I don't know,Yes
+1664,42.0,Male,Yes,Yes,1,Yes,Yes
+1669,33.0,f,Yes,Yes,1,Yes,Yes
+1670,40.0,Male,Yes,No,0,Yes,
+1673,35.0,Male,Yes,Yes,1,I don't know,Yes
+1674,47.0,Male,Yes,Yes,1,No,Yes
+1679,35.0,Male,Yes,Yes,1,I don't know,Yes
+1681,37.0,Male,Yes,Yes,1,Yes,Yes
+1682,51.0,Male,Yes,Yes,1,Yes,Yes
+1684,30.0,F,Yes,Yes,1,I don't know,Possibly
+1685,36.0,f,Yes,Yes,0,Yes,Yes
+1688,35.0,Male,Yes,Yes,1,Yes,Yes
+1691,58.0,female,Yes,Yes,1,Yes,Yes
+1692,27.0,Male,Yes,Yes,1,No,No
+1696,25.0,Nonbinary,Yes,Yes,1,Yes,Yes
+1698,25.0,My sex is female.,Yes,Yes,1,Yes,Yes
+1700,44.0,Female,Yes,Yes,1,Yes,Yes
+1701,30.0,Male,Yes,Yes,1,No,Yes
+1704,31.0,Male,Yes,Yes,1,Yes,Yes
+1705,32.0,Male,Yes,Yes,1,Yes,Yes
+1708,31.0,female,Yes,Yes,1,Yes,Yes
+1711,44.0,male,Yes,Yes,1,Yes,Yes
+1713,43.0,Male,Yes,Yes,1,No,Yes
+1716,40.0,Male,Yes,Yes,1,I don't know,Yes
+1718,24.0,m,Yes,Yes,0,No,No
+1719,35.0,male,Yes,Yes,1,Yes,Yes
+1722,23.0,Male,Yes,Yes,1,Yes,Yes
+1725,27.0,Male,Yes,Yes,1,No,Yes
+1728,40.0,Male,Yes,Yes,1,I don't know,Possibly
+1729,26.0,female,Yes,Yes,1,Yes,Yes
+1730,29.0,Male,Yes,Yes,1,Yes,Possibly
+1732,40.0,M,Yes,Yes,1,Yes,Yes
+1735,35.0,Male,Yes,Yes,1,No,Yes
+1737,35.0,female,Yes,Yes,1,Yes,Yes
+1742,30.0,m,Yes,Yes,1,Yes,Yes
+1743,32.0,Male,Yes,Yes,1,Yes,Yes
+1744,38.0,,Yes,Yes,1,Yes,Yes
+1745,38.0,Male,Yes,Yes,1,Yes,Yes
+1746,38.0,Male,Yes,Yes,1,Yes,Yes
+1748,45.0,female,Yes,Yes,1,Yes,Yes
+1750,24.0,Female,Yes,Yes,1,Yes,Yes
+1751,33.0,Female,Yes,Yes,1,Yes,Yes
+1754,27.0,female,Yes,Yes,1,Yes,Yes
+1757,35.0,Male,Yes,Yes,1,Yes,Don't Know
+1758,23.0,Male,Yes,Yes,1,No,Yes
+1759,53.0,Male,Yes,Yes,1,I don't know,Possibly
+1760,32.0,Male,Yes,Yes,1,I don't know,Yes
+1763,33.0,Male,Yes,Yes,0,I don't know,Yes
+1764,37.0,Male,Yes,Yes,1,No,Yes
+1771,33.0,Male,Yes,Yes,1,Yes,Yes
+1774,35.0,Cis-male,Yes,Yes,1,Yes,Yes
+1776,36.0,Male,Yes,Yes,1,I don't know,Possibly
+1777,44.0,f,Yes,Yes,1,Yes,Yes
+1781,26.0,Male,Yes,Yes,1,Yes,Yes
+1784,35.0,Male,Yes,No,1,Yes,
+1791,45.0,M,Yes,Yes,1,Yes,Yes
+1796,26.0,male,Yes,Yes,1,Yes,Yes
+1798,29.0,male,Yes,Yes,1,No,Yes
+1799,30.0,Male,Yes,Yes,1,Yes,Yes
+1801,27.0,Male,Yes,Yes,1,Yes,Yes
+1804,31.0,Female,Yes,Yes,1,I don't know,Possibly
+1810,41.0,Male,Yes,Yes,1,Yes,Yes
+1814,42.0,Male,Yes,Yes,1,I don't know,Don't Know
+1815,41.0,Male,Yes,Yes,0,No,Yes
+1816,35.0,Non-binary,Yes,Yes,1,Yes,Yes
+1818,37.0,Male,Yes,Yes,1,Yes,No
+1828,42.0,male,Yes,Yes,1,No,Yes
+1829,28.0,Female,Yes,Yes,1,Yes,Yes
+1830,29.0,Male,Yes,Yes,1,No,Yes
+1835,28.0,Male,Yes,Yes,1,Yes,Yes
+1836,28.0,Female ,Yes,Yes,1,Yes,Yes
+1838,33.0,Male,Yes,Yes,1,Yes,Yes
+1840,48.0,Male,Yes,Yes,1,No,Yes
+1843,29.0,Female,Yes,Yes,1,No,Yes
+1844,39.0,male,Yes,Yes,1,Yes,Yes
+1849,33.0,Female,Yes,Yes,1,Yes,Yes
+1855,30.0,Male,Yes,Yes,1,I don't know,No
+1858,37.0,male,Yes,Yes,1,Yes,Possibly
+1861,33.0,Male,Yes,Yes,1,I don't know,Yes
+1866,28.0,Male,Yes,Yes,1,I don't know,Possibly
+1872,31.0,f,Yes,Yes,1,I don't know,Yes
+1876,23.0,Male,Yes,Yes,1,I don't know,Yes
+1880,34.0,Male,Yes,Yes,1,I don't know,Possibly
+1885,37.0,Male,Yes,Yes,1,I don't know,Yes
+1886,39.0,M,Yes,Yes,1,No,Don't Know
+1887,29.0,Female,Yes,Yes,1,Yes,Yes
+1888,57.0,f,Yes,Yes,1,Yes,Yes
+1889,27.0,Female,Yes,Yes,1,Yes,Yes
+1892,29.0,Male,Yes,Yes,1,Yes,Yes
+1893,24.0,Male,Yes,Yes,1,Yes,Yes
+1894,30.0,female,Yes,Yes,1,Yes,Yes
+1896,37.0,M,Yes,Yes,1,Yes,Possibly
+1899,36.0,Male,Yes,Yes,0,Yes,Possibly
+1900,52.0,Male,Yes,Yes,1,No,Yes
+1902,30.0,male,Yes,Yes,1,I don't know,Yes
+1903,41.0,male,Yes,Yes,1,Yes,Yes
+1905,37.0,,Yes,Yes,1,No,No
+1906,29.0,Female,Yes,Yes,1,Yes,Possibly
+1907,39.0,female,Yes,Yes,1,Yes,Yes
+1908,30.0,F,Yes,Yes,1,Yes,Yes
+1909,23.0,woman,Yes,Yes,1,Yes,Yes
+1911,38.0,Male,Yes,Yes,1,Yes,Yes
+1912,41.0,female,Yes,Yes,1,Yes,Yes
+1914,56.0,Woman,Yes,Yes,1,Yes,Yes
+1916,32.0,female,Yes,Yes,1,Yes,Yes
+1917,30.0,female,Yes,Yes,1,Yes,Yes
+1918,31.0,sometimes,Yes,Yes,1,Yes,Yes
+1919,36.0,M,Yes,Yes,1,No,Yes
+1920,32.0,Male,Yes,Yes,1,Yes,Yes
+1921,37.0,Female,Yes,Yes,1,Yes,Yes
+1923,31.0,Female,Yes,Yes,1,I don't know,No
+1924,39.0,Male,Yes,Yes,1,Yes,Yes
+1926,27.0,,Yes,Yes,1,I don't know,Yes
+1928,37.0,male,Yes,Yes,1,Yes,Don't Know
+1933,38.0,Male,Yes,Yes,1,I don't know,Yes
+1934,35.0,female,Yes,Yes,1,Yes,Possibly
+1935,26.0,Male,Yes,Yes,1,Yes,Yes
+1942,46.0,Male,Yes,Yes,1,Yes,Yes
+1944,22.0,Male,Yes,Yes,1,Yes,Yes
+1945,50.0,female,Yes,Yes,1,Yes,Yes
+1947,40.0,Male,Yes,Yes,1,No,Yes
+1949,38.0,Male,Yes,Yes,1,No,Yes
+1950,45.0,Male,Yes,Yes,1,Yes,Yes
+1951,31.0,Female,Yes,Yes,1,Yes,Yes
+1953,28.0,Female,Yes,Yes,1,Yes,Yes
+1956,45.0,Female,Yes,Yes,1,Yes,Yes
+1957,36.0,Male,Yes,Yes,1,Yes,Yes
+1958,34.0,Female,Yes,Yes,1,I don't know,Yes
+1962,52.0,Female (cis) ,Yes,Yes,1,Yes,Yes
+1964,41.0,Female,Yes,Yes,1,Yes,Yes
+1966,33.0,Woman-identified,Yes,Yes,1,No,Yes
+1968,40.0,male,Yes,Yes,1,Yes,Yes
+1972,35.0,Female,Yes,Yes,1,Yes,Yes
+1975,35.0,Female,Yes,Yes,1,Yes,Yes
+1976,34.0,female,Yes,Yes,1,No,Yes
+1978,38.0,m,Yes,Yes,1,Yes,Yes
+1979,42.0,Male,Yes,Yes,1,No,Yes
+1982,30.0,Male,Yes,Yes,1,Yes,Yes
+1984,29.0,Female,Yes,Yes,1,No,Yes
+1989,32.0,F,Yes,Yes,1,Yes,Yes
+1991,33.0,Male,Yes,Yes,1,I don't know,Possibly
+1994,23.0,Female,Yes,Yes,1,Yes,No
+1995,30.0,Male,Yes,Yes,1,Yes,Yes
+1996,24.0,Male,Yes,Yes,1,Yes,Yes
+1997,34.0,Female,Yes,Yes,1,Yes,Yes
+1999,41.0,female,Yes,Yes,1,Yes,Yes
+2000,37.0,Male,Yes,Yes,1,I don't know,Yes
+2004,44.0,Male,Yes,Yes,1,No,Possibly
+2007,27.0,Non binary,Yes,Yes,1,Yes,Yes
+2009,38.0,Genderqueer demigirl,Yes,Yes,1,Yes,Yes
+2010,34.0,Male,Yes,Yes,1,Yes,Yes
+2011,27.0,female,Yes,Yes,1,I don't know,Yes
+2014,33.0,Female,Yes,Yes,1,Yes,Yes
+2015,39.0,Male,Yes,Yes,1,Yes,Possibly
+2016,33.0,Genderqueer/non-binary,Yes,No,1,Yes,
+2017,37.0,f,Yes,Yes,1,Yes,Yes
+2020,29.0,Male,Yes,Yes,1,Yes,Yes
+2022,24.0,Male ,Yes,Yes,1,Yes,Yes
+2023,37.0,Male,Yes,Yes,1,I don't know,Yes
+2026,50.0,M,Yes,Yes,1,I don't know,Yes
+2027,30.0,Male,Yes,Yes,1,Yes,Yes
+2030,32.0,male,Yes,Yes,1,Yes,Yes
+2031,34.0,Male,Yes,Yes,1,Yes,Yes
+2034,35.0,cis-Female,Yes,Yes,1,Yes,Yes
+2035,33.0,Nonbinary,Yes,Yes,1,I don't know,Yes
+2038,33.0,Male,Yes,Yes,1,Yes,Yes
+2039,40.0,Female,Yes,Yes,1,Yes,Don't Know
+2042,28.0,Nonbinary,Yes,Yes,1,Yes,Yes
+2044,48.0,Male,Yes,Yes,1,Yes,Yes
+2045,43.0,cis female,Yes,Yes,1,Yes,Yes
+2047,36.0,nonbinary,Yes,Yes,1,I don't know,Yes
+2048,34.0,Male,Yes,Yes,1,Yes,Yes
+2054,36.0,Male,Yes,No,1,Yes,
+2055,32.0,woman,Yes,Yes,1,Yes,Don't Know
+2057,40.0,"F, cisgender",Yes,Yes,1,No,Yes
+2060,46.0,Male,Yes,Yes,1,Yes,Yes
+2061,20.0,male,Yes,Yes,1,Yes,Yes
+2062,30.0,Male,Yes,Yes,1,I don't know,Yes
+2064,34.0,Male,Yes,Yes,1,I don't know,Possibly
+2065,38.0,Female-ish,Yes,Yes,1,Yes,Yes
+2066,35.0,Male,Yes,Yes,1,I don't know,Yes
+2068,35.0,Male,Yes,Yes,1,I don't know,Yes
+2078,45.0,Female,Yes,Yes,1,Yes,Yes
+2079,31.0,Female,Yes,Yes,1,Yes,Yes
+2081,30.0,m,Yes,Yes,1,I don't know,No
+2082,32.0,Male,Yes,Yes,1,I don't know,Possibly
+2083,37.0,Female,Yes,Yes,1,Yes,Yes
+2085,31.0,trans woman,Yes,Yes,1,I don't know,Yes
+2096,24.0,female,Yes,Yes,0,Yes,Yes
+2106,33.0,m,Yes,Yes,1,I don't know,Yes
+2107,46.0,m,Yes,Yes,1,I don't know,Possibly
+2110,31.0,Male,Yes,Yes,1,Yes,Yes
+2111,28.0,Male,Yes,Yes,1,Yes,Possibly
+2118,26.0,Male,Yes,Yes,1,I don't know,Yes
+2120,32.0,F,Yes,Yes,1,I don't know,Yes
+2122,27.0,female,Yes,Yes,1,Yes,Yes
+2123,45.0,female,Yes,Yes,1,Yes,Yes
+2124,34.0,female,Yes,Yes,1,No,Yes
+2126,29.0,female,Yes,Yes,1,Yes,Yes
+2132,35.0,Female,Yes,Yes,1,Yes,Yes
+2137,25.0,Cis-male,Yes,Yes,1,Yes,Yes
+2139,28.0,Male,Yes,Yes,1,Yes,Yes
+2144,23.0,Male,Yes,No,1,Yes,
+2145,53.0,M,Yes,Yes,1,Yes,Yes
+2146,34.0,Male,Yes,Yes,1,Yes,Yes
+2148,23.0,Male,Yes,Yes,1,I don't know,Yes
+2149,30.0,Male,Yes,Yes,1,Yes,Yes
+2150,22.0,F,Yes,Yes,1,Yes,Yes
+2151,27.0,Female,Yes,Yes,1,I don't know,Yes
+2153,33.0,female,Yes,Yes,1,Yes,Yes
+2168,31.0,F,Yes,Yes,1,Yes,Yes
+2170,36.0,Cis Male,Yes,Yes,1,Yes,Yes
+2171,42.0,Female,Yes,Yes,1,Yes,Yes
+2173,41.0,Female,Yes,Yes,1,Yes,Yes
+2179,57.0,F,Yes,Yes,1,I don't know,Yes
+2182,29.0,Male,Yes,Yes,1,Yes,Possibly
+2185,40.0,Male,Yes,Yes,1,No,Yes
+2186,,,Yes,Yes,1,Yes,Yes
+2188,,,Yes,Yes,1,Yes,Yes
+2190,29.0,male,Yes,Yes,1,Yes,Yes
+2193,29.0,Ostensibly Male,Yes,Yes,1,Yes,Yes
+2195,29.0,Agender,Yes,Yes,1,No,Don't Know
+2196,35.0,male,Yes,Yes,1,I don't know,Yes
+2199,45.0,Male,Yes,Yes,1,Yes,Possibly
+2200,31.0,Male,Yes,Yes,1,I don't know,Yes
+2204,35.0,Male,Yes,Yes,1,Yes,Yes
+2205,47.0,Male,Yes,Yes,0,Yes,Yes
+2206,37.0,Male,Yes,Yes,1,I don't know,Yes
+2208,46.0,Male,Yes,Yes,1,I don't know,Yes
+2209,37.0,Male,Yes,Yes,1,Yes,Yes
+2210,36.0,male,Yes,Yes,1,Yes,Yes
+2217,26.0,Male,Yes,Yes,1,Yes,Yes
+2218,44.0,Male,Yes,Yes,1,Yes,Possibly
+2222,38.0,M,Yes,Yes,1,Yes,Yes
+2223,61.0,Male,Yes,Yes,1,No,Yes
+2225,32.0,Female ,Yes,Yes,1,Yes,Yes
+2229,44.0,male,Yes,Yes,1,Yes,Yes
+2230,39.0,Male,Yes,Yes,1,Yes,Yes
+2234,33.0,male,Yes,Yes,1,Yes,Possibly
+2238,43.0,Female,Yes,Yes,1,No,Yes
+2240,35.0,male,Yes,Yes,1,Yes,No
+2242,37.0,male,Yes,Yes,1,Yes,Yes
+2243,35.0,female,Yes,Yes,1,Yes,Yes
+2249,26.0,M,Yes,Yes,1,Yes,Yes
+2251,24.0,Male,Yes,Yes,1,No,Yes
+2252,34.0,Male,Yes,Yes,1,Yes,Yes
+2254,19.0,female,Yes,Yes,1,Yes,Yes
+2256,26.0,male,Yes,Yes,1,Yes,Possibly
+2257,32.0,male,Yes,Yes,1,Yes,No
+2258,23.0,male,Yes,Yes,1,I don't know,Yes
+2261,38.0,MALE,Yes,Yes,1,Yes,Yes
+2262,30.0,Female,Yes,Yes,1,I don't know,Yes
+2265,35.0,Male,Yes,Yes,1,I don't know,Yes
+2266,26.0,Female,Yes,Yes,1,Yes,Yes
+2268,57.0,Male,Yes,Yes,1,Yes,Yes
+2270,20.0,Female,Yes,Yes,1,No,Yes
+2273,35.0,Male,Yes,Yes,1,I don't know,Yes
+2276,42.0,Male,Yes,Yes,1,Yes,Yes
+2278,28.0,M,Yes,Yes,1,Yes,Yes
+2281,45.0,Male,Yes,Yes,0,No,No
+2284,28.0,Male,Yes,Yes,1,I don't know,Yes
+2285,31.0,male,Yes,Yes,1,Yes,Yes
+2286,28.0,Male,Yes,Yes,1,No,Possibly
+2290,37.0,Male,Yes,Yes,1,Yes,Yes
+2294,25.0,I identify as female,Yes,Yes,1,Yes,Possibly
+2295,29.0,*shrug emoji* (F),Yes,Yes,1,Yes,Yes
+2302,40.0,Male,Yes,Yes,1,Yes,Don't Know
+2305,34.0,M,Yes,Yes,1,No,Yes
+2306,31.0,Female,Yes,Yes,1,Yes,Yes
+2307,35.0,Female,Yes,Yes,1,I don't know,No
+2311,56.0,male,Yes,Yes,1,Yes,Yes
+2312,27.0,Female,Yes,Yes,1,Yes,Yes
+2315,30.0,Female,Yes,Yes,0,I don't know,Possibly
+2317,30.0,Female,Yes,Yes,1,Yes,Yes
+2319,36.0,Male,Yes,Yes,1,Yes,No
+2321,45.0,Female,Yes,Yes,1,Yes,Yes
+2323,38.0,f,Yes,Yes,1,Yes,Yes
+2325,37.0,Male,Yes,Yes,1,Yes,Yes
+2327,28.0,Nonbinary,Yes,Yes,1,Yes,Yes
+2328,34.0,female,Yes,Yes,1,Yes,Yes
+2329,29.0,f,Yes,Yes,1,Yes,Yes
+2330,28.0,female,Yes,Yes,1,Yes,Yes
+2331,41.0,Male,Yes,Yes,1,Yes,Yes
+2332,38.0,Male,Yes,Yes,1,Yes,Possibly
+2335,28.0,Female,Yes,Yes,0,Yes,Yes
+2336,30.0,male,Yes,Yes,1,Yes,Yes
+2337,25.0,Female,Yes,Yes,1,No,Yes
+2342,28.0,Trans man,Yes,Yes,1,Yes,Yes
+2345,37.0,Cis-male,Yes,Yes,1,I don't know,Yes
+2348,35.0,Female,Yes,Yes,1,I don't know,Yes
+2350,43.0,Male,Yes,Yes,1,No,Possibly
+2353,38.0,Male,Yes,Yes,1,Yes,Yes
+2356,37.0,Male,Yes,Yes,1,Yes,No
+2360,43.0,M,Yes,Yes,1,I don't know,Yes
+2361,29.0,Male,Yes,Yes,1,Yes,Yes
+2369,37.0,cis male,Yes,Yes,1,Yes,Yes
+2372,49.0,Male,Yes,Yes,1,No,Yes
+2374,38.0,non binary,Yes,Yes,1,Yes,Yes
+2376,23.0,Male,Yes,Yes,1,I don't know,Yes
+2378,36.0,male,Yes,Yes,1,Yes,Yes
+2379,38.0,Male,Yes,No,1,No,
+2381,37.0,f,Yes,Yes,1,Yes,Yes
+2382,25.0,male,Yes,Yes,1,Yes,Yes
+2385,32.0,Female,Yes,Yes,1,Yes,Yes
+2387,25.0,Female ,Yes,Yes,1,Yes,Yes
+2388,40.0,Cis woman,Yes,Yes,1,Yes,Yes
+2391,49.0,M,Yes,Yes,1,Yes,Yes
+2392,33.0,female,Yes,Yes,1,Yes,Yes
+2393,41.0,Cis Male,Yes,Yes,1,I don't know,Yes
+2395,37.0,Male,Yes,Yes,1,Yes,Yes
+2396,39.0,Male,Yes,Yes,1,Yes,Yes
+2403,35.0,Male,Yes,Yes,1,I don't know,Yes
+2405,21.0,Male,Yes,Yes,1,Yes,Yes
+2407,31.0,Female,Yes,Yes,1,Yes,Yes
+2408,27.0,Cis-Female,Yes,Yes,1,Yes,Yes
+2409,23.0,Man,Yes,Yes,1,I don't know,Yes
+2411,37.0,Female,Yes,Yes,1,Yes,Yes
+2414,30.0,Cisgendered woman,Yes,Yes,1,I don't know,Yes
+2416,35.0,M,Yes,Yes,1,Yes,Yes
+2417,45.0,Female,Yes,Yes,1,Yes,Yes
+2418,31.0,female,Yes,Yes,1,Yes,Yes
+2419,34.0,Female,Yes,Yes,1,Yes,Possibly
+2421,33.0,Trans woman,Yes,Yes,1,I don't know,Possibly
+2425,33.0,Male,Yes,Yes,1,Yes,Possibly
+2427,28.0,Female,Yes,No,1,Yes,
+2434,21.0,Male,Yes,Yes,1,Yes,Yes
+2437,40.0,Male ,Yes,Yes,1,Yes,Possibly
+2438,35.0,Male,Yes,Yes,1,Yes,Yes
+2440,25.0,Female,Yes,Yes,1,Yes,Yes
+2442,40.0,genderfluid,Yes,Yes,1,I don't know,Yes
+2443,31.0,Female,Yes,Yes,1,Yes,Yes
+2444,47.0,F,Yes,Yes,1,I don't know,Possibly
+2445,26.0,Genderqueer,Yes,Yes,1,Yes,Yes
+2446,27.0,Female,Yes,Yes,1,Yes,Yes
+2448,22.0,Woman,Yes,Yes,1,Yes,Yes
+2450,27.0,Male,Yes,Yes,1,Yes,Yes
+2452,32.0,female,Yes,Yes,1,Yes,Yes
+2454,27.0,Female,Yes,Yes,1,Yes,Yes
+2455,38.0,female,Yes,Yes,1,Yes,Yes
+2456,31.0,Male,Yes,Yes,1,Yes,Yes
+2457,28.0,Female,Yes,Yes,1,No,Yes
+2460,26.0,Female,Yes,Yes,1,No,Yes
+2467,33.0,Female,Yes,Yes,1,I don't know,Yes
+2469,29.0,female,Yes,Yes,1,I don't know,Yes
+2470,25.0,Female,Yes,Yes,1,I don't know,No
+2472,37.0,Female,Yes,Yes,1,Yes,Yes
+2473,29.0,Male,Yes,Yes,1,Yes,Possibly
+2477,30.0,Trans female,Yes,Yes,1,Yes,Yes
+2480,44.0,F,Yes,Yes,1,Yes,Yes
+2481,35.0,Female,Yes,Yes,1,I don't know,Yes
+2483,26.0,Male,Yes,Yes,1,Yes,Yes
+2486,36.0,F,Yes,Yes,1,Yes,Yes
+2487,32.0,female,Yes,Yes,1,Yes,Yes
+2488,29.0,Female,Yes,Yes,1,Yes,Yes
+2493,46.0,Male,Yes,Yes,1,Yes,Yes
+2494,35.0,Female,Yes,Yes,1,Yes,Yes
+2496,30.0,Female,Yes,Yes,1,Yes,Yes
+2497,36.0,Male,Yes,Yes,1,I don't know,Yes
+2498,31.0,Female,Yes,Yes,1,I don't know,Yes
+2504,36.0,She/her/they/them,Yes,Yes,1,Yes,Yes
+2509,23.0,Male,Yes,Yes,1,No,Yes
+2517,36.0,Male,Yes,Yes,1,Yes,Yes
+2519,31.0,Female,Yes,Yes,1,Yes,Possibly
+2522,32.0,Male,Yes,Yes,1,Yes,Yes
+2523,23.0,Other,Yes,Yes,0,Yes,Yes
+2524,51.0,Male,Yes,Yes,1,Yes,Yes
+2525,26.0,Cis female ,Yes,Yes,1,I don't know,Yes
+2527,44.0,Male,Yes,Yes,0,I don't know,Yes
+2528,42.0,Male,Yes,Yes,1,I don't know,Yes
+2529,26.0,Male,Yes,Yes,1,I don't know,Yes
+2530,38.0,Male,Yes,Yes,1,I don't know,Don't Know
+2531,26.0,Female ,Yes,Yes,1,Yes,Yes
+2532,40.0,Male,Yes,Yes,1,Yes,Yes
+2534,39.0,Male,Yes,Yes,1,Yes,Yes
+2535,44.0,female,Yes,Yes,1,Yes,Yes
+2536,33.0,Female,Yes,Yes,1,Yes,Yes
+2537,38.0,male,Yes,Yes,1,I don't know,No
+2538,42.0,Male,Yes,Yes,1,I don't know,Possibly
+2539,57.0,Male,Yes,Yes,1,I don't know,Yes
+2541,31.0,male,Yes,Yes,1,No,Possibly
+2545,30.0,Male,Yes,Yes,1,No,Yes
+2546,35.0,Male,Yes,Yes,1,Yes,Yes
+2552,34.0,Male,Yes,Yes,1,I don't know,Yes
+2553,33.0,Female,Yes,Yes,1,Yes,Possibly
+2555,36.0,Male,Yes,Yes,1,Yes,Yes
+2558,29.0,NB,Yes,Yes,1,Yes,Yes
+2561,30.0,Genderfluid,Yes,Yes,1,Yes,Yes
+2563,24.0,Female,Yes,Yes,1,I don't know,Yes
+2565,48.0,Female,Yes,Yes,1,Yes,Possibly
+2566,31.0,Man,Yes,Yes,1,Yes,Yes
+2570,33.0,Female,Yes,Yes,1,Yes,Yes
+2571,41.0,F,Yes,Yes,1,No,Yes
+2572,24.0,Female,Yes,Yes,1,I don't know,Yes
+2575,37.0,male,Yes,Yes,1,Yes,Yes
+2576,61.0,male,Yes,Yes,1,No,Yes
+2578,29.0,Male,Yes,Yes,1,Yes,Yes
+2579,41.0,Male,Yes,Yes,1,Yes,Yes
+2581,30.0,Male,Yes,Yes,1,Yes,Yes
+2584,29.0,Woman,Yes,Yes,1,Yes,Yes
+2585,34.0,Female,Yes,Yes,1,Yes,Yes
+2586,52.0,Male,Yes,Yes,1,I don't know,Yes
+2590,51.0,Male,Yes,Yes,1,Yes,Yes
+2592,34.0,Male,Yes,Yes,1,Yes,Yes
+2593,24.0,gender non-conforming woman,Yes,Yes,1,Yes,Yes
+2595,24.0,Female ,Yes,Yes,1,Yes,Yes
+2598,35.0,M,Yes,Yes,1,I don't know,Yes
+2600,28.0,male,Yes,Yes,1,I don't know,Yes
+2602,39.0,Male,Yes,Yes,1,Yes,Yes
+2603,31.0,Male,Yes,Yes,1,I don't know,Possibly
+2605,35.0,Male,Yes,Yes,1,I don't know,Yes
+2611,36.0,female,Yes,Yes,1,Yes,Yes
+2612,39.0,Female,Yes,Yes,1,Yes,Yes
+2619,37.0,Male,Yes,Yes,1,Yes,Yes
+2620,26.0,female,Yes,Yes,1,No,Don't Know
+2621,43.0,M,Yes,Yes,0,No,Possibly
+2625,37.0,Male,Yes,Yes,1,I don't know,Possibly
+2627,40.0,f,Yes,Yes,1,Yes,Yes
+2628,37.0,male,Yes,Yes,1,I don't know,Yes
+2631,37.0,Male,Yes,Yes,1,Yes,Yes
+2632,45.0,female,Yes,Yes,1,Yes,Yes
+2634,28.0,Male,Yes,Yes,1,Yes,Yes
+2635,24.0,Female,Yes,Yes,1,I don't know,Yes
+2640,23.0,Non-binary,Yes,Yes,1,I don't know,Possibly
+2645,58.0,Male,Yes,Yes,1,No,Yes
+2647,41.0,Male,Yes,Yes,1,Yes,Yes
+2649,28.0,Male,Yes,Yes,1,I don't know,Yes
+2651,37.0,Male,Yes,Yes,1,Yes,Yes
+2652,36.0,m,Yes,Yes,1,I don't know,Possibly
+2657,64.0,Male,Yes,Yes,1,No,Yes
+2659,37.0,Male,Yes,Yes,0,I don't know,Possibly
+2660,53.0,Female,Yes,Yes,1,No,Yes
+2669,28.0,Woman,Yes,Yes,1,Yes,Yes
+2674,32.0,Male,Yes,Yes,1,No,Possibly
+2676,30.0,Female,Yes,Yes,1,Yes,Yes
+2680,30.0,Male,Yes,Yes,1,Yes,Yes
+2687,24.0,Female,Yes,Yes,1,Yes,Possibly
+2695,33.0,Male,Yes,Yes,1,I don't know,Yes
+2697,26.0,female,Yes,Yes,1,I don't know,Yes
+2698,32.0,Female,Yes,Yes,1,Yes,Yes
+2700,41.0,M,Yes,Yes,0,I don't know,Yes
+2704,34.0,Non-binary,Yes,Yes,1,Yes,Yes
+2707,30.0,male,Yes,Yes,1,Yes,Yes
+2708,45.0,Female,Yes,Yes,1,Yes,Yes
+2712,35.0,Female-identified,Yes,Yes,1,I don't know,Yes
+2713,41.0,Male,Yes,No,1,I don't know,
+2718,20.0,Woman,Yes,Yes,1,Yes,Yes
+2719,24.0,woman,Yes,Yes,1,Yes,Yes
+2722,31.0,Male,Yes,Yes,1,I don't know,Yes
+2723,26.0,M,Yes,Yes,1,Yes,Yes
+2724,40.0,Male,Yes,Yes,1,Yes,Yes
+2725,30.0,male,Yes,Yes,1,Yes,Yes
+2726,38.0,Male,Yes,Yes,1,No,Don't Know
+2729,30.0,Male,Yes,Yes,1,Yes,Possibly
+2730,23.0,Nonbinary,Yes,Yes,1,Yes,Yes
+2732,33.0,female,Yes,Yes,1,Yes,Yes
+2734,38.0,Male,Yes,Yes,1,I don't know,Yes
+2738,42.0,Male,Yes,Yes,1,I don't know,Yes
+2739,38.0,Male,Yes,Yes,1,I don't know,Yes
+2740,33.0,agender,Yes,Yes,1,Yes,Yes
+2741,35.0,Male,Yes,Yes,1,Yes,Yes
+2744,42.0,Male,Yes,No,1,No,
+2747,54.0,female,Yes,Yes,1,Yes,Yes
+2749,26.0,Female,Yes,Yes,1,I don't know,No
+2751,49.0,Female,Yes,Yes,1,I don't know,Yes
+2753,42.0,Female,Yes,Yes,1,I don't know,Possibly
+2758,27.0,Man,Yes,Yes,1,Yes,Yes
+2760,28.0,Male,Yes,Yes,1,Yes,Yes
+2761,49.0,Female,Yes,Yes,1,Yes,Yes
+2763,23.0,Questioning,Yes,Yes,1,I don't know,Yes
+2764,38.0,cis male,Yes,Yes,1,Yes,Yes
+2765,45.0,Male,Yes,Yes,1,Yes,Yes
+2767,51.0,Male,Yes,Yes,1,Yes,Yes
+2772,32.0,Cis Male,Yes,Yes,1,Yes,Yes
+2773,22.0,female,Yes,Yes,1,Yes,Yes
+2774,28.0,Male,Yes,Yes,1,Yes,Yes
+2775,29.0,female,Yes,Yes,1,I don't know,Yes
+2777,38.0,female,Yes,Yes,1,Yes,Yes
+2779,37.0,Female,Yes,Yes,1,Yes,Yes
+2780,38.0,Female,Yes,Yes,1,Yes,Yes
+2781,51.0,F,Yes,Yes,1,Yes,Yes
+2782,39.0,Male,Yes,Yes,1,Yes,Yes
+2784,26.0,Male,Yes,Yes,1,Yes,Yes
+2786,49.0,male,Yes,Yes,1,No,Yes
+2789,31.0,Male,Yes,Yes,1,I don't know,Yes
+2797,44.0,rr,Yes,Yes,1,Yes,Yes
+2800,36.0,Male,Yes,Yes,0,I don't know,No
+2802,30.0,Female,Yes,Yes,1,Yes,Yes
+2804,40.0,Male,Yes,Yes,1,Yes,Yes
+2806,28.0,female,Yes,Yes,1,Yes,Yes
+2807,34.0,male,Yes,Yes,1,Yes,Yes
+2808,34.0,Male,Yes,Yes,1,I don't know,Don't Know
+2809,34.0,Female,Yes,Yes,1,Yes,Yes
+2810,27.0,Female,Yes,Yes,1,Yes,Yes
+2812,36.0,Male,Yes,Yes,1,I don't know,Possibly
+2813,31.0,female,Yes,Yes,1,Yes,Yes
+2814,26.0,Agender trans woman,Yes,Yes,1,No,Yes
+2816,36.0,Female,Yes,Yes,1,Yes,Yes
+2817,25.0,Female,Yes,Yes,1,Yes,Yes
+2818,47.0,m,Yes,Yes,1,I don't know,Yes
+2823,19.0,female,Yes,Yes,1,I don't know,Yes
+2824,35.0,Male,Yes,Yes,1,Yes,Yes
+2825,38.0,male,Yes,Yes,1,Yes,Yes
+2827,32.0,Male,Yes,Yes,1,Yes,Yes
+2828,39.0,male,Yes,Yes,1,Yes,Don't Know
+2830,38.0,Female,Yes,Yes,1,No,Possibly
+2838,53.0,male,Yes,Yes,1,Yes,Yes
+2842,29.0,Trans man,Yes,Yes,1,Yes,Yes
+2843,40.0,female,Yes,Yes,1,Yes,Possibly
+2846,39.0,male,Yes,Yes,0,No,No
+2850,29.0,Female,Yes,Yes,1,I don't know,Possibly
+2852,25.0,Female,Yes,Yes,1,Yes,Yes
+2854,37.0,Male,Yes,Yes,1,No,Yes
+2856,35.0,Female,Yes,Yes,1,Yes,Yes
+2857,50.0,Male,Yes,Yes,1,Yes,Yes
+2858,45.0,Male,Yes,Yes,1,I don't know,Possibly
+2859,49.0,Male,Yes,Yes,1,I don't know,Yes
+2869,49.0,male,Yes,No,1,I don't know,
+2873,30.0,Male,Yes,Yes,1,Yes,Yes
+2874,39.0,male,Yes,Yes,1,Yes,Yes
+2875,22.0,male,Yes,Yes,0,No,Yes
+2876,29.0,Male,Yes,Yes,1,Yes,Yes
+2877,30.0,Male,Yes,Yes,0,Yes,Possibly
+2878,32.0,male,Yes,Yes,1,No,Possibly
+2879,41.0,Male,Yes,Yes,1,Yes,Yes
+2882,27.0,Male,Yes,Yes,1,I don't know,Possibly
+2886,28.0,F,Yes,Yes,1,Yes,Yes
+2888,47.0,None,Yes,Yes,1,Yes,Yes
+2889,25.0,Male,Yes,Yes,1,I don't know,Possibly
+2891,45.0,M,Yes,Yes,1,Yes,Yes
+2895,32.0,female,Yes,Yes,1,Yes,Yes
+2896,43.0,female,Yes,Yes,1,Yes,Yes
+2898,51.0,Make,Yes,Yes,1,Yes,Possibly
+2902,28.0,Female,Yes,Yes,1,I don't know,Yes
+2903,26.0,Female,Yes,Yes,1,No,Yes
+2906,42.0,Female,Yes,Yes,1,I don't know,Yes
+2907,34.0,Male,Yes,Yes,1,I don't know,Possibly
+2909,28.0,male,Yes,Yes,1,No,No
+2916,41.0,Male,Yes,Yes,1,Yes,Yes
+2917,38.0,,Yes,Yes,1,Yes,Yes
+2919,21.0,Male,Yes,Yes,1,Yes,Don't Know
+2921,46.0,CIS Male,Yes,Yes,1,No,Possibly
+2922,36.0,female,Yes,Yes,1,Yes,Yes
+2924,33.0,Female,Yes,Yes,1,No,Yes
+2925,41.0,m,Yes,Yes,1,No,Yes
+2927,27.0,agender,Yes,Yes,1,Yes,Yes
+2928,47.0,Female,Yes,Yes,1,I don't know,Yes
+2929,24.0,Male,Yes,Yes,1,I don't know,Yes
+2930,40.0,male,Yes,Yes,1,No,No
+2934,30.0,Female,Yes,Yes,1,Yes,Yes
+2936,38.0,Female,Yes,Yes,1,Yes,Yes
+2937,42.0,Male,Yes,Yes,1,Yes,No
+2940,47.0,male,Yes,Yes,1,Yes,Yes
+2943,34.0,Non-binary and gender fluid,Yes,Yes,1,Yes,Yes
+2948,30.0,Male,Yes,Yes,1,Yes,Yes
+2949,27.0,Male,Yes,Yes,1,I don't know,Yes
+2950,42.0,Female,Yes,Yes,1,Yes,Yes
+2957,24.0,Female (cis),Yes,Yes,1,Yes,Yes
+2959,24.0,female,Yes,Yes,1,Yes,Yes
+2960,46.0,Male,Yes,No,0,Yes,
+2961,25.0,Female,Yes,No,0,Yes,
+2964,1.0,,Yes,Yes,1,Yes,Yes
+2968,42.0,female,Yes,Yes,1,Yes,Yes
+2969,54.0,male,Yes,Yes,1,Yes,Possibly
+2971,36.0,Female,Yes,Yes,1,Yes,Yes
+2972,30.0,male,Yes,Yes,1,I don't know,Yes
+2973,22.0,male,Yes,Yes,0,Yes,Yes
+2974,21.0,Female,Yes,Yes,1,Yes,Yes
+2975,46.0,male,Yes,Yes,1,Yes,Yes
+2977,20.0,Male,Yes,Yes,0,No,Don't Know
+2986,44.0,female,Yes,Yes,1,Yes,Yes
+2988,38.0,Male,Yes,Yes,1,I don't know,No
+2989,45.0,m,Yes,Yes,0,No,No
+2996,27.0,Woman,Yes,Yes,1,I don't know,Yes
+2997,34.0,Male,Yes,Yes,1,I don't know,Yes
+3004,34.0,Male,Yes,Yes,1,Yes,Yes
+3006,22.0,,Yes,No,0,No,
+3010,30.0,male,Yes,Yes,1,Yes,Yes
+3016,32.0,Male,Yes,Yes,1,Yes,Yes
+3018,33.0,FEMALE,Yes,Yes,1,Yes,Yes
+3021,34.0,Male,Yes,Yes,1,Yes,Yes
+3023,30.0,Male,Yes,Yes,1,I don't know,Yes
+3024,39.0,Male,Yes,Yes,1,I don't know,Yes
+3030,42.0,Male,Yes,Yes,1,Yes,Yes
+3033,40.0,male,Yes,Yes,1,Yes,Yes
+3036,29.0,"female, she/her",Yes,Yes,1,Yes,Yes
+3041,36.0,Male,Yes,Yes,1,Yes,Yes
+3048,54.0,female,Yes,Yes,1,Yes,Yes
+3056,44.0,male,Yes,Yes,1,No,Yes
+3061,20.0,Male,Yes,Yes,1,No,Yes
+3066,59.0,male,Yes,Yes,1,I don't know,Yes
+3068,48.0,F,Yes,Yes,1,Yes,Yes
+3079,42.0,male,Yes,Yes,1,Yes,Yes
+3081,28.0,male,Yes,Yes,1,Yes,Yes
+3082,45.0,Male,Yes,Yes,1,Yes,Yes
+3087,32.0,female,Yes,Yes,1,Yes,Don't Know
+3089,34.0,male,Yes,Yes,1,Yes,Yes
+3101,33.0,Female,Yes,Yes,0,No,Possibly
+3102,42.0,F,Yes,Yes,1,Yes,Yes
+3103,46.0,Male,Yes,Yes,1,Yes,Yes
+3104,30.0,m,Yes,Yes,1,No,Yes
+3111,38.0,Male,Yes,Yes,1,No,Yes
+3112,42.0,Male,Yes,Yes,1,Yes,Yes
+3118,24.0,F,Yes,No,0,I don't know,
+3121,24.0,Male,Yes,Yes,1,I don't know,Yes
+3124,34.0,male,Yes,Yes,1,I don't know,Yes
+3126,39.0,Male,Yes,Yes,1,Yes,Yes
+3131,40.0,Female,Yes,Yes,1,Yes,Yes
+3135,34.0,Male,Yes,Yes,1,Yes,Possibly
+3144,34.0,female,Yes,No,0,No,
+3147,34.0,f,Yes,No,1,Yes,
+3161,33.0,Male,Yes,Yes,1,Yes,Yes
+3167,42.0,afab non-binary,Yes,Yes,1,Yes,Yes
+3169,51.0,Female,Yes,Yes,1,Yes,Yes
+3170,27.0,Female,Yes,Yes,1,Yes,Yes
+3172,11.0,male,Yes,Yes,0,No,Don't Know
+3174,39.0,male,Yes,Yes,1,Yes,Don't Know
+3176,223.0,,Yes,Yes,1,Yes,Yes
+3181,24.0,Female,Yes,Yes,1,Yes,Yes
+3185,25.0,female,Yes,Yes,1,I don't know,Don't Know
+3189,36.0,Male,Yes,Yes,1,I don't know,No
+3190,40.0,female,Yes,Yes,1,Yes,Yes
+3193,31.0,Male,Yes,Yes,1,No,No
+3196,42.0,male/he/him,Yes,Yes,1,Yes,Yes
+3198,38.0,female,Yes,Yes,1,Yes,Yes
+3199,31.0,homem cis,Yes,Yes,1,Yes,Don't Know
+3201,44.0,Female,Yes,Yes,1,Yes,Yes
+3206,43.0,Male,Yes,Yes,1,I don't know,Yes
+3207,20.0,m,Yes,Yes,1,Yes,Yes
+3208,21.0,male,Yes,Yes,1,Yes,Yes
+3213,25.0,Female,Yes,Yes,1,Yes,Yes
+3214,21.0,Female,Yes,Yes,1,No,Yes
+3215,49.0,Male,Yes,Yes,1,Yes,Yes
+3217,35.0,Female,Yes,Yes,1,Yes,Yes
+3218,25.0,female,Yes,No,0,No,
+3222,41.0,cis-het male,Yes,Yes,1,Yes,Yes
+3223,36.0,cis male,Yes,Yes,1,I don't know,Possibly
+3229,23.0,Female,Yes,Yes,1,I don't know,Yes
+3235,38.0,Male,Yes,Yes,1,Yes,Yes
+3236,31.0,Female,Yes,Yes,1,No,Yes
+3238,29.0,M,Yes,Yes,1,Yes,No
+3241,47.0,woman,Yes,Yes,1,Yes,Yes
+3242,30.0,Female,Yes,Yes,1,Yes,Yes
+3243,33.0,female,Yes,Yes,1,Yes,Yes
+3245,37.0,Male,Yes,Yes,1,I don't know,Yes
+3246,30.0,Female,Yes,Yes,1,Yes,Yes
+3247,36.0,Non-binary/Agender,Yes,Yes,1,Yes,Yes
+3254,45.0,Male,Yes,Yes,0,Yes,Yes
+3255,30.0,Female,Yes,Yes,1,Yes,Yes
+3260,35.0,Male,Yes,Yes,1,I don't know,Possibly
+3264,33.0,Male,Yes,Yes,1,I don't know,Yes
+3268,38.0,male,Yes,No,1,No,
