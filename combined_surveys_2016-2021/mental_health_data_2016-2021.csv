@@ -1,5 +1,5 @@
 ,age,sex,self-employed,working_country,living_country,mental_illness_family_history,have_mental_illness,mental_disorder_in_the_past,number_of_employees_your_company_has,mental_health_benefits_from_previous_employers,mental_illness_diagnosis,mental_health_benefits_from_current_employer,discussing_mental_health_with_coworkers,sought_mental_treatment,discussing_mental_health_with_supervisor,mental_illness_medical_coverage
-0,39,Male,0,United Kingdom,United Kingdom,No,No,Yes,26-100,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,0,Yes,
+0,39,Male,0,United Kingdom,United Kingdom,No,No,Yes,26-100,"No, none did",Yes,Not eligible for coverage / NA,Maybe,0,Yes,
 1,29,male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"Yes, they all did",Yes,No,Maybe,1,Yes,
 2,38,Male ,0,United Kingdom,United Kingdom,No,No,Maybe,0-25,"No, none did",No,No,Maybe,1,Maybe,
 3,43,male,1,United Kingdom,United Kingdom,No,Yes,Yes,,Some did,Yes,,,1,,1
@@ -15,7 +15,7 @@
 13,44,Male,0,Canada,Canada,No,Maybe,Maybe,100-500,I don't know,No,Yes,No,0,Maybe,
 14,35,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,Yes,Yes,1,Yes,
 15,52,m,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,I don't know,Maybe,1,Maybe,
-16,32,I identify as female.,0,Canada,Canada,Yes,Yes,Yes,26-100,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+16,32,I identify as female.,0,Canada,Canada,Yes,Yes,Yes,26-100,"No, none did",Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 17,34,Male,0,United Kingdom,United Kingdom,No,No,No,500-1000,"No, none did",No,No,Yes,0,Maybe,
 18,25,female ,1,United States of America,United States of America,I don't know,Yes,Yes,,,Yes,,,1,,1
 19,31,M,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,I don't know,No,1,No,
@@ -28,8 +28,8 @@
 26,27,Male,0,Netherlands,Netherlands,I don't know,Yes,Yes,26-100,"No, none did",Yes,No,No,1,No,
 27,35,male,0,Germany,Germany,No,Maybe,No,100-500,"No, none did",No,I don't know,No,1,No,
 28,34,female,0,United Kingdom,United Kingdom,Yes,Maybe,Yes,500-1000,I don't know,No,I don't know,Maybe,1,Maybe,
-29,32,Bigender,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
-30,32,non-binary,0,Germany,Germany,Yes,Yes,Yes,100-500,,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+29,32,Bigender,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
+30,32,non-binary,0,Germany,Germany,Yes,Yes,Yes,100-500,,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 31,30,Male,0,United States of America,United States of America,No,Yes,Yes,100-500,Some did,Yes,Yes,Yes,1,Yes,
 32,31,Male,0,United States of America,United States of America,I don't know,Maybe,Yes,More than 1000,,No,I don't know,No,0,Maybe,
 33,37,Male ,1,Czech Republic,Czech Republic,No,No,No,,Some did,No,,,0,,0
@@ -60,7 +60,7 @@
 58,40,female,0,United States of America,United States of America,I don't know,Maybe,Maybe,0-25,I don't know,No,Yes,No,0,Maybe,
 59,40,Male,0,United States of America,United States of America,I don't know,No,No,100-500,"No, none did",No,I don't know,Maybe,0,No,
 60,41,man,0,France,France,I don't know,Maybe,No,More than 1000,"No, none did",No,Yes,Maybe,0,Yes,
-61,27,Male,0,United Kingdom,United Kingdom,No,Maybe,Yes,26-100,I don't know,Yes,Not eligible for coverage / N/A,No,1,Maybe,
+61,27,Male,0,United Kingdom,United Kingdom,No,Maybe,Yes,26-100,I don't know,Yes,Not eligible for coverage / NA,No,1,Maybe,
 62,30,Male,0,United States of America,United States of America,No,No,No,26-100,Some did,No,Yes,Yes,0,Yes,
 63,29,Male,1,Venezuela,Venezuela,I don't know,Maybe,Maybe,,"No, none did",No,,,0,,0
 64,38,Male,1,United Kingdom,United Kingdom,No,No,No,,I don't know,No,,,0,,0
@@ -181,7 +181,7 @@
 179,27,Male,0,United States of America,United States of America,Yes,Yes,Maybe,100-500,I don't know,Yes,Yes,Yes,1,Yes,
 180,37,male,0,United Kingdom,United Kingdom,I don't know,No,Maybe,0-25,I don't know,No,No,Yes,0,Yes,
 181,37,Male,0,United Kingdom,United Kingdom,No,No,No,100-500,,No,I don't know,No,0,No,
-182,26,Other/Transfeminine,0,Netherlands,Netherlands,No,Maybe,Yes,NaN,I don't know,Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+182,26,Other/Transfeminine,0,Netherlands,Netherlands,No,Maybe,Yes,NaN,I don't know,Yes,Not eligible for coverage / NA,Yes,1,Yes,
 183,23,M,0,Netherlands,Netherlands,Yes,No,No,500-1000,"Yes, they all did",No,No,Maybe,1,Yes,
 184,40,Male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,"No, none did",Yes,Yes,Maybe,1,Maybe,
 185,29,M,0,Denmark,Denmark,No,No,No,NaN,I don't know,No,No,Maybe,0,Yes,
@@ -204,7 +204,7 @@
 202,24,M,0,Russia,Russia,No,Maybe,Maybe,500-1000,I don't know,No,I don't know,Yes,0,Yes,
 203,29,Female or Multi-Gender Femme,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,"Yes, they all did",Yes,Yes,Yes,1,Yes,
 204,29,Male,0,United States of America,United States of America,No,Maybe,Yes,100-500,"No, none did",No,I don't know,Maybe,1,Yes,
-205,24,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+205,24,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 206,30,Male,0,Sweden,Sweden,Yes,No,Maybe,500-1000,"No, none did",No,I don't know,Yes,1,Maybe,
 207,30,male,0,United States of America,United States of America,No,Yes,Yes,26-100,Some did,Yes,I don't know,No,1,No,
 208,44,male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,No,No,1,No,
@@ -222,7 +222,7 @@
 220,31,Male ,0,Denmark,Denmark,I don't know,Yes,Yes,26-100,"Yes, they all did",Yes,Yes,Yes,0,Yes,
 221,37,M,0,Canada,Canada,Yes,No,No,26-100,"Yes, they all did",No,Yes,Maybe,0,No,
 222,35,Male,0,United States of America,United States of America,No,No,No,100-500,I don't know,No,I don't know,Maybe,0,Yes,
-223,26,female,0,Spain,Spain,Yes,No,Yes,0-25,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+223,26,female,0,Spain,Spain,Yes,No,Yes,0-25,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
 224,31,Male,0,United Kingdom,United Kingdom,I don't know,No,No,100-500,"No, none did",No,Yes,Yes,0,Yes,
 225,29,female,0,United States of America,United States of America,Yes,No,Maybe,500-1000,Some did,No,Yes,Maybe,1,Maybe,
 226,33,M,0,France,France,Yes,No,Yes,26-100,I don't know,Yes,I don't know,No,0,No,
@@ -239,13 +239,13 @@
 237,31,male,0,Russia,Russia,No,No,No,100-500,"No, none did",No,No,No,0,No,
 238,29,Male,1,United States of America,United States of America,Yes,Maybe,Yes,,I don't know,Yes,,,1,,0
 239,31,m,0,Germany,Germany,No,No,No,100-500,,No,No,Maybe,0,Maybe,
-240,34,male,0,Germany,Germany,I don't know,Maybe,Maybe,100-500,"No, none did",No,Not eligible for coverage / N/A,No,1,No,
+240,34,male,0,Germany,Germany,I don't know,Maybe,Maybe,100-500,"No, none did",No,Not eligible for coverage / NA,No,1,No,
 241,28,Male,0,United States of America,United States of America,No,No,Yes,0-25,I don't know,No,I don't know,Yes,1,Maybe,
 242,35,Female ,1,United Kingdom,United Kingdom,Yes,No,Yes,,"Yes, they all did",Yes,,,1,,1
 243,27,Male ,0,Germany,Germany,I don't know,No,No,500-1000,I don't know,No,I don't know,No,0,Maybe,
 244,33,m,1,Germany,Germany,No,No,Maybe,,I don't know,No,,,0,,1
 245,37,Female,0,United States of America,United States of America,I don't know,Maybe,Maybe,0-25,Some did,Yes,I don't know,Maybe,1,Maybe,
-246,45,Male,0,United Kingdom,United Kingdom,No,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+246,45,Male,0,United Kingdom,United Kingdom,No,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 247,31,woman,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,No,Maybe,1,Yes,
 248,36,M,0,United States of America,United States of America,No,No,Maybe,More than 1000,I don't know,No,No,No,0,No,
 249,30,M,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,Some did,Yes,Yes,Maybe,1,Maybe,
@@ -299,9 +299,9 @@
 297,47,F,0,Australia,Australia,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Maybe,
 298,33,Female,0,Switzerland,Switzerland,Yes,No,Maybe,100-500,"No, none did",Yes,Yes,Yes,1,Yes,
 299,22,Male,0,United Kingdom,United Kingdom,No,No,No,More than 1000,"No, none did",No,I don't know,Maybe,0,Maybe,
-300,28,"male 9:1 female, roughly",0,United Kingdom,United Kingdom,I don't know,Maybe,Yes,0-25,"No, none did",No,Not eligible for coverage / N/A,No,1,Yes,
+300,28,"male 9:1 female, roughly",0,United Kingdom,United Kingdom,I don't know,Maybe,Yes,0-25,"No, none did",No,Not eligible for coverage / NA,No,1,Yes,
 301,31,m,0,United Kingdom,United Kingdom,Yes,Yes,Yes,500-1000,"No, none did",Yes,Yes,Yes,1,Yes,
-302,24,,0,United Kingdom,United Kingdom,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+302,24,,0,United Kingdom,United Kingdom,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
 303,56,m,0,Australia,Australia,No,No,Maybe,NaN,,Yes,No,Maybe,0,Maybe,
 304,57,F,1,Australia,Australia,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 305,39,M,0,United States of America,Spain,No,No,No,100-500,I don't know,No,I don't know,Maybe,0,Maybe,
@@ -312,7 +312,7 @@
 310,32,Female,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,Some did,Yes,I don't know,No,1,Maybe,
 311,35,m,1,United Kingdom,United Kingdom,Yes,Yes,Yes,,"No, none did",Yes,,,1,,0
 312,34,Male,0,United Kingdom,United Kingdom,No,No,No,100-500,"Yes, they all did",No,Yes,Maybe,0,Maybe,
-313,35,male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"Yes, they all did",Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+313,35,male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"Yes, they all did",Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 314,31,Male,0,Norway,Norway,No,No,No,26-100,"No, none did",No,No,Maybe,0,Yes,
 315,35,F,1,United States of America,United States of America,Yes,Yes,Yes,,I don't know,Yes,,,1,,1
 316,36,Male,0,United States of America,United States of America,No,No,No,26-100,I don't know,No,I don't know,Yes,0,Yes,
@@ -326,14 +326,14 @@
 324,26,female,0,Canada,Canada,Yes,Maybe,Maybe,26-100,I don't know,No,I don't know,Maybe,0,Maybe,
 325,55,Female,0,Canada,Canada,No,No,No,0-25,Some did,No,Yes,Maybe,0,Yes,
 326,27,Male,0,Canada,Canada,No,Yes,Yes,0-25,I don't know,Yes,Yes,Maybe,1,Maybe,
-327,34,Male,0,Argentina,Argentina,Yes,No,No,100-500,"No, none did",No,Not eligible for coverage / N/A,No,1,No,
+327,34,Male,0,Argentina,Argentina,Yes,No,No,100-500,"No, none did",No,Not eligible for coverage / NA,No,1,No,
 328,25,Male,0,India,India,Yes,No,No,26-100,,No,No,No,0,No,
 329,35,male,0,United States of America,United States of America,No,No,No,26-100,I don't know,No,I don't know,Maybe,0,Yes,
 330,37,Male,1,Netherlands,Netherlands,No,Yes,Yes,,I don't know,Yes,,,1,,1
 331,38,Female,0,United States of America,United States of America,I don't know,Yes,Yes,26-100,"Yes, they all did",Yes,Yes,Yes,1,Yes,
 332,29,male,0,Canada,Canada,I don't know,Maybe,Maybe,26-100,"Yes, they all did",No,Yes,Maybe,1,Maybe,
 333,28,Male,0,United Kingdom,United Kingdom,Yes,Maybe,Maybe,500-1000,,No,Yes,Yes,1,Maybe,
-334,29,Male,0,United States of America,United Kingdom,Yes,Maybe,Yes,0-25,I don't know,Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+334,29,Male,0,United States of America,United Kingdom,Yes,Maybe,Yes,0-25,I don't know,Yes,Not eligible for coverage / NA,Yes,1,Yes,
 335,40,male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,Some did,No,Yes,Maybe,0,Yes,
 336,25,Female,0,United States of America,United States of America,No,Yes,Yes,26-100,,Yes,Yes,Yes,1,Yes,
 337,29,Male,1,Sweden,Sweden,No,Maybe,Maybe,,"Yes, they all did",No,,,0,,1
@@ -354,7 +354,7 @@
 352,51,Male,0,United States of America,United States of America,I don't know,No,Maybe,NaN,Some did,No,Yes,Maybe,1,Yes,
 353,39,Male,1,Denmark,Denmark,No,Maybe,Maybe,,"No, none did",No,,,0,,1
 354,36,Male,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,No,,,1,,1
-355,28,male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+355,28,male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
 356,40,M,0,United States of America,United States of America,No,No,No,100-500,"Yes, they all did",No,I don't know,No,0,No,
 357,35,Female,0,United States of America,United States of America,I don't know,Yes,Yes,26-100,"Yes, they all did",Yes,Yes,Yes,1,Yes,
 358,38,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,Yes,No,1,No,
@@ -365,7 +365,7 @@
 363,26,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,100-500,"No, none did",No,I don't know,Maybe,0,Maybe,
 364,42,Male,0,United States of America,United States of America,No,No,No,100-500,"Yes, they all did",No,Yes,Yes,0,Yes,
 365,28,f,0,United States of America,United States of America,No,No,Yes,100-500,Some did,No,Yes,Maybe,0,Yes,
-366,28,Male,0,United Kingdom,United Kingdom,Yes,No,No,0-25,"No, none did",No,Not eligible for coverage / N/A,Yes,0,Maybe,
+366,28,Male,0,United Kingdom,United Kingdom,Yes,No,No,0-25,"No, none did",No,Not eligible for coverage / NA,Yes,0,Maybe,
 367,39,female,0,United States of America,United States of America,Yes,Yes,Yes,100-500,"Yes, they all did",Yes,Yes,Yes,1,Maybe,
 368,34,Male (cis),0,United States of America,United States of America,No,No,Yes,0-25,Some did,Yes,Yes,Maybe,1,Maybe,
 369,28,Female,0,United States of America,United States of America,Yes,Yes,Yes,26-100,Some did,Yes,I don't know,Yes,1,Yes,
@@ -383,7 +383,7 @@
 381,33,M,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Yes,
 382,28,Female,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,No,Yes,Maybe,1,Yes,
 383,32,Male,0,United States of America,United States of America,I don't know,Yes,Yes,26-100,"No, none did",Yes,Yes,Maybe,1,Maybe,
-384,24,Female,0,Australia,Australia,I don't know,Yes,Yes,NaN,I don't know,Yes,Not eligible for coverage / N/A,No,1,No,
+384,24,Female,0,Australia,Australia,I don't know,Yes,Yes,NaN,I don't know,Yes,Not eligible for coverage / NA,No,1,No,
 385,35,male,0,United States of America,United States of America,Yes,Maybe,Yes,500-1000,"No, none did",Yes,I don't know,Maybe,1,No,
 386,41,Male,1,Turkey,United States of America,No,No,No,,Some did,No,,,0,,0
 387,38,F,1,United States of America,United States of America,Yes,No,No,,"No, none did",No,,,1,,1
@@ -418,7 +418,7 @@
 416,26,Female,0,Germany,Germany,No,Yes,Yes,26-100,Some did,Yes,No,Yes,1,Yes,
 417,27,Female,1,United Kingdom,United Kingdom,Yes,Yes,Yes,,I don't know,Yes,,,1,,0
 418,27,Male,1,Netherlands,Netherlands,I don't know,Yes,No,,"Yes, they all did",Yes,,,1,,1
-419,29,Male,0,Colombia,Colombia,Yes,Maybe,Yes,26-100,I don't know,No,Not eligible for coverage / N/A,Maybe,1,Yes,
+419,29,Male,0,Colombia,Colombia,Yes,Maybe,Yes,26-100,I don't know,No,Not eligible for coverage / NA,Maybe,1,Yes,
 420,26,nb masculine,0,Germany,Germany,Yes,Yes,Yes,26-100,Some did,Yes,Yes,Yes,1,Maybe,
 421,23,Female,0,United States of America,United States of America,No,No,No,100-500,I don't know,No,Yes,Maybe,0,Maybe,
 422,30,Male,0,United States of America,United States of America,Yes,No,Yes,100-500,Some did,Yes,Yes,Yes,1,Yes,
@@ -458,7 +458,7 @@
 456,33,male,0,United States of America,United States of America,Yes,Maybe,Yes,0-25,"Yes, they all did",Yes,Yes,Maybe,1,Yes,
 457,37,f,0,United States of America,United States of America,No,Yes,Yes,More than 1000,,Yes,Yes,Maybe,1,Maybe,
 458,29,Male,0,United States of America,United States of America,No,Maybe,Yes,0-25,I don't know,No,Yes,Yes,0,Yes,
-459,38,Male,0,United States of America,United States of America,I don't know,No,Maybe,NaN,Some did,No,Not eligible for coverage / N/A,Yes,1,Yes,
+459,38,Male,0,United States of America,United States of America,I don't know,No,Maybe,NaN,Some did,No,Not eligible for coverage / NA,Yes,1,Yes,
 460,33,m,0,United States of America,United States of America,Yes,Maybe,Maybe,NaN,Some did,No,No,No,0,No,
 461,44,Female,0,Canada,Canada,Yes,Maybe,Yes,NaN,"Yes, they all did",Yes,I don't know,No,1,No,
 462,23,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,Yes,Maybe,1,Yes,
@@ -486,7 +486,7 @@
 484,61,f,0,United States of America,United States of America,No,Maybe,Maybe,0-25,I don't know,No,I don't know,No,1,Maybe,
 485,50,Male,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,0,,0
 486,38,Male,1,India,India,Yes,Yes,Maybe,,,Yes,,,1,,0
-487,51,m,0,Germany,Germany,Yes,Yes,Yes,0-25,,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+487,51,m,0,Germany,Germany,Yes,Yes,Yes,0-25,,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 488,38,male,1,Ireland,Ireland,No,No,Yes,,"No, none did",Yes,,,1,,0
 489,34,male,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,I don't know,Yes,I don't know,Yes,1,Yes,
 490,43,Male,0,United States of America,United States of America,No,Maybe,Yes,0-25,,Yes,No,Yes,1,Maybe,
@@ -520,7 +520,7 @@
 518,54,Female,1,Canada,Canada,Yes,Maybe,Yes,,"No, none did",Yes,,,1,,0
 519,61,F,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,0
 520,29,Female,0,United States of America,United States of America,Yes,Yes,Yes,26-100,Some did,Yes,I don't know,No,1,No,
-521,31,Male,0,Australia,Australia,I don't know,No,Yes,26-100,I don't know,Yes,Not eligible for coverage / N/A,No,1,Maybe,
+521,31,Male,0,Australia,Australia,I don't know,No,Yes,26-100,I don't know,Yes,Not eligible for coverage / NA,No,1,Maybe,
 522,37,M,1,United States of America,United States of America,No,No,No,,Some did,No,,,0,,1
 523,29,Male,0,Germany,Germany,Yes,Maybe,Yes,0-25,"No, none did",Yes,No,No,1,No,
 524,28,Male,1,United Kingdom,United Kingdom,No,No,Yes,,"No, none did",No,,,0,,1
@@ -544,7 +544,7 @@
 542,36,Male,0,United Kingdom,United Kingdom,Yes,No,Maybe,0-25,"No, none did",No,No,Maybe,1,No,
 543,26,male,0,Sweden,Sweden,I don't know,No,No,26-100,I don't know,No,I don't know,Maybe,0,Maybe,
 544,31,Female,0,Netherlands,Netherlands,Yes,No,Maybe,500-1000,Some did,Yes,I don't know,Yes,1,No,
-545,33,Male,0,South Africa,South Africa,Yes,No,No,26-100,"No, none did",No,Not eligible for coverage / N/A,No,0,Yes,
+545,33,Male,0,South Africa,South Africa,Yes,No,No,26-100,"No, none did",No,Not eligible for coverage / NA,No,0,Yes,
 546,30,Male,1,United Kingdom,United Kingdom,Yes,Yes,Yes,,,Yes,,,1,,0
 547,46,m,0,United Kingdom,United Kingdom,No,Yes,Yes,26-100,I don't know,Yes,I don't know,No,1,No,
 548,32,Male,0,United States of America,United States of America,Yes,No,Yes,100-500,Some did,Yes,No,Yes,1,Yes,
@@ -556,7 +556,7 @@
 554,36,male,0,United States of America,United States of America,I don't know,No,No,100-500,I don't know,Yes,Yes,Yes,1,Maybe,
 555,32,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,No,Maybe,1,No,
 556,29,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,100-500,Some did,No,I don't know,Maybe,1,Yes,
-557,22,Male,0,United Kingdom,United Kingdom,No,No,No,NaN,"No, none did",No,Not eligible for coverage / N/A,Yes,0,Yes,
+557,22,Male,0,United Kingdom,United Kingdom,No,No,No,NaN,"No, none did",No,Not eligible for coverage / NA,Yes,0,Yes,
 558,32,female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Yes,No,1,No,
 559,19,Female,0,United States of America,United States of America,No,No,No,More than 1000,"No, none did",No,Yes,No,0,No,
 560,30,Male,0,South Africa,South Africa,No,No,No,0-25,"No, none did",No,No,Yes,0,Yes,
@@ -580,14 +580,14 @@
 578,34,Male,0,United States of America,United States of America,I don't know,Maybe,Maybe,100-500,Some did,No,Yes,Maybe,0,Yes,
 579,35,Male,0,United Kingdom,United Kingdom,I don't know,Maybe,Maybe,26-100,Some did,No,I don't know,Maybe,0,Yes,
 580,39,Male,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,0
-581,26,Male,0,Denmark,Denmark,Yes,Maybe,Yes,0-25,"No, none did",Yes,Not eligible for coverage / N/A,No,1,No,
+581,26,Male,0,Denmark,Denmark,Yes,Maybe,Yes,0-25,"No, none did",Yes,Not eligible for coverage / NA,No,1,No,
 582,41,Male,1,United States of America,United States of America,No,No,No,,Some did,No,,,0,,1
-583,24,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+583,24,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 584,24,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"No, none did",Yes,I don't know,Maybe,1,Maybe,
 585,34,male,0,United States of America,United States of America,No,Yes,Yes,26-100,Some did,Yes,Yes,Maybe,1,Maybe,
 586,36,Male,0,Australia,Australia,No,No,No,26-100,"No, none did",No,No,Maybe,0,Yes,
 587,41,Male,0,Australia,Australia,Yes,Maybe,Yes,500-1000,Some did,Yes,Yes,No,1,No,
-588,21,Male,0,United States of America,United States of America,No,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / N/A,Maybe,1,No,
+588,21,Male,0,United States of America,United States of America,No,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / NA,Maybe,1,No,
 589,33,Male,0,Bangladesh,Bangladesh,I don't know,Yes,Yes,100-500,"No, none did",Yes,I don't know,Maybe,1,Maybe,
 590,32,Male,0,India,India,Yes,No,No,More than 1000,"No, none did",No,I don't know,Yes,1,Yes,
 591,62,Female,0,United States of America,United States of America,I don't know,Yes,Yes,More than 1000,,Yes,Yes,Yes,1,Maybe,
@@ -600,7 +600,7 @@
 598,29,Male,0,Norway,Norway,No,Yes,Yes,26-100,I don't know,Yes,Yes,Maybe,1,Maybe,
 599,33,M,0,Germany,Germany,I don't know,No,No,26-100,"No, none did",No,Yes,Yes,1,Maybe,
 600,27,Male,0,Finland,Finland,Yes,No,No,26-100,I don't know,No,I don't know,Maybe,0,Yes,
-601,24,m,0,Australia,Australia,No,No,No,26-100,,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+601,24,m,0,Australia,Australia,No,No,No,26-100,,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 602,28,Male,1,Netherlands,Netherlands,Yes,Yes,Maybe,,,Yes,,,1,,1
 603,42,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,NaN,I don't know,No,Yes,Yes,1,Yes,
 604,28,m,0,United Kingdom,United Kingdom,No,No,No,26-100,"No, none did",No,No,Maybe,0,Maybe,
@@ -610,14 +610,14 @@
 608,40,m,1,United States of America,United States of America,No,Maybe,Maybe,,,Yes,,,1,,1
 609,26,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,Yes,No,1,No,
 610,39,Female,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,I don't know,Yes,1,Maybe,
-611,38,Male,0,United Kingdom,United Kingdom,No,Maybe,Maybe,500-1000,I don't know,No,Not eligible for coverage / N/A,Yes,0,Yes,
+611,38,Male,0,United Kingdom,United Kingdom,No,Maybe,Maybe,500-1000,I don't know,No,Not eligible for coverage / NA,Yes,0,Yes,
 612,34,Male,0,United States of America,United States of America,Yes,Yes,Maybe,More than 1000,Some did,No,Yes,No,0,Maybe,
 613,44,Male,0,Netherlands,Netherlands,I don't know,Yes,Yes,26-100,I don't know,Yes,I don't know,Yes,1,Maybe,
 614,54,Male,1,United Kingdom,United Kingdom,No,Maybe,No,,"No, none did",No,,,0,,0
 615,24,male,0,Pakistan,Pakistan,No,No,No,100-500,"No, none did",No,Yes,Yes,0,Yes,
 616,31,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,Yes,Yes,1,Yes,
 617,47,cis male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Yes,
-618,30,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+618,30,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
 619,34,M,1,United States of America,United States of America,I don't know,No,Maybe,,Some did,No,,,0,,0
 620,29,Human,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,Yes,Yes,1,Yes,
 621,27,Male,0,United States of America,United States of America,No,No,No,More than 1000,Some did,No,Yes,Maybe,0,Yes,
@@ -626,7 +626,7 @@
 624,31,Genderfluid,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,Yes,Maybe,1,No,
 625,27,Male,0,Norway,Norway,No,Maybe,No,0-25,I don't know,No,I don't know,No,0,No,
 626,29,M,0,United Kingdom,United Kingdom,No,Yes,Yes,0-25,"No, none did",Yes,No,Maybe,1,Maybe,
-627,29,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,I don't know,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+627,29,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,I don't know,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 628,42,Male,0,United States of America,United States of America,I don't know,Yes,Maybe,More than 1000,I don't know,Yes,Yes,Maybe,0,Maybe,
 629,26,Female,0,United States of America,United States of America,Yes,No,Yes,0-25,I don't know,No,Yes,No,0,Maybe,
 630,26,male,0,Switzerland,Switzerland,Yes,No,Yes,0-25,"No, none did",Yes,I don't know,Yes,1,Yes,
@@ -640,7 +640,7 @@
 638,32,male,0,United States of America,United States of America,No,No,Yes,0-25,Some did,Yes,No,Maybe,1,Maybe,
 639,55,m,1,United States of America,United States of America,No,Maybe,No,,,No,,,0,,0
 640,27,male,0,France,France,No,No,No,0-25,I don't know,No,I don't know,Maybe,1,No,
-641,34,Male,0,United Kingdom,United Kingdom,I don't know,No,Maybe,0-25,"No, none did",No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+641,34,Male,0,United Kingdom,United Kingdom,I don't know,No,Maybe,0-25,"No, none did",No,Not eligible for coverage / NA,Maybe,0,Maybe,
 642,26,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,No,Yes,1,Maybe,
 643,25,,0,United States of America,United States of America,Yes,Yes,Yes,26-100,"No, none did",Yes,I don't know,Maybe,1,Yes,
 644,39,Male,0,United Kingdom,United Kingdom,Yes,Maybe,Yes,More than 1000,I don't know,Yes,Yes,Yes,1,Yes,
@@ -664,7 +664,7 @@
 662,26,Female,1,Canada,Canada,I don't know,Yes,Yes,,"No, none did",Yes,,,1,,1
 663,36,Female,0,United States of America,United States of America,Yes,No,No,0-25,"No, none did",No,No,Yes,0,No,
 664,26,Male,0,United Kingdom,United Kingdom,I don't know,Maybe,Maybe,0-25,I don't know,No,No,No,1,No,
-665,34,Male,0,United States of America,United States of America,I don't know,Maybe,Maybe,0-25,I don't know,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+665,34,Male,0,United States of America,United States of America,I don't know,Maybe,Maybe,0-25,I don't know,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 666,34,Male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,"Yes, they all did",Yes,Yes,Maybe,1,Maybe,
 667,25,Male,0,United States of America,United States of America,I don't know,Yes,Maybe,More than 1000,Some did,Yes,Yes,Maybe,1,No,
 668,33,Female,1,United States of America,United States of America,Yes,Maybe,Maybe,,Some did,No,,,1,,1
@@ -702,7 +702,7 @@
 700,55,female,1,United States of America,United States of America,Yes,Yes,Yes,,"Yes, they all did",No,,,1,,1
 701,66,male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,I don't know,Yes,No,Yes,1,No,
 702,25,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,NaN,,No,I don't know,No,1,No,
-703,22,Male,0,Netherlands,Netherlands,I don't know,No,No,26-100,I don't know,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+703,22,Male,0,Netherlands,Netherlands,I don't know,No,No,26-100,I don't know,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 704,29,male,0,Brazil,Brazil,No,No,No,26-100,"No, none did",No,No,Yes,0,Yes,
 705,33,Male,0,New Zealand,New Zealand,No,No,Yes,100-500,"Yes, they all did",No,No,No,1,Yes,
 706,27,Male,0,Sweden,Sweden,I don't know,No,No,0-25,I don't know,No,No,No,0,No,
@@ -713,7 +713,7 @@
 711,43,man,1,Sweden,Sweden,I don't know,No,No,,Some did,No,,,0,,1
 712,55,female,1,Germany,Germany,No,Yes,Yes,,,Yes,,,1,,1
 713,32,Male,0,United States of America,United States of America,Yes,No,Yes,More than 1000,"Yes, they all did",Yes,Yes,Yes,1,Yes,
-714,41,male,0,United Kingdom,United Kingdom,I don't know,Maybe,No,More than 1000,I don't know,No,Not eligible for coverage / N/A,No,0,No,
+714,41,male,0,United Kingdom,United Kingdom,I don't know,Maybe,No,More than 1000,I don't know,No,Not eligible for coverage / NA,No,0,No,
 715,38,f,0,United States of America,United States of America,Yes,Yes,Yes,NaN,,Yes,No,Yes,1,Yes,
 716,46,Male,1,United States of America,United States of America,No,Yes,Yes,,Some did,Yes,,,1,,0
 717,43,Male,0,United Kingdom,United Kingdom,Yes,No,Yes,More than 1000,I don't know,Yes,No,Yes,1,Maybe,
@@ -725,7 +725,7 @@
 723,30,Male,1,United Kingdom,United Kingdom,No,No,Yes,,"No, none did",No,,,0,,1
 724,28,Male,0,United States of America,United States of America,Yes,No,No,26-100,"No, none did",No,I don't know,Maybe,0,Maybe,
 725,37,m,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,I don't know,No,1,No,
-726,23,female,0,United States of America,United States of America,Yes,Yes,Maybe,0-25,"No, none did",Yes,Not eligible for coverage / N/A,No,0,No,
+726,23,female,0,United States of America,United States of America,Yes,Yes,Maybe,0-25,"No, none did",Yes,Not eligible for coverage / NA,No,0,No,
 727,37,Male,1,United Kingdom,United Kingdom,Yes,No,No,,I don't know,No,,,0,,0
 728,42,m,1,Netherlands,Netherlands,No,Yes,Maybe,,I don't know,Yes,,,1,,1
 729,32,male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Yes,
@@ -736,7 +736,7 @@
 734,31,Female,1,United States of America,United States of America,Yes,Yes,Yes,,"Yes, they all did",Yes,,,1,,1
 735,46,Female,1,United States of America,United States of America,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 736,19,male,1,United States of America,United States of America,I don't know,Maybe,Yes,,I don't know,Yes,,,1,,1
-737,35,Male,0,Sweden,Sweden,I don't know,Maybe,Maybe,500-1000,I don't know,No,Not eligible for coverage / N/A,Yes,0,Yes,
+737,35,Male,0,Sweden,Sweden,I don't know,Maybe,Maybe,500-1000,I don't know,No,Not eligible for coverage / NA,Yes,0,Yes,
 738,31,Male,0,United Kingdom,United Kingdom,I don't know,No,Maybe,More than 1000,I don't know,No,Yes,Yes,0,Yes,
 739,31,Male,1,United States of America,United States of America,No,No,No,,,No,,,0,,0
 740,37,m,0,Canada,Canada,No,No,No,More than 1000,Some did,No,Yes,Maybe,0,Yes,
@@ -756,7 +756,7 @@
 754,19,Male,0,India,India,No,No,No,0-25,"No, none did",No,No,Yes,0,Yes,
 755,40,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,"No, none did",No,Yes,No,0,No,
 756,49,F,0,United States of America,United States of America,Yes,No,Maybe,More than 1000,,Yes,Yes,Maybe,1,Yes,
-757,27,Female,0,Australia,Australia,I don't know,No,No,0-25,I don't know,No,Not eligible for coverage / N/A,Yes,0,Yes,
+757,27,Female,0,Australia,Australia,I don't know,No,No,0-25,I don't know,No,Not eligible for coverage / NA,Yes,0,Yes,
 758,39,male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,No,1,No,
 759,35,Male,0,United Kingdom,United Kingdom,No,Yes,Yes,More than 1000,Some did,Yes,I don't know,Yes,1,Yes,
 760,35,M,0,United States of America,United States of America,I don't know,Maybe,Maybe,26-100,I don't know,No,I don't know,Maybe,0,Maybe,
@@ -771,8 +771,8 @@
 769,47,Female,1,United States of America,United States of America,Yes,Yes,Yes,,"Yes, they all did",Yes,,,1,,1
 770,29,M,0,United States of America,United States of America,Yes,No,Maybe,26-100,Some did,No,No,No,1,Maybe,
 771,20,Male,0,United States of America,United States of America,Yes,No,Yes,0-25,,Yes,Yes,Yes,1,Yes,
-772,34,m,0,United States of America,United States of America,Yes,No,No,100-500,,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
-773,33,Agender,0,United Kingdom,United Kingdom,No,Yes,Yes,500-1000,Some did,Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+772,34,m,0,United States of America,United States of America,Yes,No,No,100-500,,No,Not eligible for coverage / NA,Maybe,0,Maybe,
+773,33,Agender,0,United Kingdom,United Kingdom,No,Yes,Yes,500-1000,Some did,Yes,Not eligible for coverage / NA,Yes,1,Yes,
 774,56,female,1,United States of America,United States of America,Yes,Maybe,Maybe,,"Yes, they all did",No,,,1,,1
 775,35,Male,1,Canada,Canada,Yes,Yes,Yes,,I don't know,No,,,0,,0
 776,31,m,0,United States of America,United States of America,Yes,Yes,Yes,100-500,"Yes, they all did",Yes,Yes,No,1,No,
@@ -805,7 +805,7 @@
 803,28,Male,0,Australia,Australia,No,No,No,0-25,"No, none did",No,No,No,0,Maybe,
 804,37,Male,0,United States of America,United States of America,Yes,Maybe,Yes,100-500,"Yes, they all did",Yes,Yes,Maybe,1,Yes,
 805,33,Male,0,United States of America,United States of America,I don't know,No,Yes,More than 1000,"No, none did",No,Yes,Yes,1,Maybe,
-806,21,Male,0,Australia,Australia,No,Yes,No,0-25,,No,Not eligible for coverage / N/A,No,1,Yes,
+806,21,Male,0,Australia,Australia,No,Yes,No,0-25,,No,Not eligible for coverage / NA,No,1,Yes,
 807,25,male,0,United States of America,United States of America,Yes,No,Yes,26-100,I don't know,Yes,Yes,No,1,No,
 808,15,male,1,Canada,Canada,No,No,No,,,No,,,0,,0
 809,40,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,Yes,Maybe,1,No,
@@ -814,7 +814,7 @@
 812,25,male,0,India,India,No,No,No,NaN,,No,No,Maybe,0,No,
 813,38,Male,0,Germany,Germany,No,No,No,More than 1000,"Yes, they all did",No,Yes,Yes,0,Maybe,
 814,24,Male,0,United Kingdom,United Kingdom,Yes,Maybe,No,100-500,I don't know,No,I don't know,Maybe,1,Yes,
-815,23,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / N/A,Maybe,0,Yes,
+815,23,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / NA,Maybe,0,Yes,
 816,39,Female,1,United Kingdom,United Kingdom,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 817,26,male,0,United States of America,United States of America,No,No,No,0-25,,No,I don't know,Yes,0,No,
 818,43,Male,0,United Kingdom,United Kingdom,No,No,No,More than 1000,I don't know,No,I don't know,No,0,No,
@@ -867,7 +867,7 @@
 865,32,M,0,United States of America,United States of America,No,No,No,NaN,"No, none did",No,No,Yes,0,Yes,
 866,32,M,0,United States of America,United States of America,No,No,No,100-500,Some did,No,I don't know,No,0,No,
 867,31,male,1,United States of America,United States of America,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
-868,28,Female,0,United States of America,United States of America,Yes,Yes,No,NaN,I don't know,Yes,Not eligible for coverage / N/A,Maybe,1,Yes,
+868,28,Female,0,United States of America,United States of America,Yes,Yes,No,NaN,I don't know,Yes,Not eligible for coverage / NA,Maybe,1,Yes,
 869,28,male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,More than 1000,"No, none did",Yes,I don't know,No,1,No,
 870,33,F,0,United States of America,United States of America,Yes,Yes,Yes,26-100,"Yes, they all did",Yes,Yes,No,1,Maybe,
 871,33,M,1,United States of America,United States of America,Yes,No,Yes,,I don't know,Yes,,,1,,0
@@ -879,7 +879,7 @@
 877,50,M,1,Germany,Germany,Yes,No,Yes,,,No,,,0,,1
 878,34,Female,0,United States of America,United States of America,I don't know,No,No,More than 1000,Some did,No,Yes,Maybe,0,Yes,
 879,50,male,1,Germany,Germany,No,Maybe,No,,,No,,,0,,1
-880,31,Female,0,Other,Other,I don't know,Maybe,Maybe,0-25,"No, none did",No,Not eligible for coverage / N/A,Maybe,0,Yes,
+880,31,Female,0,Other,Other,I don't know,Maybe,Maybe,0-25,"No, none did",No,Not eligible for coverage / NA,Maybe,0,Yes,
 881,39,male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,Some did,Yes,Yes,No,0,No,
 882,46,Male,0,United States of America,United States of America,Yes,No,Yes,26-100,Some did,Yes,I don't know,No,1,No,
 883,28,M,0,United States of America,United States of America,No,Maybe,No,More than 1000,"No, none did",No,I don't know,Maybe,0,Yes,
@@ -894,7 +894,7 @@
 892,31,Male,1,Canada,Canada,No,No,No,,I don't know,No,,,0,,0
 893,32,Male,0,Iran,Iran,Yes,Maybe,Maybe,NaN,"No, none did",No,No,Yes,0,Yes,
 894,31,male,1,Sweden,Sweden,I don't know,Yes,Yes,,I don't know,Yes,,,1,,1
-895,52,m,0,Switzerland,Switzerland,Yes,No,Maybe,More than 1000,"No, none did",No,Not eligible for coverage / N/A,No,1,Maybe,
+895,52,m,0,Switzerland,Switzerland,Yes,No,Maybe,More than 1000,"No, none did",No,Not eligible for coverage / NA,No,1,Maybe,
 896,31,male,1,Switzerland,Switzerland,Yes,Yes,Yes,,,Yes,,,1,,1
 897,38,F,1,United Kingdom,United Kingdom,No,No,No,,I don't know,No,,,0,,1
 898,35,Male,0,United States of America,United States of America,I don't know,Maybe,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Maybe,
@@ -905,7 +905,7 @@
 903,38,male,0,Ireland,Ireland,No,No,No,26-100,"No, none did",No,No,Yes,0,Yes,
 904,27,Male,0,United States of America,United States of America,No,Maybe,Maybe,0-25,"No, none did",No,I don't know,No,0,Yes,
 905,40,Female,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,No,I don't know,No,0,Yes,
-906,32,Male,0,South Africa,South Africa,No,No,Maybe,500-1000,"No, none did",No,Not eligible for coverage / N/A,No,0,No,
+906,32,Male,0,South Africa,South Africa,No,No,Maybe,500-1000,"No, none did",No,Not eligible for coverage / NA,No,0,No,
 907,43,female,1,United States of America,United States of America,No,Maybe,Maybe,,I don't know,No,,,0,,1
 908,28,female,0,Germany,Germany,I don't know,Yes,Yes,100-500,"Yes, they all did",Yes,Yes,Maybe,0,Maybe,
 909,46,Male,1,United Kingdom,United Kingdom,No,No,No,,Some did,No,,,0,,0
@@ -914,7 +914,7 @@
 912,37,F,1,United States of America,United States of America,No,Yes,Yes,,"No, none did",Yes,,,1,,1
 913,35,M,0,Canada,Canada,Yes,Yes,Yes,0-25,"No, none did",Yes,No,No,1,No,
 914,30,Female,1,United States of America,United States of America,No,Maybe,No,,I don't know,No,,,1,,1
-915,35,Male,0,Australia,Australia,Yes,Yes,Yes,26-100,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+915,35,Male,0,Australia,Australia,Yes,Yes,Yes,26-100,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
 916,24,Male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,,Yes,Yes,Maybe,1,Yes,
 917,23,male,0,India,India,No,No,No,0-25,,No,No,No,0,No,
 918,39,Female,1,United Kingdom,France,Yes,Maybe,Yes,,Some did,Yes,,,1,,0
@@ -933,7 +933,7 @@
 931,31,male,0,Germany,Germany,Yes,No,No,0-25,Some did,No,Yes,Maybe,0,Yes,
 932,30,male,0,United States of America,United States of America,No,Maybe,No,More than 1000,,No,I don't know,No,0,No,
 933,25,Female,0,United States of America,United States of America,No,No,No,26-100,I don't know,No,Yes,Maybe,0,Maybe,
-934,26,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / N/A,Yes,0,Maybe,
+934,26,Male,0,United Kingdom,United Kingdom,No,No,No,0-25,,No,Not eligible for coverage / NA,Yes,0,Maybe,
 935,30,male,0,United States of America,United States of America,No,No,Maybe,26-100,Some did,No,Yes,Maybe,0,Yes,
 936,30,M,0,Italy,Italy,No,No,No,500-1000,"No, none did",No,No,Maybe,0,Yes,
 937,31,Male,0,Bulgaria,Bulgaria,No,No,No,100-500,I don't know,No,I don't know,Yes,0,Yes,
@@ -941,7 +941,7 @@
 939,45,female,0,United Kingdom,United Kingdom,Yes,Yes,Yes,26-100,Some did,Yes,No,Maybe,1,Yes,
 940,29,Male,1,Switzerland,Switzerland,Yes,Maybe,Maybe,,"Yes, they all did",No,,,0,,1
 941,27,Male,0,United States of America,United States of America,Yes,Maybe,Yes,26-100,"No, none did",No,Yes,No,1,No,
-942,28,Female,0,United Kingdom,United Kingdom,I don't know,Yes,Yes,26-100,"No, none did",No,Not eligible for coverage / N/A,No,0,Maybe,
+942,28,Female,0,United Kingdom,United Kingdom,I don't know,Yes,Yes,26-100,"No, none did",No,Not eligible for coverage / NA,No,0,Maybe,
 943,38,m,0,United States of America,United States of America,Yes,No,No,500-1000,I don't know,No,Yes,Maybe,0,Maybe,
 944,38,male,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,"Yes, they all did",Yes,Yes,Maybe,1,Yes,
 945,34,Male,0,Hungary,Hungary,Yes,No,Yes,More than 1000,Some did,Yes,I don't know,Maybe,1,Yes,
@@ -1019,7 +1019,7 @@
 1017,47,female,0,United Kingdom,United Kingdom,No,No,No,More than 1000,I don't know,No,Yes,Yes,0,Yes,
 1018,48,m,0,United Kingdom,United Kingdom,No,No,No,100-500,"No, none did",No,I don't know,Maybe,0,Maybe,
 1019,44,Male,1,United States of America,United States of America,Yes,Yes,Yes,,"Yes, they all did",No,,,0,,1
-1020,29,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,Some did,Yes,Not eligible for coverage / N/A,No,1,Maybe,
+1020,29,Male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,Some did,Yes,Not eligible for coverage / NA,No,1,Maybe,
 1021,52,m,0,United States of America,United States of America,No,No,No,More than 1000,I don't know,No,Yes,Maybe,0,Yes,
 1022,34,Female,0,Sweden,Sweden,No,No,Yes,100-500,Some did,No,Yes,Yes,0,Yes,
 1023,34,male,0,Netherlands,Netherlands,No,No,No,100-500,I don't know,No,Yes,Maybe,0,Yes,
@@ -1035,7 +1035,7 @@
 1033,36,Female,1,Ireland,Ireland,No,No,No,,I don't know,No,,,0,,1
 1034,38,Male,0,New Zealand,New Zealand,Yes,Yes,Yes,More than 1000,Some did,Yes,No,No,1,No,
 1035,35,Male,0,United States of America,United States of America,No,Maybe,Yes,More than 1000,Some did,No,Yes,Yes,1,Maybe,
-1036,35,F,0,Australia,Australia,Yes,Yes,Yes,100-500,I don't know,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1036,35,F,0,Australia,Australia,Yes,Yes,Yes,100-500,I don't know,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 1037,45,m,0,United States of America,United States of America,Yes,Yes,No,More than 1000,Some did,Yes,Yes,Maybe,1,Maybe,
 1038,47,male,1,New Zealand,New Zealand,No,No,Maybe,,"No, none did",No,,,0,,1
 1039,27,male,0,United States of America,United States of America,Yes,No,No,100-500,I don't know,No,I don't know,Maybe,0,Maybe,
@@ -1054,14 +1054,14 @@
 1052,30,Male,0,United Kingdom,United Kingdom,No,No,Maybe,26-100,Some did,No,Yes,Maybe,0,Maybe,
 1053,43,M,0,Australia,Australia,Yes,No,Yes,500-1000,Some did,Yes,Yes,Maybe,1,Yes,
 1054,33,Male,1,Netherlands,Netherlands,I don't know,Yes,Yes,,Some did,Yes,,,1,,1
-1055,37,Female,0,Australia,Australia,Yes,No,No,NaN,Some did,No,Not eligible for coverage / N/A,Yes,0,Yes,
+1055,37,Female,0,Australia,Australia,Yes,No,No,NaN,Some did,No,Not eligible for coverage / NA,Yes,0,Yes,
 1056,25,male,0,United States of America,United States of America,No,Yes,Yes,100-500,Some did,Yes,Yes,No,1,Maybe,
-1057,27,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / N/A,No,1,No,
+1057,27,Male,0,Australia,Australia,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / NA,No,1,No,
 1058,27,Male,1,Canada,Canada,Yes,Yes,Yes,,,Yes,,,1,,0
 1059,27,Male,0,United States of America,United States of America,No,Yes,Yes,More than 1000,,Yes,Yes,No,1,No,
 1060,35,M,1,Germany,Germany,No,Maybe,No,,I don't know,No,,,0,,1
 1061,24,male,0,United Kingdom,United Kingdom,No,Maybe,Yes,0-25,"No, none did",No,No,Maybe,0,Maybe,
-1062,31,Nonbinary,0,Switzerland,Switzerland,Yes,Yes,Yes,100-500,Some did,Yes,Not eligible for coverage / N/A,No,1,No,
+1062,31,Nonbinary,0,Switzerland,Switzerland,Yes,Yes,Yes,100-500,Some did,Yes,Not eligible for coverage / NA,No,1,No,
 1063,31,male ,0,Germany,Germany,No,Maybe,Maybe,26-100,I don't know,No,I don't know,Maybe,0,Maybe,
 1064,32,male,0,United States of America,United States of America,No,No,No,More than 1000,,No,Yes,Yes,1,Yes,
 1065,33,Male,0,Australia,Australia,No,Yes,Yes,More than 1000,"No, none did",Yes,No,No,1,Maybe,
@@ -1072,11 +1072,11 @@
 1070,53,Male,0,Canada,Canada,No,No,Yes,More than 1000,Some did,Yes,Yes,Yes,1,No,
 1071,45,m,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,I don't know,No,1,Maybe,
 1072,40,Male,0,United States of America,United States of America,I don't know,Maybe,No,100-500,"Yes, they all did",No,Yes,No,1,No,
-1073,52,Male,0,United States of America,United States of America,Yes,No,Yes,More than 1000,"Yes, they all did",No,Not eligible for coverage / N/A,No,1,Maybe,
+1073,52,Male,0,United States of America,United States of America,Yes,No,Yes,More than 1000,"Yes, they all did",No,Not eligible for coverage / NA,No,1,Maybe,
 1074,30,Male,1,United Kingdom,France,I don't know,Maybe,Yes,,I don't know,Yes,,,1,,1
 1075,41,Male,0,New Zealand,New Zealand,No,No,Yes,More than 1000,"No, none did",Yes,Yes,Maybe,0,Maybe,
 1076,31,male,1,Netherlands,Netherlands,I don't know,Maybe,Yes,,"No, none did",Yes,,,1,,1
-1077,31,Male,0,Switzerland,Switzerland,I don't know,Maybe,No,100-500,"No, none did",No,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1077,31,Male,0,Switzerland,Switzerland,I don't know,Maybe,No,100-500,"No, none did",No,Not eligible for coverage / NA,Maybe,1,Maybe,
 1078,24,human,1,United States of America,United States of America,Yes,Maybe,Maybe,,,No,,,1,,0
 1079,44,Male,0,Australia,Australia,Yes,Maybe,Yes,100-500,"No, none did",Yes,No,No,1,Maybe,
 1080,37,m,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,Maybe,1,Maybe,
@@ -1086,16 +1086,16 @@
 1084,28,Male,1,Romania,Romania,Yes,Yes,Yes,,"No, none did",Yes,,,1,,0
 1085,25,female,0,United States of America,United States of America,Yes,No,No,500-1000,I don't know,No,I don't know,No,0,Maybe,
 1086,49,male,1,United States of America,United States of America,I don't know,Maybe,Maybe,,I don't know,No,,,1,,1
-1087,22,woman,0,United States of America,United States of America,Yes,Yes,Yes,NaN,Some did,Yes,Not eligible for coverage / N/A,Yes,1,Yes,
+1087,22,woman,0,United States of America,United States of America,Yes,Yes,Yes,NaN,Some did,Yes,Not eligible for coverage / NA,Yes,1,Yes,
 1088,43,male,1,United States of America,United States of America,No,Yes,Yes,,Some did,Yes,,,1,,1
 1089,33,m,1,United States of America,United States of America,Yes,Maybe,Maybe,,"No, none did",Yes,,,1,,0
 1090,36,"Female (props for making this a freeform field, though)",0,United States of America,United States of America,I don't know,Maybe,Yes,500-1000,"Yes, they all did",Yes,Yes,No,1,No,
 1091,26,female,0,United States of America,United States of America,Yes,Yes,Yes,26-100,"No, none did",Yes,Yes,No,1,No,
 1092,43,Male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Yes,
 1093,21,male,1,United States of America,United States of America,Yes,Maybe,Yes,,"No, none did",No,,,0,,1
-1094,39,Male,0,Australia,Australia,Yes,No,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / N/A,No,0,Yes,
+1094,39,Male,0,Australia,Australia,Yes,No,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / NA,No,0,Yes,
 1095,46,Male,0,United Kingdom,United Kingdom,I don't know,Yes,Yes,More than 1000,I don't know,Yes,Yes,Yes,1,Maybe,
-1096,32,M,0,United Kingdom,United Kingdom,Yes,No,Yes,NaN,Some did,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+1096,32,M,0,United Kingdom,United Kingdom,Yes,No,Yes,NaN,Some did,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 1097,31,Male,1,United Kingdom,United Kingdom,No,No,No,,"No, none did",No,,,0,,0
 1098,39,female,1,United Kingdom,Germany,Yes,No,Yes,,Some did,Yes,,,1,,0
 1099,44,m,0,Sweden,Sweden,I don't know,Maybe,Maybe,100-500,Some did,Yes,I don't know,No,1,Maybe,
@@ -1115,7 +1115,7 @@
 1113,26,Male,0,United States of America,United States of America,No,No,No,26-100,"No, none did",No,I don't know,Yes,0,Yes,
 1114,41,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,I don't know,Maybe,1,No,
 1115,28,Male,0,Netherlands,Netherlands,No,No,No,0-25,,No,No,Maybe,0,Yes,
-1116,33,Male,0,Sweden,Sweden,I don't know,Maybe,Yes,100-500,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1116,33,Male,0,Sweden,Sweden,I don't know,Maybe,Yes,100-500,"No, none did",Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 1117,74, Female,0,United States of America,United States of America,No,No,No,100-500,"No, none did",No,No,Yes,1,Yes,
 1118,28,Male,0,Netherlands,Netherlands,Yes,Yes,Yes,100-500,"No, none did",Yes,I don't know,No,1,Yes,
 1119,47,Male,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"No, none did",Yes,No,No,1,No,
@@ -1136,11 +1136,11 @@
 1134,26,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Yes,1,Yes,
 1135,34,Male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,Yes,1,Maybe,
 1136,46,F,0,United States of America,United States of America,Yes,Maybe,Yes,More than 1000,Some did,Yes,Yes,No,1,No,
-1137,31,female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / N/A,No,1,No,
+1137,31,female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Not eligible for coverage / NA,No,1,No,
 1138,42,male,1,Ireland,Ireland,Yes,Yes,Maybe,,"No, none did",Yes,,,1,,0
 1139,30,Male,0,United States of America,United States of America,No,No,No,More than 1000,I don't know,No,I don't know,Yes,0,Yes,
 1140,26,Unicorn,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,1
-1141,29,male,0,Austria,Austria,No,Maybe,Yes,NaN,Some did,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1141,29,male,0,Austria,Austria,No,Maybe,Yes,NaN,Some did,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 1142,31,M,0,United States of America,United States of America,Yes,Yes,Yes,100-500,"Yes, they all did",Yes,Yes,Yes,1,Yes,
 1143,40,Male,0,United States of America,United States of America,I don't know,No,Yes,26-100,Some did,Yes,I don't know,Yes,1,Yes,
 1144,39,Cis Male,0,United States of America,United States of America,I don't know,Yes,Maybe,26-100,Some did,Yes,Yes,Yes,1,Yes,
@@ -1166,19 +1166,19 @@
 1164,38,Male,0,New Zealand,New Zealand,Yes,Yes,Yes,0-25,Some did,Yes,No,Yes,1,Yes,
 1165,25,female,0,United States of America,United States of America,I don't know,Maybe,Maybe,26-100,Some did,No,Yes,No,1,No,
 1166,36,female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,Some did,Yes,Yes,Yes,1,Yes,
-1167,57,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / N/A,No,1,No,
+1167,57,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,I don't know,Yes,Not eligible for coverage / NA,No,1,No,
 1168,46,male,0,Ireland,Ireland,Yes,No,Yes,More than 1000,Some did,Yes,I don't know,No,1,No,
 1169,49,Male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,No,1,No,
 1170,34,m,0,United States of America,United States of America,No,No,Yes,More than 1000,Some did,Yes,I don't know,No,1,Maybe,
 1171,43,Male,0,United Kingdom,United Kingdom,No,No,No,26-100,"No, none did",No,I don't know,Maybe,0,Yes,
 1172,35,m,1,Ireland,Ireland,No,Yes,Yes,,,Yes,,,0,,1
 1173,32,Male,1,United States of America,United States of America,No,No,Yes,,Some did,Yes,,,1,,0
-1174,24,"Male (trans, FtM)",0,Sweden,Sweden,I don't know,Yes,No,More than 1000,,No,Not eligible for coverage / N/A,No,1,No,
+1174,24,"Male (trans, FtM)",0,Sweden,Sweden,I don't know,Yes,No,More than 1000,,No,Not eligible for coverage / NA,No,1,No,
 1175,33,Male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,Maybe,1,Maybe,
 1176,28,Male,0,Finland,Finland,Yes,Maybe,No,NaN,I don't know,No,I don't know,Yes,0,Yes,
 1177,48,Male,0,Germany,Germany,Yes,Maybe,No,More than 1000,,Yes,Yes,Maybe,0,Yes,
 1178,33,female,0,United States of America,United States of America,I don't know,Yes,Yes,26-100,"No, none did",Yes,Yes,Maybe,1,Maybe,
-1179,40,male,0,United States of America,Italy,No,No,No,100-500,,No,Not eligible for coverage / N/A,No,0,Maybe,
+1179,40,male,0,United States of America,Italy,No,No,No,100-500,,No,Not eligible for coverage / NA,No,0,Maybe,
 1180,22,Male,1,United States of America,United States of America,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 1181,22,female,0,United States of America,United States of America,Yes,Yes,Yes,100-500,"Yes, they all did",Yes,No,No,1,No,
 1182,23,Female,0,United States of America,United States of America,I don't know,Yes,Yes,100-500,,Yes,Yes,Maybe,1,No,
@@ -1229,7 +1229,7 @@
 1227,31,Cis-woman,0,United States of America,United States of America,Yes,Yes,Yes,0-25,Some did,Yes,Yes,Maybe,1,Maybe,
 1228,34,male,0,United States of America,United States of America,I don't know,Yes,Yes,26-100,Some did,No,No,No,0,No,
 1229,44,Male,1,United Kingdom,United Kingdom,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
-1230,45,m,0,Ireland,Ireland,No,Maybe,No,500-1000,"No, none did",No,Not eligible for coverage / N/A,Maybe,0,Yes,
+1230,45,m,0,Ireland,Ireland,No,Maybe,No,500-1000,"No, none did",No,Not eligible for coverage / NA,Maybe,0,Yes,
 1231,43,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,Yes,Yes,1,Yes,
 1232,29,male,0,United States of America,United States of America,Yes,No,No,26-100,Some did,No,Yes,Maybe,0,Yes,
 1233,27,Genderqueer,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,Yes,Yes,Maybe,1,Yes,
@@ -1239,7 +1239,7 @@
 1237,28,male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,,Yes,Yes,No,1,Maybe,
 1238,28,Male,0,United States of America,United States of America,No,No,No,More than 1000,,No,I don't know,Maybe,0,No,
 1239,39,Male,1,Switzerland,Switzerland,Yes,Yes,Yes,,Some did,Yes,,,1,,1
-1240,22,male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",No,Not eligible for coverage / N/A,No,1,No,
+1240,22,male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",No,Not eligible for coverage / NA,No,1,No,
 1241,31,M,0,United States of America,United States of America,I don't know,No,No,26-100,Some did,No,Yes,Maybe,0,Yes,
 1242,29,Male,0,United Kingdom,United Kingdom,I don't know,No,No,26-100,"No, none did",No,No,No,0,No,
 1243,33,male,0,Israel,Israel,No,Maybe,Maybe,100-500,"Yes, they all did",No,No,No,0,No,
@@ -1267,7 +1267,7 @@
 1265,55,male,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,0
 1266,32,Male ,0,United States of America,United States of America,Yes,Yes,Yes,100-500,I don't know,Yes,Yes,Maybe,1,Maybe,
 1267,29,male,0,Romania,Romania,No,No,No,NaN,"No, none did",No,No,No,0,No,
-1268,20,Male,0,United States of America,United States of America,No,No,No,More than 1000,,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+1268,20,Male,0,United States of America,United States of America,No,No,No,More than 1000,,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 1269,41,male,0,United States of America,United States of America,Yes,Maybe,Maybe,More than 1000,I don't know,No,Yes,Maybe,0,Yes,
 1270,33,female,0,United States of America,United States of America,Yes,Yes,Yes,0-25,"Yes, they all did",Yes,Yes,Yes,1,Yes,
 1271,25,male,0,United States of America,United States of America,Yes,Maybe,Yes,26-100,I don't know,Yes,I don't know,Maybe,1,Yes,
@@ -1278,20 +1278,20 @@
 1276,44,Man,1,United Kingdom,United Kingdom,I don't know,No,Maybe,,"No, none did",No,,,1,,1
 1277,30,female,1,Netherlands,Netherlands,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 1278,31,male,0,Denmark,Denmark,Yes,No,No,0-25,"No, none did",No,No,Yes,0,Yes,
-1279,37,Male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,NaN,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Yes,
-1280,42,Male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1279,37,Male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,NaN,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Yes,
+1280,42,Male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,0-25,"No, none did",Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 1281,35,Male,1,Canada,Canada,I don't know,Maybe,Maybe,,I don't know,No,,,0,,1
 1282,30,M,0,United States of America,United States of America,Yes,No,Yes,26-100,Some did,Yes,I don't know,No,1,Maybe,
 1283,30,male,0,Canada,Canada,No,No,No,More than 1000,"Yes, they all did",No,Yes,No,0,No,
 1284,33,Male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,Some did,No,Yes,Maybe,1,No,
-1285,31,Male,0,United States of America,United States of America,I don't know,Maybe,No,More than 1000,I don't know,No,Not eligible for coverage / N/A,Maybe,1,No,
+1285,31,Male,0,United States of America,United States of America,I don't know,Maybe,No,More than 1000,I don't know,No,Not eligible for coverage / NA,Maybe,1,No,
 1286,39,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,No,1,No,
 1287,27,m,0,Germany,Germany,No,No,No,26-100,"No, none did",No,No,Yes,0,Yes,
 1288,34,male,1,United Kingdom,United Kingdom,No,Yes,Yes,,"No, none did",Yes,,,1,,1
 1289,31,Male,0,United States of America,United States of America,No,No,No,0-25,"Yes, they all did",No,No,No,0,No,
 1290,30,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,"Yes, they all did",Yes,Yes,Maybe,1,No,
 1291,34,male,0,United States of America,United States of America,Yes,Yes,Yes,26-100,Some did,Yes,Yes,Maybe,1,Yes,
-1292,20,female-bodied; no feelings about gender,0,Canada,Canada,I don't know,Maybe,Maybe,0-25,,No,Not eligible for coverage / N/A,Maybe,0,No,
+1292,20,female-bodied; no feelings about gender,0,Canada,Canada,I don't know,Maybe,Maybe,0-25,,No,Not eligible for coverage / NA,Maybe,0,No,
 1293,39,Male,1,United States of America,United States of America,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
 1294,50,female,0,United States of America,United States of America,Yes,Maybe,Yes,More than 1000,Some did,Yes,I don't know,No,1,No,
 1295,22,Male,0,United States of America,United States of America,Yes,Yes,No,NaN,,No,No,No,0,No,
@@ -1327,7 +1327,7 @@
 1325,56,M,0,United States of America,United States of America,No,Yes,Yes,100-500,"No, none did",Yes,Yes,Yes,1,Yes,
 1326,53,female,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,1
 1327,48,f,1,United States of America,United States of America,Yes,Yes,Yes,,"Yes, they all did",Yes,,,1,,1
-1328,24,male,0,United Kingdom,United Kingdom,No,No,No,26-100,,No,Not eligible for coverage / N/A,Yes,0,Yes,
+1328,24,male,0,United Kingdom,United Kingdom,No,No,No,26-100,,No,Not eligible for coverage / NA,Yes,0,Yes,
 1329,37,Male,0,Ireland,Ireland,No,Yes,Yes,More than 1000,"No, none did",No,No,No,0,No,
 1330,27,female,0,United States of America,United States of America,Yes,Yes,Yes,26-100,,Yes,No,Yes,1,Maybe,
 1331,39,female,0,United States of America,United States of America,Yes,Yes,Yes,NaN,I don't know,Yes,I don't know,Maybe,1,Yes,
@@ -1335,9 +1335,9 @@
 1333,34,Male,0,United States of America,United States of America,Yes,Yes,Yes,100-500,Some did,No,Yes,No,1,No,
 1334,33,Male,0,United Kingdom,United Kingdom,Yes,Yes,Yes,More than 1000,"No, none did",Yes,No,Yes,1,Yes,
 1335,22,Male,0,United Kingdom,United Kingdom,I don't know,Yes,Yes,NaN,,No,No,No,0,No,
-1336,25,Female,0,United Kingdom,United Kingdom,I don't know,No,No,0-25,I don't know,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+1336,25,Female,0,United Kingdom,United Kingdom,I don't know,No,No,0-25,I don't know,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 1337,34,Male,0,United Kingdom,United Kingdom,No,No,No,More than 1000,Some did,No,I don't know,Maybe,0,Maybe,
-1338,30,male,0,United Kingdom,United Kingdom,Yes,Maybe,Maybe,0-25,,No,Not eligible for coverage / N/A,Maybe,0,No,
+1338,30,male,0,United Kingdom,United Kingdom,Yes,Maybe,Maybe,0-25,,No,Not eligible for coverage / NA,Maybe,0,No,
 1339,37,male,0,United Kingdom,United Kingdom,I don't know,Maybe,Yes,26-100,Some did,Yes,No,Maybe,1,Maybe,
 1340,26,Male,0,Chile,Chile,No,Yes,Yes,0-25,"No, none did",No,No,No,0,No,
 1341,29,female,0,United States of America,United States of America,No,Maybe,Yes,More than 1000,Some did,Yes,Yes,Maybe,1,Yes,
@@ -1359,7 +1359,7 @@
 1357,33,Male,0,United States of America,United States of America,No,No,No,26-100,I don't know,No,Yes,Yes,0,Yes,
 1358,28,Male,0,United States of America,United States of America,I don't know,Yes,No,100-500,Some did,Yes,Yes,Yes,1,Yes,
 1359,22,Female,0,United States of America,United States of America,I don't know,Maybe,Maybe,More than 1000,,No,I don't know,Maybe,1,Maybe,
-1360,46,Male,0,Germany,Germany,Yes,Maybe,Yes,100-500,"No, none did",Yes,Not eligible for coverage / N/A,Maybe,1,No,
+1360,46,Male,0,Germany,Germany,Yes,Maybe,Yes,100-500,"No, none did",Yes,Not eligible for coverage / NA,Maybe,1,No,
 1361,30,Male,0,United States of America,United States of America,I don't know,Maybe,Maybe,26-100,Some did,No,Yes,Maybe,0,Maybe,
 1362,29,Male,0,United States of America,United States of America,No,Yes,No,26-100,"No, none did",Yes,I don't know,Maybe,1,Maybe,
 1363,22,Male,0,United States of America,United States of America,Yes,Yes,No,100-500,,No,I don't know,No,0,No,
@@ -1376,13 +1376,13 @@
 1374,31,AFAB,1,United States of America,United States of America,No,Yes,Yes,,Some did,Yes,,,1,,1
 1375,23,male,0,United States of America,United States of America,I don't know,Yes,Yes,More than 1000,,Yes,No,No,1,No,
 1376,30,male,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,I don't know,Yes,Yes,No,1,No,
-1377,28,male,0,France,France,Yes,No,No,0-25,I don't know,No,Not eligible for coverage / N/A,Yes,0,No,
+1377,28,male,0,France,France,Yes,No,No,0-25,I don't know,No,Not eligible for coverage / NA,Yes,0,No,
 1378,23,Female,0,Ireland,Ireland,Yes,Yes,Yes,More than 1000,"No, none did",Yes,Yes,No,0,No,
 1379,26,Female ,0,United States of America,United States of America,Yes,Yes,Maybe,26-100,"Yes, they all did",Yes,Yes,Maybe,1,Yes,
 1380,24,Female,0,United States of America,United States of America,Yes,Maybe,Yes,26-100,Some did,Yes,Yes,Maybe,1,Maybe,
 1381,32,Male,0,United States of America,United States of America,No,No,No,More than 1000,"No, none did",No,Yes,No,0,Maybe,
 1382,35,Male,1,United States of America,United States of America,Yes,Yes,Yes,,Some did,Yes,,,1,,1
-1383,30,Male,0,Estonia,Estonia,No,Maybe,Yes,100-500,"No, none did",No,Not eligible for coverage / N/A,Yes,0,Yes,
+1383,30,Male,0,Estonia,Estonia,No,Maybe,Yes,100-500,"No, none did",No,Not eligible for coverage / NA,Yes,0,Yes,
 1384,32,male,0,United States of America,United States of America,No,Yes,Yes,26-100,Some did,Yes,Yes,No,1,Maybe,
 1385,35,Male,0,United States of America,United States of America,No,Maybe,Yes,0-25,,Yes,Yes,No,1,No,
 1386,26,F,0,United States of America,United States of America,I don't know,Maybe,Maybe,26-100,I don't know,Yes,I don't know,No,1,No,
@@ -1391,8 +1391,8 @@
 1389,39,male,0,Canada,Canada,No,No,No,More than 1000,"No, none did",No,I don't know,Yes,0,Yes,
 1390,37,Male,0,United Kingdom,United Kingdom,Yes,Maybe,Yes,More than 1000,I don't know,Yes,I don't know,No,1,Maybe,
 1391,35,M,0,United States of America,United States of America,No,No,No,26-100,"Yes, they all did",No,Yes,No,0,No,
-1392,25,Female,0,United States of America,United States of America,Yes,Yes,Yes,NaN,"Yes, they all did",Yes,Not eligible for coverage / N/A,No,1,No,
-1393,22,Agender,0,United States of America,United States of America,Yes,Maybe,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / N/A,Yes,1,Maybe,
+1392,25,Female,0,United States of America,United States of America,Yes,Yes,Yes,NaN,"Yes, they all did",Yes,Not eligible for coverage / NA,No,1,No,
+1393,22,Agender,0,United States of America,United States of America,Yes,Maybe,Yes,More than 1000,"No, none did",Yes,Not eligible for coverage / NA,Yes,1,Maybe,
 1394,33,Male,0,United Kingdom,United Kingdom,Yes,Maybe,Yes,26-100,"Yes, they all did",Yes,Yes,Maybe,1,Maybe,
 1395,23,male ,0,United States of America,United States of America,Yes,Yes,Yes,NaN,,Yes,Yes,Maybe,1,No,
 1396,29,male,1,Brazil,Brazil,Yes,Yes,Yes,,"No, none did",Yes,,,1,,1
@@ -1411,10 +1411,10 @@
 1409,36,Male,0,United Kingdom,United Kingdom,I don't know,Yes,No,100-500,Some did,Yes,Yes,Maybe,1,Yes,
 1410,38,Male,0,Belgium,Belgium,No,Yes,Maybe,26-100,I don't know,Yes,I don't know,No,1,No,
 1411,22,Female,0,United States of America,United States of America,No,Yes,Yes,0-25,,Yes,Yes,No,1,No,
-1412,24,male,0,United States of America,United States of America,No,No,No,NaN,,No,Not eligible for coverage / N/A,Maybe,0,Maybe,
+1412,24,male,0,United States of America,United States of America,No,No,No,NaN,,No,Not eligible for coverage / NA,Maybe,0,Maybe,
 1413,24,female,0,United States of America,United States of America,Yes,Yes,Yes,100-500,"No, none did",Yes,Yes,Yes,1,Yes,
 1414,36,female,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,"Yes, they all did",Yes,Yes,Yes,1,Maybe,
-1415,24,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,,Yes,Not eligible for coverage / N/A,Maybe,1,No,
+1415,24,Female,0,United States of America,United States of America,Yes,Yes,Yes,More than 1000,,Yes,Not eligible for coverage / NA,Maybe,1,No,
 1416,24,Male,0,United States of America,United States of America,No,No,No,500-1000,,No,No,No,0,Maybe,
 1417,31,Male,0,Netherlands,Netherlands,Yes,Yes,Yes,26-100,,Yes,No,No,1,No,
 1418,39,M,0,United Kingdom,United Kingdom,No,Yes,Yes,26-100,I don't know,Yes,Yes,No,0,No,
@@ -1423,7 +1423,7 @@
 1421,37,male,0,Estonia,Estonia,I don't know,No,No,26-100,"No, none did",No,No,Yes,0,Maybe,
 1422,30,male,0,United States of America,Canada,No,No,No,26-100,"Yes, they all did",No,I don't know,Maybe,0,Maybe,
 1423,24,Male,0,Canada,Canada,No,No,No,100-500,,No,Yes,No,0,Maybe,
-1424,22,female,0,Canada,Canada,I don't know,Yes,Yes,100-500,I don't know,Yes,Not eligible for coverage / N/A,Maybe,1,Maybe,
+1424,22,female,0,Canada,Canada,I don't know,Yes,Yes,100-500,I don't know,Yes,Not eligible for coverage / NA,Maybe,1,Maybe,
 1425,24,Male,0,Canada,Canada,I don't know,Maybe,Maybe,100-500,Some did,No,Yes,Maybe,0,Yes,
 1426,26,Female,0,Canada,Canada,I don't know,Yes,Yes,100-500,I don't know,Yes,I don't know,Maybe,1,Maybe,
 1427,38,female,0,United States of America,United States of America,Yes,Yes,Yes,500-1000,Some did,Yes,Yes,Yes,1,Yes,
